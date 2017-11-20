@@ -4,6 +4,7 @@ chardet==3.0.4
 cloudpickle==0.5.1
 docutils==0.14
 doit==0.30.3
+ghp-import2==1.0.1
 idna==2.6
 Logbook==1.1.0
 lxml==4.1.1
