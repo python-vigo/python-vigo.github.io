@@ -1,0 +1,4 @@
+Sitemap: https://www.python-vigo.es/sitemapindex.xml
+
+User-Agent: *
+Host: www.python-vigo.es

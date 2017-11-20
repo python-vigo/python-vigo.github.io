@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="assets/xml/rss.xsl" media="all"?><rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>Python Vigo</title><link>https://www.python-vigo.es</link><description>Grupo Python Vigo</description><atom:link href="https://www.python-vigo.es/rss.xml" type="application/rss+xml" rel="self"></atom:link><language>es</language><copyright>Contents © 2017 &lt;a href="mailto:luisgf@luisgf.es"&gt;Python Vigo&lt;/a&gt; </copyright><lastBuildDate>Mon, 20 Nov 2017 21:23:40 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Reunión del Grupo el 23/11/2017</title><link>https://www.python-vigo.es/posts/reunion-del-grupo-el-23112017/</link><dc:creator>Python Vigo</dc:creator><description>&lt;div&gt;&lt;p&gt;¡Buenas!&lt;/p&gt;
+&lt;p&gt;¡¡Ya casi está aquí la reunión de este mes!!&lt;/p&gt;
+&lt;p&gt;Recordamos que, como excepción a nuestra regla, este mes la desplazamos al 4º jueves,
+es decir al día 23 de noviembre, a las 20:00 en el &lt;a class="reference external" href="http://www.kaleidocoworking.com/"&gt;coworking de Kaleido&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Los puntos de esta reuníón serán:&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;&lt;strong&gt;"Entornos Virtuales"&lt;/strong&gt; por Miguel González Álvarez:
+Ya tenemos Python instalado y con sus pilas incluidas. Ahora queremos instalar
+una librería externa y la documentación nos habla de crear un entorno virtual.
+¿Qué es? ¿Para qué sirve? ¿Cómo se crea? En la charla haremos una introducción histórica
+y hablaremos de herramientas veteranas como &lt;em&gt;virtualenv&lt;/em&gt; y &lt;em&gt;virtualenvwrapper&lt;/em&gt; y de otras más
+recientes como &lt;em&gt;pipsi&lt;/em&gt;, &lt;em&gt;pew&lt;/em&gt; y &lt;em&gt;pipenv&lt;/em&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;"La serpiente y el ratón: desarrollo de un robot 'micromouse' con Python (y algo de C)"&lt;/strong&gt; por
+Clara Casas Castedo y Miguel Sánchez de León Peque:
+Los recientes ganadores de la competición "Laberinto" de la pasada &lt;a class="reference external" href="https://oshwdem.org/competiciones-2017/"&gt;OSHWDem&lt;/a&gt;
+nos contarán de primera mano el desarrollo de &lt;em&gt;Bule Bule&lt;/em&gt;, el microrobot autónomo con el que consiguieron ser más rápidos
+que ningún contrincante.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Charlas relámpago&lt;/strong&gt; [1]&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Debate abierto&lt;/strong&gt; [2]:
+El debate abierto dependerá del tiempo que nos quede al final de la reunión, como hicimos en la reunión pasada ;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Y recordad que todavía estáis a tiempo de preparar una charla relámpago!!&lt;/p&gt;
+&lt;p&gt;Nos vemos el jueves!&lt;/p&gt;
+&lt;p&gt;[1] MECÁNICA DE LAS CHARLAS RELÁMPAGO&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Charla de 5 minutos de reloj sobre cualquier tema de python o relacionado&lt;/li&gt;
+&lt;li&gt;Cuando se acaba el tiempo, la gente empieza a aplaudir (aunque el ponente no haya acabado)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;[2] MECÁNICA DEL DEBATE ABIERTO&lt;/p&gt;
+&lt;ol class="arabic simple"&gt;
+&lt;li&gt;Proponemos temas que nos interesen&lt;/li&gt;
+&lt;li&gt;Votamos como grupo los que más nos interesa que se debatan/expliquen&lt;/li&gt;
+&lt;li&gt;Les dedicamos a los más votados un debate de 5 minutos prorrogrables otros 5 minutos si el tema interesa al grupo&lt;/li&gt;
+&lt;/ol&gt;
+&lt;img alt="/ubicacionkaleidocoworking.png" src="https://www.python-vigo.es/ubicacionkaleidocoworking.png"&gt;&lt;/div&gt;</description><guid>https://www.python-vigo.es/posts/reunion-del-grupo-el-23112017/</guid><pubDate>Wed, 15 Nov 2017 13:25:12 GMT</pubDate></item><item><title>Reunión del Grupo el 19/10/2017</title><link>https://www.python-vigo.es/posts/reunion-del-grupo-el-19102017/</link><dc:creator>Python Vigo</dc:creator><description>&lt;div&gt;&lt;p&gt;¡Buenas!&lt;/p&gt;
+&lt;p&gt;Como viene siendo habitual, el tercer jueves de cada mes nos reunimos, así que
+el próximo día 19 de octubre, a las 20:00, pasaos por el &lt;a class="reference external" href="http://www.kaleidocoworking.com/"&gt;coworking de Kaleido&lt;/a&gt; para:&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Escuchar a Daniel Sánchez hablar sobre "Iniciación a Python!"&lt;/li&gt;
+&lt;li&gt;&lt;dl class="first docutils"&gt;
+&lt;dt&gt;Debate abierto con la mecánica ya utilizada en otras ocasiones:&lt;/dt&gt;
+&lt;dd&gt;&lt;ol class="first last arabic"&gt;
+&lt;li&gt;Proponemos temas que nos interesen&lt;/li&gt;
+&lt;li&gt;Votamos como grupo los que más nos interesan&lt;/li&gt;
+&lt;li&gt;Les dedicamos a los más votados un debate de 5 minutos prorrogrables si el tema interesa al grupo&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/dd&gt;
+&lt;/dl&gt;
+&lt;/li&gt;
+&lt;li&gt;Y como no, también habrá tiempo para quien quiera dar una charla relámpago.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;¡Saludos!&lt;/p&gt;
+&lt;img alt="/ubicacionkaleidocoworking.png" src="https://www.python-vigo.es/ubicacionkaleidocoworking.png"&gt;&lt;/div&gt;</description><guid>https://www.python-vigo.es/posts/reunion-del-grupo-el-19102017/</guid><pubDate>Wed, 18 Oct 2017 19:11:38 GMT</pubDate></item><item><title>Reunión del Grupo el 28/09/2017</title><link>https://www.python-vigo.es/posts/reunion-del-grupo-28092017/</link><dc:creator>Python Vigo</dc:creator><description>&lt;div&gt;&lt;p&gt;¡Hola!&lt;/p&gt;
+&lt;p&gt;El próximo jueves 28 a las 20:00 nos juntamos en el &lt;a class="reference external" href="http://www.kaleidocoworking.com/"&gt;coworking de Kaleido&lt;/a&gt; para una nueva reunión del grupo.&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Hablaremos y comentaremos sobre las charlas y la experiencia de la &lt;a class="reference external" href="https://2017.es.pycon.org/es/schedule/"&gt;PyConES 2017&lt;/a&gt; (podéis verlas en el canal de Python España).&lt;/li&gt;
+&lt;li&gt;Es "principio de curso" y podríamos aprovechar también para comentar próximos pasos del grupo.&lt;/li&gt;
+&lt;li&gt;Y, por supuesto, siempre hay sitio para quien se anime a dar una charla relámpago ;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;¡Un saludo!&lt;/p&gt;
+&lt;img alt="/ubicacionkaleidocoworking.png" src="https://www.python-vigo.es/ubicacionkaleidocoworking.png"&gt;&lt;/div&gt;</description><guid>https://www.python-vigo.es/posts/reunion-del-grupo-28092017/</guid><pubDate>Wed, 27 Sep 2017 06:13:55 GMT</pubDate></item><item><title>Reunión del Grupo el 20/07/2017</title><link>https://www.python-vigo.es/posts/reunion-del-grupo-el-20072017/</link><dc:creator>Python Vigo</dc:creator><description>&lt;div&gt;&lt;p&gt;¡Hola pythonian@s!&lt;/p&gt;
+&lt;p&gt;Después de la resaca del &lt;a class="reference external" href="https://pyday2017.python-vigo.es"&gt;PyDay Galicia 2017&lt;/a&gt;, el próximo jueves 20 de julio, tercer jueves del
+mes y puntual a su cita, habrá reunión del grupo de usuarios de Python Vigo de 20:00 a
+21:30 en &lt;a class="reference external" href="http://www.kaleidocoworking.com/"&gt;Kaleido Coworking&lt;/a&gt; en la plaza interior de la calle Roupeiro.&lt;/p&gt;
+&lt;p&gt;Haremos una jornada con charlas relámpago ( ~5' c/u), y aunque ya tenemos algunas previstas, damos
+la más calurosa bienvenida a quien desee presentar la suya también, bastando con que te presentes
+el propio día y nos cuentes lo que quieras:&lt;/p&gt;
+&lt;ol class="arabic simple"&gt;
+&lt;li&gt;&lt;strong&gt;Type Hinting básico&lt;/strong&gt;, por Xurxo Fresco&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Brujería con Numpy.einsum&lt;/strong&gt;, por David de la Iglesia&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Resolviendo la kata Args con TDD&lt;/strong&gt;, por Javier Sánchez&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Rompiendo VirtualEnv desde el Kernel: shebang&lt;/strong&gt;, por Miguel Gesteiro&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Algoritmo Binary Search&lt;/strong&gt;, por Antón Yuste&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Great balls of fire (Visualizando datos con Dash)&lt;/strong&gt;, por Iván Nieto&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;This summer master the mosquittos&lt;/strong&gt;, por Alex Hermida&lt;/li&gt;
+&lt;li&gt;... esta puede ser la tuya ;) ;)&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Por cierto, estamos preparando una sorpresita veraniega antes de marcharnos de vacaciones hasta
+septiembre, ¡a ver si lo conseguimos!&lt;/p&gt;
+&lt;p&gt;¡Nos vemos!&lt;/p&gt;
+&lt;img alt="/ubicacionkaleidocoworking.png" src="https://www.python-vigo.es/ubicacionkaleidocoworking.png"&gt;&lt;/div&gt;</description><guid>https://www.python-vigo.es/posts/reunion-del-grupo-el-20072017/</guid><pubDate>Thu, 13 Jul 2017 12:38:51 GMT</pubDate></item><item><title>Reunión del Grupo el 18/05/2017</title><link>https://www.python-vigo.es/posts/reunion-del-grupo-el-18052017/</link><dc:creator>Python Vigo</dc:creator><description>&lt;div&gt;&lt;p&gt;¡Hola pythonist@s!&lt;/p&gt;
+&lt;p&gt;El próximo jueves 18 de mayo, tercer jueves del mes y puntual a su cita, habrá reunión del grupo de usuarios
+de Python Vigo de 20:00 a 21:30 en &lt;a class="reference external" href="http://www.kaleidocoworking.com/"&gt;Kaleido Coworking&lt;/a&gt; en la plaza interior de la calle
+Roupeiro.&lt;/p&gt;
+&lt;p&gt;Tendremos tiempo para charlas relámpago y hablaremos de las últimas novedades sobre el
+&lt;a class="reference external" href="https://pyday2017.python-vigo.es"&gt;PyDay Galicia 2017&lt;/a&gt; que se celebrará el próximo 10 de junio.&lt;/p&gt;
+&lt;p&gt;¡Nos vemos!&lt;/p&gt;
+&lt;img alt="/ubicacionkaleidocoworking.png" src="https://www.python-vigo.es/ubicacionkaleidocoworking.png"&gt;&lt;/div&gt;</description><guid>https://www.python-vigo.es/posts/reunion-del-grupo-el-18052017/</guid><pubDate>Wed, 17 May 2017 19:11:12 GMT</pubDate></item><item><title>Reunión del Grupo el 20/04/2017</title><link>https://www.python-vigo.es/posts/reunion-del-grupo-el-20042017/</link><dc:creator>Python Vigo</dc:creator><description>&lt;div&gt;&lt;p&gt;¡Hola pythonistas!&lt;/p&gt;
+&lt;p&gt;La próxima reunión será este jueves 20 de abril a las
+20:00 en &lt;a class="reference external" href="http://www.kaleidocoworking.com/"&gt;Kaleido Coworking&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Este mes no tenemos ninguna charla completa así que haremos una sesión de charlas
+relámpago: aunque ya tenemos tres adjudicadas, será una sesión semi-improvisada
+por lo que quedará tiempo después, así que anímate y ven a presentarnos lo
+que te apetezca, una librería, tu idea/proyecto o la última locura que se te
+ocurrió, ¡serás más que bienvenido y  bien recibido!&lt;/p&gt;
+&lt;p&gt;Hasta ahora:&lt;/p&gt;
+&lt;ol class="arabic simple"&gt;
+&lt;li&gt;&lt;strong&gt;ESCORNABOT WIFI&lt;/strong&gt; (presentación en primicia):  maneja tu Escornabot desde/con
+Python. Por Miguel Gesteiro.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;APIS de Machine Learning&lt;/strong&gt;: como usarlas desde Python. Por David de la
+Iglesia.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Codenamize&lt;/strong&gt;: presentación de la librería. Por José Juan Montes.&lt;/li&gt;
+&lt;li&gt;... se decidirán justo antes de comenzar el evento.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Al acabar las charlas, Alex Hermida nos hablará sobre los avances del evento
+que vamos a celebrar desde Python Vigo para el PyDay.&lt;/p&gt;
+&lt;p&gt;¡No te lo puedes perder!&lt;/p&gt;
+&lt;img alt="/ubicacionkaleidocoworking.png" src="https://www.python-vigo.es/ubicacionkaleidocoworking.png"&gt;&lt;/div&gt;</description><category>python</category><category>vigo</category><guid>https://www.python-vigo.es/posts/reunion-del-grupo-el-20042017/</guid><pubDate>Wed, 19 Apr 2017 12:00:00 GMT</pubDate></item><item><title>Reunión del Grupo el 16/03/2017</title><link>https://www.python-vigo.es/posts/reunion-del-grupo-el-16032017/</link><dc:creator>Python Vigo</dc:creator><description>&lt;div&gt;&lt;p&gt;¡Hola pythonistas!&lt;/p&gt;
+&lt;p&gt;Como siempre, sonando ya la bocina, convocamos oficialmente la reunión de marzo del grupo de usuarios de Python Vigo.&lt;/p&gt;
+&lt;p&gt;La próxima reunión será este jueves 16 a las 20:00 en la el &lt;a class="reference external" href="http://www.kaleidocoworking.com/"&gt;Kaleido Coworking&lt;/a&gt; [1].&lt;/p&gt;
+&lt;p&gt;Tendremos una charla sobre &lt;strong&gt;"Cómo publicar tu proyecto de Python"&lt;/strong&gt; en el que Miguel Sánchez de León Peque nos contará como apoyarse en GitHub, Travis, Codecov, Readthedocs, pypi, tox... y demás herramientas para dar a conocer tu proyecto de software libre basado en Python.&lt;/p&gt;
+&lt;p&gt;Además tenemos programadas las siguientes &lt;strong&gt;charlas relámpago&lt;/strong&gt;:&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;structlog, por Eloy Coto&lt;/li&gt;
+&lt;li&gt;jython, por Antón R. Yuste&lt;/li&gt;
+&lt;li&gt;oklog, por José COrral&lt;/li&gt;
+&lt;li&gt;markdown-reveal, por Miguel Sánchez de León Peque&lt;/li&gt;
+&lt;li&gt;redes neuronales convolucionales con Python, por David de la Iglesia&lt;/li&gt;
+&lt;li&gt;logging, por  alguien de Initios :-D&lt;/li&gt;
+&lt;li&gt;y seguro que más gente se anima.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;¡Nos vemos el jueves!&lt;/p&gt;
+&lt;p&gt;Referencias:&lt;/p&gt;
+&lt;p&gt;1: Cómo llegar a &lt;a class="reference external" href="http://www.kaleidocoworking.com/"&gt;Kaleido Coworking&lt;/a&gt;&lt;/p&gt;
+&lt;img alt="/ubicacionkaleidocoworking.png" src="https://www.python-vigo.es/ubicacionkaleidocoworking.png"&gt;&lt;/div&gt;</description><category>python</category><category>vigo</category><guid>https://www.python-vigo.es/posts/reunion-del-grupo-el-16032017/</guid><pubDate>Mon, 13 Mar 2017 11:23:02 GMT</pubDate></item><item><title>Reunión del Grupo el 16/02/2017</title><link>https://www.python-vigo.es/posts/reunion-del-grupo-el-16022017/</link><dc:creator>Python Vigo</dc:creator><description>&lt;div&gt;&lt;p&gt;La próxima reunión será este jueves 16 de febrero a las
+20:00 en &lt;a class="reference external" href="http://www.kaleidocoworking.com/"&gt;Kaleido Coworking&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;En esta sesión tendremos dos partes:&lt;/p&gt;
+&lt;ol class="arabic simple"&gt;
+&lt;li&gt;&lt;strong&gt;Charlas relámpago&lt;/strong&gt; (lightning talks): 20 minutos para hasta cuatro
+micro-charlas (5') que se propondran al comienzo de la reunión. Si
+tienes algún tema que te gustaría contar, esta será tu oportunidad.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Taller práctico&lt;/strong&gt;: nos dividiremos en distintos grupos según el nivel
+para realizar distintas tareas, desde iniciación a Python, GIT, etc.
+para los más noveles, hasta la realización del segundo mini-sprint
+para el proyecto SoundPhy (&lt;a class="reference external" href="https://github.com/Soundphy/soundphy"&gt;https://github.com/Soundphy/soundphy&lt;/a&gt;).&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;¡No faltéis!&lt;/p&gt;
+&lt;img alt="/ubicacionkaleidocoworking.png" src="https://www.python-vigo.es/ubicacionkaleidocoworking.png"&gt;&lt;/div&gt;</description><category>python</category><category>vigo</category><guid>https://www.python-vigo.es/posts/reunion-del-grupo-el-16022017/</guid><pubDate>Wed, 15 Feb 2017 15:17:37 GMT</pubDate></item><item><title>Reunión del Grupo el 19/01/2017</title><link>https://www.python-vigo.es/posts/reunion-19012017/</link><dc:creator>Luis González Fernández</dc:creator><description>&lt;div&gt;&lt;p&gt;¡Hola pythonistas!&lt;/p&gt;
+&lt;p&gt;Queda convocada la próxima reunión del grupo para el jueves 19 de enero de 2017
+a las 20:00 en &lt;a class="reference external" href="http://www.kaleidocoworking.com/"&gt;Kaleido Coworking&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Tendremos una charla y espacio para charlas relámpago y una sesión de preguntas
+abiertas como en la reunión del diciembre. (Enlace a &lt;a class="reference external" href="https://www.youtube.com/channel/UCTUXabChakosnupWEnz4xTA"&gt;YouTube&lt;/a&gt;)&lt;/p&gt;
+&lt;p&gt;Con respecto a la charla:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p class="first"&gt;Título: "Python de andar por casa: baja y sincroniza los subs para tu serie
+favorita"&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p class="first"&gt;Ponente: &lt;strong&gt;Miguel Gesteiro&lt;/strong&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Sinopsis: ¿Te aburre tener que buscar, descargar, descomprimir y
+resincronizar los subtítulos para cada uno de los 46 capítulos que te
+faltan por ver de tu serie favorita? Si la respuesta es "sí", esta charla
+es para ti. Python es sencillo, rápido y muy práctico para automatizar
+pequeñas tareas repetitivas y pesadas que siempre da pereza abordar, la
+herramienta perfecta para este caso. En la charla contaré cómo lo hice,
+usando «Python-de-andar-por-casa™» y de forma totalmente práctica,
+ilustrando un uso mucho más directo, simplista, rápido y nada sofisticado
+de Python, tocando un poco de todo (http, zip, ficheros, fechas,
+codificación, etc.) y explicando también dónde metí la pata.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;En cuanto a las lightning talks, la lista es abierta. Al llegar tendremos una
+pizarra disponible para que los que queráis os apuntéis.&lt;/p&gt;
+&lt;p&gt;¡Nos vemos el jueves!&lt;/p&gt;
+&lt;p&gt;Referencias:&lt;/p&gt;
+&lt;p&gt;1: &lt;a class="reference external" href="https://www.python-vigo.es/kaleido-coworking-center-map.png"&gt;Como llegar&lt;/a&gt; a Kaleido Coworking&lt;/p&gt;
+&lt;p&gt;2: Se puede ver parte de la reunión de diciembre en el canal de &lt;a class="reference external" href="https://www.youtube.com/channel/UCTUXabChakosnupWEnz4xTA"&gt;Youtube&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description><guid>https://www.python-vigo.es/posts/reunion-19012017/</guid><pubDate>Wed, 11 Jan 2017 07:00:00 GMT</pubDate></item><item><title>Reunión del grupo el 15/12/2016</title><link>https://www.python-vigo.es/posts/reunion-del-grupo-el-15122016/</link><dc:creator>Miguel González</dc:creator><description>&lt;div&gt;&lt;p&gt;Recordad que la próxima reunión será este jueves 15 de diciembre a las
+20:00 en &lt;a class="reference external" href="http://www.kaleidocoworking.com/"&gt;Kaleido Coworking&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;En la última reunión del grupo se comentó probar un nuevo formato para la
+sesión de diciembre. En esta reunión organizaremos una sesión de preguntas
+y respuestas con una metodología estilo &lt;em&gt;agile&lt;/em&gt;. Al arrancar la reunión se
+plantean preguntas de todo tipo. Se votan las cuestiones para establecer el
+orden en que se formularan. Y se van planteando y debatiendo en el orden
+establecido entre el público asistente. Pasados 5/10 minutos se hace un
+sondeo, pulgares arriba se continúa con el tema, pulgares abajo, se pasa a
+la siguiente.&lt;/p&gt;
+&lt;p&gt;Al final de la sesión de "preguntas y respuestas", se mantendrá el espacio
+para &lt;em&gt;lightning talks&lt;/em&gt; que tanto éxito tuvo en la reunión pasada.&lt;/p&gt;
+&lt;img alt="/kaleido-coworking-center-map.png" src="https://www.python-vigo.es/kaleido-coworking-center-map.png"&gt;&lt;/div&gt;</description><category>python</category><category>vigo</category><guid>https://www.python-vigo.es/posts/reunion-del-grupo-el-15122016/</guid><pubDate>Sun, 11 Dec 2016 17:12:01 GMT</pubDate></item></channel></rss>
