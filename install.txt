@@ -1,0 +1,16 @@
+Instalar Python-Vigo en local
+-----------------------------
+1. clonamos el repositorio:
+	git clone https://github.com/python-vigo/python-vigo.github.io.git
+
+2. creamos un entorno virtual y lo activamos:
+	python3 -m venv venv
+	source venv/bin/activate
+	pip install --upgrade pip
+
+3. instalamos Nikola y sus dependencias:
+	cd python-vigo.github.io/
+	git checkout src   (para cambiar a la rama "src")
+	pip install -r requirements_xxx.txt   (xxx=linux|osx)
+4. listo
+	nikola  (para obtener ayuda)
