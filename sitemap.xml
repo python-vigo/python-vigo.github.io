@@ -7,198 +7,238 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>https://www.python-vigo.es/</loc>
-  <lastmod>2017-11-24T02:16:00Z</lastmod>
+  <lastmod>2018-09-06T17:57:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.python-vigo.es/2015/</loc>
-  <lastmod>2017-11-24T02:16:00Z</lastmod>
+  <lastmod>2018-09-06T17:57:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.python-vigo.es/2016/</loc>
-  <lastmod>2017-11-24T02:16:00Z</lastmod>
+  <lastmod>2018-09-06T17:57:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.python-vigo.es/2017/</loc>
-  <lastmod>2017-11-24T02:16:00Z</lastmod>
+  <lastmod>2018-09-06T17:57:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://www.python-vigo.es/2018/</loc>
+  <lastmod>2018-09-06T17:57:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.python-vigo.es/archive.html</loc>
-  <lastmod>2017-11-24T02:16:00Z</lastmod>
+  <lastmod>2018-09-06T17:57:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.python-vigo.es/authors/</loc>
-  <lastmod>2017-11-24T02:16:00Z</lastmod>
+  <lastmod>2018-09-06T17:57:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.python-vigo.es/authors/luis-gonzalez-fernandez/</loc>
-  <lastmod>2017-11-24T02:16:00Z</lastmod>
+  <lastmod>2018-09-06T17:57:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.python-vigo.es/authors/miguel-gonzalez/</loc>
-  <lastmod>2017-11-24T02:16:00Z</lastmod>
+  <lastmod>2018-09-06T17:57:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.python-vigo.es/authors/python-vigo/</loc>
-  <lastmod>2017-11-24T02:16:00Z</lastmod>
+  <lastmod>2018-09-06T17:57:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.python-vigo.es/categorias/</loc>
-  <lastmod>2017-11-24T02:16:00Z</lastmod>
+  <lastmod>2018-09-06T17:57:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.python-vigo.es/categorias/diciembre/</loc>
-  <lastmod>2017-11-24T02:16:00Z</lastmod>
+  <lastmod>2018-09-06T17:57:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.python-vigo.es/categorias/errbot/</loc>
-  <lastmod>2017-11-24T02:16:00Z</lastmod>
+  <lastmod>2018-09-06T17:57:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.python-vigo.es/categorias/lista/</loc>
-  <lastmod>2017-11-24T02:16:00Z</lastmod>
+  <lastmod>2018-09-06T17:57:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.python-vigo.es/categorias/mailman/</loc>
-  <lastmod>2017-11-24T02:16:00Z</lastmod>
+  <lastmod>2018-09-06T17:57:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.python-vigo.es/categorias/python/</loc>
-  <lastmod>2017-11-24T02:16:00Z</lastmod>
+  <lastmod>2018-09-06T17:57:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.python-vigo.es/categorias/shell/</loc>
-  <lastmod>2017-11-24T02:16:00Z</lastmod>
+  <lastmod>2018-09-06T17:57:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.python-vigo.es/categorias/twitter/</loc>
-  <lastmod>2017-11-24T02:16:00Z</lastmod>
+  <lastmod>2018-09-06T17:57:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.python-vigo.es/categorias/vigo/</loc>
-  <lastmod>2017-11-24T02:16:00Z</lastmod>
+  <lastmod>2018-09-06T17:57:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.python-vigo.es/index-1.html</loc>
-  <lastmod>2017-11-24T02:16:00Z</lastmod>
+  <lastmod>2018-09-06T17:57:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.python-vigo.es/index-2.html</loc>
-  <lastmod>2017-11-24T02:16:00Z</lastmod>
+  <lastmod>2018-09-06T17:57:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://www.python-vigo.es/index-3.html</loc>
+  <lastmod>2018-09-06T17:57:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.python-vigo.es/posts/cuenta-de-twitter/</loc>
-  <lastmod>2017-11-24T02:16:00Z</lastmod>
+  <lastmod>2018-09-06T17:57:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.python-vigo.es/posts/lista-de-correo/</loc>
-  <lastmod>2017-11-24T02:16:00Z</lastmod>
+  <lastmod>2018-09-06T17:57:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.python-vigo.es/posts/reunion-15012015/</loc>
-  <lastmod>2017-11-24T02:16:00Z</lastmod>
+  <lastmod>2018-09-06T17:57:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.python-vigo.es/posts/reunion-16072015/</loc>
-  <lastmod>2017-11-24T02:16:00Z</lastmod>
+  <lastmod>2018-09-06T17:57:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.python-vigo.es/posts/reunion-17092015/</loc>
-  <lastmod>2017-11-24T02:16:00Z</lastmod>
+  <lastmod>2018-09-06T17:57:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.python-vigo.es/posts/reunion-18002016/</loc>
-  <lastmod>2017-11-24T02:16:00Z</lastmod>
+  <lastmod>2018-09-06T17:57:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.python-vigo.es/posts/reunion-19012017/</loc>
-  <lastmod>2017-11-24T02:16:00Z</lastmod>
+  <lastmod>2018-09-06T17:57:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.python-vigo.es/posts/reunion-19022015/</loc>
-  <lastmod>2017-11-24T02:16:00Z</lastmod>
+  <lastmod>2018-09-06T17:57:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.python-vigo.es/posts/reunion-19032015/</loc>
-  <lastmod>2017-11-24T02:16:00Z</lastmod>
+  <lastmod>2018-09-06T17:57:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.python-vigo.es/posts/reunion-del-grupo-28092017/</loc>
-  <lastmod>2017-11-24T02:16:00Z</lastmod>
+  <lastmod>2018-09-06T17:57:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://www.python-vigo.es/posts/reunion-del-grupo-el-15022018/</loc>
+  <lastmod>2018-09-06T17:57:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://www.python-vigo.es/posts/reunion-del-grupo-el-15032018/</loc>
+  <lastmod>2018-09-06T17:57:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.python-vigo.es/posts/reunion-del-grupo-el-15102015/</loc>
-  <lastmod>2017-11-24T02:16:00Z</lastmod>
+  <lastmod>2018-09-06T17:57:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.python-vigo.es/posts/reunion-del-grupo-el-15122016/</loc>
-  <lastmod>2017-11-24T02:16:00Z</lastmod>
+  <lastmod>2018-09-06T17:57:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.python-vigo.es/posts/reunion-del-grupo-el-16022017/</loc>
-  <lastmod>2017-11-24T02:16:00Z</lastmod>
+  <lastmod>2018-09-06T17:57:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.python-vigo.es/posts/reunion-del-grupo-el-16032017/</loc>
-  <lastmod>2017-11-24T02:16:00Z</lastmod>
+  <lastmod>2018-09-06T17:57:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.python-vigo.es/posts/reunion-del-grupo-el-16042015/</loc>
-  <lastmod>2017-11-24T02:16:00Z</lastmod>
+  <lastmod>2018-09-06T17:57:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.python-vigo.es/posts/reunion-del-grupo-el-16062016/</loc>
-  <lastmod>2017-11-24T02:16:00Z</lastmod>
+  <lastmod>2018-09-06T17:57:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.python-vigo.es/posts/reunion-del-grupo-el-17032016/</loc>
-  <lastmod>2017-11-24T02:16:00Z</lastmod>
+  <lastmod>2018-09-06T17:57:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://www.python-vigo.es/posts/reunion-del-grupo-el-18012018/</loc>
+  <lastmod>2018-09-06T17:57:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.python-vigo.es/posts/reunion-del-grupo-el-18052017/</loc>
-  <lastmod>2017-11-24T02:16:00Z</lastmod>
+  <lastmod>2018-09-06T17:57:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.python-vigo.es/posts/reunion-del-grupo-el-18062015/</loc>
-  <lastmod>2017-11-24T02:16:00Z</lastmod>
+  <lastmod>2018-09-06T17:57:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.python-vigo.es/posts/reunion-del-grupo-el-18122015/</loc>
-  <lastmod>2017-11-24T02:16:00Z</lastmod>
+  <lastmod>2018-09-06T17:57:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://www.python-vigo.es/posts/reunion-del-grupo-el-19042018/</loc>
+  <lastmod>2018-09-06T17:57:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.python-vigo.es/posts/reunion-del-grupo-el-19052016/</loc>
-  <lastmod>2017-11-24T02:16:00Z</lastmod>
+  <lastmod>2018-09-06T17:57:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://www.python-vigo.es/posts/reunion-del-grupo-el-19072018/</loc>
+  <lastmod>2018-09-06T17:57:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.python-vigo.es/posts/reunion-del-grupo-el-19102017/</loc>
-  <lastmod>2017-11-24T02:16:00Z</lastmod>
+  <lastmod>2018-09-06T17:57:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.python-vigo.es/posts/reunion-del-grupo-el-20042017/</loc>
-  <lastmod>2017-11-24T02:16:00Z</lastmod>
+  <lastmod>2018-09-06T17:57:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.python-vigo.es/posts/reunion-del-grupo-el-20072017/</loc>
-  <lastmod>2017-11-24T02:16:00Z</lastmod>
+  <lastmod>2018-09-06T17:57:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.python-vigo.es/posts/reunion-del-grupo-el-21012016/</loc>
-  <lastmod>2017-11-24T02:16:00Z</lastmod>
+  <lastmod>2018-09-06T17:57:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.python-vigo.es/posts/reunion-del-grupo-el-21042016/</loc>
-  <lastmod>2017-11-24T02:16:00Z</lastmod>
+  <lastmod>2018-09-06T17:57:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.python-vigo.es/posts/reunion-del-grupo-el-21052015/</loc>
-  <lastmod>2017-11-24T02:16:00Z</lastmod>
+  <lastmod>2018-09-06T17:57:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://www.python-vigo.es/posts/reunion-del-grupo-el-21062018/</loc>
+  <lastmod>2018-09-06T17:57:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://www.python-vigo.es/posts/reunion-del-grupo-el-21122017/</loc>
+  <lastmod>2018-09-06T17:57:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.python-vigo.es/posts/reunion-del-grupo-el-23112017/</loc>
-  <lastmod>2017-11-24T02:16:00Z</lastmod>
+  <lastmod>2018-09-06T17:57:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://www.python-vigo.es/posts/reunion-del-grupo-el-24052018/</loc>
+  <lastmod>2018-09-06T17:57:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.python-vigo.es/posts/reunion-del-grupo-el-26112015/</loc>
-  <lastmod>2017-11-24T02:16:00Z</lastmod>
+  <lastmod>2018-09-06T17:57:00Z</lastmod>
  </url>
 </urlset>
