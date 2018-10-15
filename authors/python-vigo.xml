@@ -1,5 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0"><channel><title>Python Vigo (Publicaciones de Python Vigo)</title><link>https://www.python-vigo.es</link><description></description><atom:link href="https://www.python-vigo.es/authors/python-vigo.xml" type="application/rss+xml" rel="self"></atom:link><language>es</language><copyright>Contents © 2018 &lt;a href="mailto:luisgf@luisgf.es"&gt;Python Vigo&lt;/a&gt; </copyright><lastBuildDate>Mon, 24 Sep 2018 19:12:37 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Reunión del Grupo el 20/09/2018</title><link>https://www.python-vigo.es/posts/reunion-del-grupo-el-20092018/</link><dc:creator>Python Vigo</dc:creator><description>&lt;div&gt;&lt;p&gt;¡¡Buenas!!&lt;/p&gt;
+<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Python Vigo (Publicaciones de Python Vigo)</title><link>https://www.python-vigo.es</link><description></description><atom:link rel="self" type="application/rss+xml" href="https://www.python-vigo.es/authors/python-vigo.xml"></atom:link><language>es</language><copyright>Contents © 2018 &lt;a href="mailto:luisgf@luisgf.es"&gt;Python Vigo&lt;/a&gt; </copyright><lastBuildDate>Mon, 15 Oct 2018 15:02:38 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Reunión del Grupo el 18/10/2018</title><link>https://www.python-vigo.es/posts/reunion-del-grupo-el-20181018/</link><dc:creator>Python Vigo</dc:creator><description>&lt;div&gt;&lt;p&gt;¡Hola!&lt;/p&gt;
+&lt;p&gt;Este jueves día 18 de octubre, tenemos reunión de PythonVigo a las 20.00 en el &lt;a class="reference external" href="http://www.kaleidocoworking.com/"&gt;coworking de Kaleido&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;En esta ocasión tendremos:&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;CHARLA: &lt;em&gt;"Python Espacial"&lt;/em&gt; por &lt;strong&gt;Cristina Luna&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;CHARLA: &lt;em&gt;"Lectura de matrículas con OpenCV y Python (3a parte y final)l"&lt;/em&gt; por &lt;strong&gt;Román Pena Pérez&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;LIGHTNING TALKS [1]: Tras la charla, daremos paso al ciclo de lightning talks, así que traed alguna preparada o preparadla in-situ si os veis capaces ;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Por otro lado queremos informaros de que hemos migrado la &lt;a class="reference external" href="https://www.python-vigo.es/"&gt;web del grupo&lt;/a&gt; a &lt;a class="reference external" href="https://github.com/python-vigo/python-vigo.github.io/"&gt;Github pages&lt;/a&gt;, por lo que, a partir de ahora, si veis algún problema, errata, o simplemente queréis aportar algo, podréis hacerlo via pull request :)&lt;/p&gt;
+&lt;p&gt;Por último, recordad que la lista de correo es el canal oficial del grupo, pero tenemos otros medios de contacto secundarios que podéis ver más abajo [2]&lt;/p&gt;
+&lt;p&gt;¡¡Nos vemos el jueves!!&lt;/p&gt;
+&lt;p&gt;--&lt;/p&gt;
+&lt;p&gt;[1] MECÁNICA DE LAS CHARLAS RELÁMPAGO&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Charla de 5 minutos de reloj sobre cualquier tema de python o relacionado&lt;/li&gt;
+&lt;li&gt;Cuando se acaba el tiempo, la gente empieza a aplaudir (aunque el ponente no haya acabado)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;[2] Canales de comunicación:&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;&lt;a class="reference external" href="https://lists.es.python.org/listinfo/vigo/"&gt;Lista de correo&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="https://twitter.com/python_vigo/"&gt;Twitter&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="https://t.me/joinchat/AAAAAAfW2-q8miOKsVGjCg"&gt;Grupo de Telegram&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;dl class="first docutils"&gt;
+&lt;dt&gt;Slack (canal #pythonvigo):&lt;/dt&gt;
+&lt;dd&gt;&lt;ul class="first last"&gt;
+&lt;li&gt;&lt;a class="reference external" href="https://slackin-vigotech.herokuapp.com/"&gt;Obtener invitación&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="https://vigotechalliance.slack.com/"&gt;Acceso al grupo&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/dd&gt;
+&lt;/dl&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;img alt="/ubicacionkaleidocoworking.png" src="https://www.python-vigo.es/ubicacionkaleidocoworking.png"&gt;&lt;/div&gt;</description><category>desarrollo</category><category>python</category><category>vigo</category><guid>https://www.python-vigo.es/posts/reunion-del-grupo-el-20181018/</guid><pubDate>Mon, 15 Oct 2018 09:09:30 GMT</pubDate></item><item><title>Reunión del Grupo el 20/09/2018</title><link>https://www.python-vigo.es/posts/reunion-del-grupo-el-20092018/</link><dc:creator>Python Vigo</dc:creator><description>&lt;div&gt;&lt;p&gt;¡¡Buenas!!&lt;/p&gt;
 &lt;p&gt;Ya se acabó el parón veraniego pero no por ello las reuniones de verano :D&lt;/p&gt;
 &lt;p&gt;La semana que viene, el jueves 20 de septiembre, tenemos reunión de PythonVigo, a las 20.00 en el &lt;a class="reference external" href="http://www.kaleidocoworking.com/"&gt;coworking de Kaleido&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;En esta ocasión tendremos:&lt;/p&gt;
@@ -464,38 +496,4 @@ en el &lt;a class="reference external" href="http://www.kaleidocoworking.com/"&g
 &lt;li&gt;Votamos como grupo los que más nos interesa que se debatan/expliquen&lt;/li&gt;
 &lt;li&gt;Les dedicamos a los más votados un debate de 5 minutos prorrogrables otros 5 minutos si el tema interesa al grupo&lt;/li&gt;
 &lt;/ol&gt;
-&lt;img alt="/ubicacionkaleidocoworking.png" src="https://www.python-vigo.es/ubicacionkaleidocoworking.png"&gt;&lt;/div&gt;</description><guid>https://www.python-vigo.es/posts/reunion-del-grupo-el-21122017/</guid><pubDate>Tue, 19 Dec 2017 19:29:04 GMT</pubDate></item><item><title>Reunión del Grupo el 23/11/2017</title><link>https://www.python-vigo.es/posts/reunion-del-grupo-el-23112017/</link><dc:creator>Python Vigo</dc:creator><description>&lt;div&gt;&lt;p&gt;¡Buenas!&lt;/p&gt;
-&lt;p&gt;¡¡Ya casi está aquí la reunión de este mes!!&lt;/p&gt;
-&lt;p&gt;Recordamos que, como excepción a nuestra regla, este mes la desplazamos al 4º jueves,
-es decir al día 23 de noviembre, a las 20:00 en el &lt;a class="reference external" href="http://www.kaleidocoworking.com/"&gt;coworking de Kaleido&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;Los puntos de esta reuníón serán:&lt;/p&gt;
-&lt;ul class="simple"&gt;
-&lt;li&gt;&lt;strong&gt;"Entornos Virtuales"&lt;/strong&gt; por Miguel González Álvarez:
-Ya tenemos Python instalado y con sus pilas incluidas. Ahora queremos instalar
-una librería externa y la documentación nos habla de crear un entorno virtual.
-¿Qué es? ¿Para qué sirve? ¿Cómo se crea? En la charla haremos una introducción histórica
-y hablaremos de herramientas veteranas como &lt;em&gt;virtualenv&lt;/em&gt; y &lt;em&gt;virtualenvwrapper&lt;/em&gt; y de otras más
-recientes como &lt;em&gt;pipsi&lt;/em&gt;, &lt;em&gt;pew&lt;/em&gt; y &lt;em&gt;pipenv&lt;/em&gt;.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;"La serpiente y el ratón: desarrollo de un robot 'micromouse' con Python (y algo de C)"&lt;/strong&gt; por
-Clara Casas Castedo y Miguel Sánchez de León Peque:
-Los recientes ganadores de la competición "Laberinto" de la pasada &lt;a class="reference external" href="https://oshwdem.org/competiciones-2017/"&gt;OSHWDem&lt;/a&gt;
-nos contarán de primera mano el desarrollo de &lt;em&gt;Bule Bule&lt;/em&gt;, el microrobot autónomo con el que consiguieron ser más rápidos
-que ningún contrincante.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Charlas relámpago&lt;/strong&gt; [1]&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Debate abierto&lt;/strong&gt; [2]:
-El debate abierto dependerá del tiempo que nos quede al final de la reunión, como hicimos en la reunión pasada ;)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Y recordad que todavía estáis a tiempo de preparar una charla relámpago!!&lt;/p&gt;
-&lt;p&gt;Nos vemos el jueves!&lt;/p&gt;
-&lt;p&gt;[1] MECÁNICA DE LAS CHARLAS RELÁMPAGO&lt;/p&gt;
-&lt;ul class="simple"&gt;
-&lt;li&gt;Charla de 5 minutos de reloj sobre cualquier tema de python o relacionado&lt;/li&gt;
-&lt;li&gt;Cuando se acaba el tiempo, la gente empieza a aplaudir (aunque el ponente no haya acabado)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;[2] MECÁNICA DEL DEBATE ABIERTO&lt;/p&gt;
-&lt;ol class="arabic simple"&gt;
-&lt;li&gt;Proponemos temas que nos interesen&lt;/li&gt;
-&lt;li&gt;Votamos como grupo los que más nos interesa que se debatan/expliquen&lt;/li&gt;
-&lt;li&gt;Les dedicamos a los más votados un debate de 5 minutos prorrogrables otros 5 minutos si el tema interesa al grupo&lt;/li&gt;
-&lt;/ol&gt;
-&lt;img alt="/ubicacionkaleidocoworking.png" src="https://www.python-vigo.es/ubicacionkaleidocoworking.png"&gt;&lt;/div&gt;</description><guid>https://www.python-vigo.es/posts/reunion-del-grupo-el-23112017/</guid><pubDate>Wed, 15 Nov 2017 13:25:12 GMT</pubDate></item></channel></rss>
+&lt;img alt="/ubicacionkaleidocoworking.png" src="https://www.python-vigo.es/ubicacionkaleidocoworking.png"&gt;&lt;/div&gt;</description><guid>https://www.python-vigo.es/posts/reunion-del-grupo-el-21122017/</guid><pubDate>Tue, 19 Dec 2017 19:29:04 GMT</pubDate></item></channel></rss>
