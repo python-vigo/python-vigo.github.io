@@ -7,15 +7,15 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <sitemap>
   <loc>https://www.python-vigo.es/authors/luis-gonzalez-fernandez.xml</loc>
-  <lastmod>2018-11-13T17:52:00Z</lastmod>
+  <lastmod>2018-11-13T17:53:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://www.python-vigo.es/authors/miguel-gonzalez.xml</loc>
-  <lastmod>2018-11-13T17:52:00Z</lastmod>
+  <lastmod>2018-11-13T17:53:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://www.python-vigo.es/authors/python-vigo.xml</loc>
-  <lastmod>2018-11-13T17:52:00Z</lastmod>
+  <lastmod>2018-11-13T17:53:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://www.python-vigo.es/categorias/desarrollo.xml</loc>
@@ -59,6 +59,6 @@
  </sitemap>
  <sitemap>
   <loc>https://www.python-vigo.es/sitemap.xml</loc>
-  <lastmod>2018-11-13T17:52:00Z</lastmod>
+  <lastmod>2018-11-13T17:53:00Z</lastmod>
  </sitemap>
 </sitemapindex>
