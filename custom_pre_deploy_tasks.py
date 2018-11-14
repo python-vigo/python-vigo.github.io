@@ -8,6 +8,7 @@ from conf import BASE_URL
 
 base_dir = Path()
 
+
 def generate_events_file():
     # Get last meeting post
     posts_dir = Path('posts')
@@ -43,6 +44,6 @@ def generate_events_file():
         json.dump(events_data, ef, indent=4)
 
 
-# Call custom deployement methods
+# Call custom deployment methods
 generate_events_file()
 
