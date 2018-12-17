@@ -41,7 +41,7 @@ def generate_events_file():
     # Write events.json file
     events_file = base_dir.joinpath('files/events.json')
     with events_file.open('w') as ef:
-        json.dump(events_data, ef, indent=4)
+        json.dump(events_data, ef, ensure_ascii=False, indent=4)
 
 
 # Call custom deployment methods
