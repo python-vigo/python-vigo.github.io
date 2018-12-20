@@ -28,8 +28,11 @@ def generate_events_file():
 
     # We need the date of the meeting, not the day of publication so we
     # extract it from the slug
-    meeting_utc_string = post_metadata['meeting_datetime'] + '+0000'
-    meeting_datetime = datetime.datetime.strptime(meeting_utc_string, '%Y%m%d_%H%M%z')
+    # Currently the vigotech.org website uses localtime instead of utc
+    # UTC solution: meeting_utc_string = post_metadata['meeting_datetime'] + '+0000'
+    # localtime solution:
+    meeting_localtime_string = post_metadata['meeting_datetime']
+    meeting_datetime = datetime.datetime.strptime(meeting_localtime_string, '%Y%m%d_%H%M')
     meeting_timestamp = int(meeting_datetime.timestamp() * 1000)
 
     events_data = {
