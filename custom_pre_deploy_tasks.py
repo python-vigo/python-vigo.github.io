@@ -28,9 +28,9 @@ def generate_events_file():
 
     # We need the date of the meeting, not the day of publication so we
     # extract it from the slug
-    meeting_ymd = post_metadata['slug'][-8:]
-    meeting_date = datetime.datetime.strptime(meeting_ymd, '%Y%m%d')
-    meeting_timestamp = int(meeting_date.timestamp() * 1000)
+    meeting_utc_string = post_metadata['meeting_datetime'] + '+0000'
+    meeting_datetime = datetime.datetime.strptime(meeting_utc_string, '%Y%m%d_%H%M%z')
+    meeting_timestamp = int(meeting_datetime.timestamp() * 1000)
 
     events_data = {
         "date": meeting_timestamp,

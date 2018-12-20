@@ -1,5 +1,6 @@
 .. title: Reunión del Grupo el 20/12/2018
 .. slug: reunion-del-grupo-el-20181220
+.. meeting_datetime: 20181220_2000
 .. date: 2018-12-17 08:09:30 UTC+02:00
 .. tags: python, vigo, desarrollo
 .. category:
