@@ -1228,9 +1228,6 @@ COPY_SOURCES = False
 # before </head>
 # (translatable)
 EXTRA_HEAD_DATA = """
-<meta property="og:title" content="Python Vigo" />
-<meta property="og:type" content="website" />
-<meta property="og:url" content="https://www.python-vigo.es" />
 <meta property="og:image" content="https://www.python-vigo.es/pythonvigologo-medium.png" />
 """
 # Google Analytics or whatever else you use. Added to the bottom of <body>
