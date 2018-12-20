@@ -308,7 +308,7 @@ COMPILERS = {
 # Nikola supports logo display.  If you have one, you can put the URL here.
 # Final output is <img src="LOGO_URL" id="logo" alt="BLOG_TITLE">.
 # The URL may be relative to the site root.
-# LOGO_URL = ''
+LOGO_URL = 'pythonvigologo-mini.png'
 
 # If you want to hide the title of your website (for example, if your logo
 # already contains the text), set this to False.
@@ -1227,7 +1227,12 @@ COPY_SOURCES = False
 # Extra things you want in the pages HEAD tag. This will be added right
 # before </head>
 # (translatable)
-# EXTRA_HEAD_DATA = ""
+EXTRA_HEAD_DATA = """
+<meta property="og:title" content="Python Vigo" />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="https://www.python-vigo.es" />
+<meta property="og:image" content="https://www.python-vigo.es/pythonvigologo-medium.png" />
+"""
 # Google Analytics or whatever else you use. Added to the bottom of <body>
 # in the default template (base.tmpl).
 # (translatable)
