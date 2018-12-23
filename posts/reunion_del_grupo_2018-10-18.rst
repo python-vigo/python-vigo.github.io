@@ -17,6 +17,7 @@ Este jueves día 18 de octubre, tenemos reunión de PythonVigo a las 20.00 en el
 En esta ocasión tendremos:
 
 * |ss| CHARLA: *"Python Espacial"* por **Cristina Luna**. |se|
+* CHARLA: *"Introducción a Pipenv"* por **Miguel González**.
 * CHARLA: *"Lectura de matrículas con OpenCV y Python (3a parte y final)l"* por **Román Pena Pérez**.
 
 * LIGHTNING TALKS [1]: Tras la charla, daremos paso al ciclo de lightning talks, así que traed alguna preparada o preparadla in-situ si os veis capaces ;)
