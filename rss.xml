@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="assets/xml/rss.xsl" media="all"?><rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0"><channel><title>Python Vigo</title><link>https://www.python-vigo.es</link><description>Grupo Python Vigo</description><atom:link rel="self" href="https://www.python-vigo.es/rss.xml" type="application/rss+xml"></atom:link><language>es</language><lastBuildDate>Sun, 23 Dec 2018 18:29:27 GMT</lastBuildDate><generator>https://getnikola.com/</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Reunión del Grupo el 20/12/2018</title><link>https://www.python-vigo.es/posts/reunion-del-grupo-el-20181220/</link><dc:creator>Python Vigo</dc:creator><description>&lt;div&gt;&lt;p&gt;¡¡Buenas!!&lt;/p&gt;
+<?xml-stylesheet type="text/xsl" href="assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Python Vigo</title><link>https://www.python-vigo.es</link><description>Grupo Python Vigo</description><atom:link type="application/rss+xml" href="https://www.python-vigo.es/rss.xml" rel="self"></atom:link><language>es</language><lastBuildDate>Sun, 23 Dec 2018 18:30:33 GMT</lastBuildDate><generator>https://getnikola.com/</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Reunión del Grupo el 20/12/2018</title><link>https://www.python-vigo.es/posts/reunion-del-grupo-el-20181220/</link><dc:creator>Python Vigo</dc:creator><description>&lt;div&gt;&lt;p&gt;¡¡Buenas!!&lt;/p&gt;
 &lt;p&gt;Son fechas ajetreadas, pero igualmente haremos reunión esta semana para vernos las caras y despedir el año :)&lt;/p&gt;
 &lt;p&gt;Así que ya sabéis, este jueves día 20 de diciembre a las 20.00, en el &lt;a class="reference external" href="http://www.kaleidocoworking.com/"&gt;coworking de Kaleido&lt;/a&gt;, última reunión del año.&lt;/p&gt;
 &lt;p&gt;En esta ocasión vamos a tener una charla de duración media con alguna demostración, impartida por una cara que ya es conocida para los habituales del grupo.&lt;/p&gt;
@@ -108,7 +108,7 @@
 &lt;p&gt;En esta ocasión tendremos:&lt;/p&gt;
 &lt;ul class="simple"&gt;
 &lt;li&gt;&lt;strike&gt; CHARLA: &lt;em&gt;"Python Espacial"&lt;/em&gt; por &lt;strong&gt;Cristina Luna&lt;/strong&gt;. &lt;/strike&gt;&lt;/li&gt;
-&lt;li&gt;CHARLA: &lt;em&gt;"Introducción a Pipenv"&lt;/em&gt; por &lt;strong&gt;Miguel González&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;CHARLA: &lt;em&gt;"Introducción a Pipenv"&lt;/em&gt; por &lt;strong&gt;Miguel González Álvarez&lt;/strong&gt;.&lt;/li&gt;
 &lt;li&gt;CHARLA: &lt;em&gt;"Lectura de matrículas con OpenCV y Python (3a parte y final)l"&lt;/em&gt; por &lt;strong&gt;Román Pena Pérez&lt;/strong&gt;.&lt;/li&gt;
 &lt;li&gt;LIGHTNING TALKS [1]: Tras la charla, daremos paso al ciclo de lightning talks, así que traed alguna preparada o preparadla in-situ si os veis capaces ;)&lt;/li&gt;
 &lt;/ul&gt;
