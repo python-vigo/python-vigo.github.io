@@ -18,9 +18,9 @@ El jueves de la semana que viene, día 15 de noviembre, tenemos nueva reunión d
 
 Como viene siendo habitual tendremos 2 charlas de duración media:
 
-* CHARLA: *"A-Detector: un IDS basado en algoritmos de Machine Learning"* por Álex Franco.
+* |ss| CHARLA: *"A-Detector: un IDS basado en algoritmos de Machine Learning"* por Álex Franco. |se|
 
-  Una herramienta capaz de aprender por si misma sobre el tráfico de la red para interpretar ataques de denegación de servicio.
+  |ss| Una herramienta capaz de aprender por si misma sobre el tráfico de la red para interpretar ataques de denegación de servicio. |se|
 
 * CHARLA: *"Por qué Django es una m\*\*\*\*\*"* por David Vílchez
 
@@ -56,3 +56,13 @@ Por último, recordad también que aunque esta lista de correo es el canal ofici
 
 
 .. image:: /ubicacionkaleidocoworking.png
+
+
+.. |ss| raw:: html
+
+   <strike>
+
+.. |se| raw:: html
+
+   </strike>
+
