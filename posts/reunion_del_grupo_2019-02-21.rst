@@ -20,7 +20,7 @@ Eso implica reunión de PythonVigo :D
 
 Este jueves, **día 21 de febrero de 2019, a las 20:00**, en `coworking de Kaleido <http://www.kaleidocoworking.com/>`_, tenemos:
 
- - CHARLA: "Cifra tus backups con Python" por John Magdalena.
+ - CHARLA: "Cifra tus backups con Python" por Jhon Magdalena.
      Cómo usar Python para "interactuar" con nuestras copias de seguridad cifradas
 
  - LIGHTNING TALKS [1]: 
