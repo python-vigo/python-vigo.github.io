@@ -1,5 +1,54 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="assets/xml/rss.xsl" media="all"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Python Vigo</title><link>https://www.python-vigo.es</link><description>Grupo Python Vigo</description><atom:link rel="self" href="https://www.python-vigo.es/rss.xml" type="application/rss+xml"></atom:link><language>es</language><lastBuildDate>Tue, 15 Jan 2019 20:09:18 GMT</lastBuildDate><generator>https://getnikola.com/</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Reunión del Grupo el 17/01/2019</title><link>https://www.python-vigo.es/posts/reunion-del-grupo-el-20190117/</link><dc:creator>Python Vigo</dc:creator><description>&lt;div&gt;&lt;p&gt;¡Buenas!&lt;/p&gt;
+<?xml-stylesheet type="text/xsl" href="assets/xml/rss.xsl" media="all"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Python Vigo</title><link>https://www.python-vigo.es</link><description>Grupo Python Vigo</description><atom:link href="https://www.python-vigo.es/rss.xml" type="application/rss+xml" rel="self"></atom:link><language>es</language><lastBuildDate>Mon, 18 Feb 2019 20:29:24 GMT</lastBuildDate><generator>https://getnikola.com/</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Reunión del Grupo el 21/02/2019</title><link>https://www.python-vigo.es/posts/reunion-del-grupo-el-20190221/</link><dc:creator>Python Vigo</dc:creator><description>&lt;div&gt;&lt;p&gt;¡Buenas!&lt;/p&gt;
+&lt;p&gt;¡Ya está aquí el tercer jueves del mes!&lt;/p&gt;
+&lt;p&gt;Eso implica reunión de PythonVigo :D&lt;/p&gt;
+&lt;p&gt;Este jueves, &lt;strong&gt;día 21 de febrero de 2019, a las 20:00&lt;/strong&gt;, en &lt;a class="reference external" href="http://www.kaleidocoworking.com/"&gt;coworking de Kaleido&lt;/a&gt;, tenemos:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;&lt;dl class="first docutils"&gt;
+&lt;dt&gt;CHARLA: "Cifra tus backups con Python" por John Magdalena.&lt;/dt&gt;
+&lt;dd&gt;Cómo usar Python para "interactuar" con nuestras copias de seguridad cifradas&lt;/dd&gt;
+&lt;/dl&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;dl class="first docutils"&gt;
+&lt;dt&gt;LIGHTNING TALKS [1]:&lt;/dt&gt;
+&lt;dd&gt;Después de la charla, pasaremos al momento de charlas rápidas para los que queráis contarnos algo en 5 minutos :D&lt;/dd&gt;
+&lt;/dl&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Como siempre, recordaros las formas en las que podéis colaborar para que esto siga funcionando:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;La más importante es que preparéis charlas para contarnos vuestras experiencias con tecnologías basadas en el ecosistema de Python y nos lo hagáis saber ;)&lt;/li&gt;
+&lt;li&gt;"Apadrinando" ponencias pasadas, para recopilar sus datos y materiales, y &lt;a class="reference external" href="https://github.com/python-vigo/charlas"&gt;colgarlas en el repositorio de charlas&lt;/a&gt;. Basta con ir haciendo pull requests con lo que vayáis recopilando.&lt;/li&gt;
+&lt;li&gt;Enviando contenidos/posts/correcciones a la &lt;a class="reference external" href="https://www.python-vigo.es"&gt;web del grupo&lt;/a&gt; mediante &lt;a class="reference external" href="https://github.com/python-vigo/python-vigo.github.io"&gt;pull requests&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Más abajo tenéis las vías de contacto disponibles [2]&lt;/p&gt;
+&lt;p&gt;Nos vemos el jueves!&lt;/p&gt;
+&lt;p&gt;--&lt;/p&gt;
+&lt;p&gt;[1] MECÁNICA DE LAS CHARLAS RELÁMPAGO (LIGHTNING TALKS)&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Charla de 5 minutos de reloj sobre cualquier tema de Python o relacionado&lt;/li&gt;
+&lt;li&gt;Cuando se acaba el tiempo, la gente empieza a aplaudir (aunque el ponente no haya acabado)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;[2] Vías de comunicación&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;&lt;a class="reference external" href="https://lists.es.python.org/listinfo/vigo/"&gt;Lista de correo (única vía 100% oficial)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="https://twitter.com/python_vigo/"&gt;Twitter&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="https://t.me/joinchat/AAAAAAfW2-q8miOKsVGjCg"&gt;Grupo de Telegram&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;dl class="first docutils"&gt;
+&lt;dt&gt;Slack (canal #pythonvigo):&lt;/dt&gt;
+&lt;dd&gt;&lt;ul class="first last"&gt;
+&lt;li&gt;&lt;a class="reference external" href="https://slackin-vigotech.herokuapp.com/"&gt;Obtener invitación&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="https://vigotechalliance.slack.com/"&gt;Acceso al grupo&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/dd&gt;
+&lt;/dl&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;img alt="/ubicacionkaleidocoworking.png" src="https://www.python-vigo.es/ubicacionkaleidocoworking.png"&gt;&lt;/div&gt;</description><category>desarrollo</category><category>python</category><category>vigo</category><guid>https://www.python-vigo.es/posts/reunion-del-grupo-el-20190221/</guid><pubDate>Sun, 17 Feb 2019 06:09:30 GMT</pubDate></item><item><title>Reunión del Grupo el 17/01/2019</title><link>https://www.python-vigo.es/posts/reunion-del-grupo-el-20190117/</link><dc:creator>Python Vigo</dc:creator><description>&lt;div&gt;&lt;p&gt;¡Buenas!&lt;/p&gt;
 &lt;p&gt;¡¡Feliz año a todo el mundo!! :D&lt;/p&gt;
 &lt;p&gt;Depués de los atracones de las fiestas pasadas, toca nueva reunión ;)&lt;/p&gt;
 &lt;p&gt;Este jueves, día &lt;strong&gt;17 de enero de 2019, a las 20:00&lt;/strong&gt;, en el &lt;a class="reference external" href="http://www.kaleidocoworking.com/"&gt;coworking de Kaleido&lt;/a&gt;, tendremos el siguiente menú:&lt;/p&gt;
@@ -383,49 +432,4 @@ Poneos en contacto usando cualquiera de las vías que se indican al pie del emai
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;[4] &lt;a class="reference external" href="https://micropython.org/"&gt;https://micropython.org/&lt;/a&gt;&lt;/p&gt;
-&lt;img alt="/ubicacionkaleidocoworking.png" src="https://www.python-vigo.es/ubicacionkaleidocoworking.png"&gt;&lt;/div&gt;</description><guid>https://www.python-vigo.es/posts/reunion-del-grupo-el-24052018/</guid><pubDate>Mon, 21 May 2018 18:55:27 GMT</pubDate></item><item><title>Reunión del Grupo el 19/04/2018</title><link>https://www.python-vigo.es/posts/reunion-del-grupo-el-19042018/</link><dc:creator>Python Vigo</dc:creator><description>&lt;div&gt;&lt;p&gt;¡Buenas!&lt;/p&gt;
-&lt;p&gt;Ya casi está aquí el tercer jueves del mes y como manda la tradición tenemos reunión.
-Concretamente el próximo 19 de abril a las 20:00 en el &lt;a class="reference external" href="http://www.kaleidocoworking.com/"&gt;coworking de Kaleido&lt;/a&gt; :D&lt;/p&gt;
-&lt;p&gt;Pero no todo va a ser tradición, así que este mes vamos a hacer algo diferente: toca ...&lt;/p&gt;
-&lt;p&gt;¡¡Día de &lt;strong&gt;lightning talks&lt;/strong&gt;!!&lt;/p&gt;
-&lt;p&gt;Animaos a preparar una minicharla de máximo 5 minutos, sobre cualquier tema relacionado con Python. :)&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Restricciones&lt;/strong&gt;&lt;/p&gt;
-&lt;ul class="simple"&gt;
-&lt;li&gt;No hay más restricciones que esas dos, Python y 5 minutos máximo.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Cómo proponer una charla (2 formas)&lt;/strong&gt;&lt;/p&gt;
-&lt;ol class="arabic simple"&gt;
-&lt;li&gt;A través de cualquiera de nuestros canales de comunicación [1],
-aunque preferiblemente usando la lista de correo.&lt;/li&gt;
-&lt;li&gt;In-situ en la propia reunión: antes de empezar la sesión preguntaremos
-quién quiere presentar.&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;&lt;strong&gt;Charlas ya confirmadas&lt;/strong&gt;&lt;/p&gt;
-&lt;ul class="simple"&gt;
-&lt;li&gt;&lt;em&gt;"Pathlib mola mucho"&lt;/em&gt; por &lt;strong&gt;David de la Iglesia&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;"Building the [Minecraft] world with Python"&lt;/em&gt; por &lt;strong&gt;Álex Hermida&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;"Eres un tristeee!! [Análisis de sentimientos con Python]"&lt;/em&gt; por &lt;strong&gt;Ignacio González&lt;/strong&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;¡Venga! Démosle una vuelta a esa idea de charla que tenemos en la cabeza
-pero que pensamos que no nos da para una charla larga ;)&lt;/p&gt;
-&lt;p&gt;Cualquier nivel es totalmente válido, desde &lt;em&gt;"Como hacer un 'Hello world' en Python"&lt;/em&gt; a
-&lt;em&gt;"Cómo hackeé la NASA con 3 líneas de código"&lt;/em&gt;. Es la fórmula perfecta para contarnos esa
-pequeña (o no tan pequeña) idea/lección/descubrimiento/truco que descubriste/aprendiste
-y que nos podría servir a cualquiera. Y también para iniciarte en esto de "las charlas" :)&lt;/p&gt;
-&lt;p&gt;¡Nos vemos!&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;[1] Canales de comunicación:&lt;/strong&gt;&lt;/p&gt;
-&lt;ul class="simple"&gt;
-&lt;li&gt;&lt;a class="reference external" href="https://lists.es.python.org/listinfo/vigo/"&gt;Lista de correo&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class="reference external" href="https://twitter.com/python_vigo/"&gt;Twitter&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class="reference external" href="https://t.me/joinchat/AAAAAAfW2-q8miOKsVGjCg"&gt;Grupo de Telegram&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;dl class="first docutils"&gt;
-&lt;dt&gt;Slack (canal #pythonvigo):&lt;/dt&gt;
-&lt;dd&gt;&lt;ul class="first last"&gt;
-&lt;li&gt;&lt;a class="reference external" href="https://slackin-vigotech.herokuapp.com/"&gt;Obtener invitación&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class="reference external" href="https://vigotechalliance.slack.com/"&gt;Acceso al grupo&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/dd&gt;
-&lt;/dl&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;img alt="/ubicacionkaleidocoworking.png" src="https://www.python-vigo.es/ubicacionkaleidocoworking.png"&gt;&lt;/div&gt;</description><guid>https://www.python-vigo.es/posts/reunion-del-grupo-el-19042018/</guid><pubDate>Sun, 15 Apr 2018 10:52:02 GMT</pubDate></item></channel></rss>
+&lt;img alt="/ubicacionkaleidocoworking.png" src="https://www.python-vigo.es/ubicacionkaleidocoworking.png"&gt;&lt;/div&gt;</description><guid>https://www.python-vigo.es/posts/reunion-del-grupo-el-24052018/</guid><pubDate>Mon, 21 May 2018 18:55:27 GMT</pubDate></item></channel></rss>
