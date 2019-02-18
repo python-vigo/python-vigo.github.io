@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Python Vigo (desarrollo)</title><link>https://www.python-vigo.es</link><description></description><atom:link href="https://www.python-vigo.es/categorias/desarrollo.xml" type="application/rss+xml" rel="self"></atom:link><language>es</language><lastBuildDate>Mon, 18 Feb 2019 20:29:24 GMT</lastBuildDate><generator>https://getnikola.com/</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Reunión del Grupo el 21/02/2019</title><link>https://www.python-vigo.es/posts/reunion-del-grupo-el-20190221/</link><dc:creator>Python Vigo</dc:creator><description>&lt;div&gt;&lt;p&gt;¡Buenas!&lt;/p&gt;
+<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Python Vigo (desarrollo)</title><link>https://www.python-vigo.es</link><description></description><atom:link rel="self" href="https://www.python-vigo.es/categorias/desarrollo.xml" type="application/rss+xml"></atom:link><language>es</language><lastBuildDate>Mon, 18 Feb 2019 20:37:25 GMT</lastBuildDate><generator>https://getnikola.com/</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Reunión del Grupo el 21/02/2019</title><link>https://www.python-vigo.es/posts/reunion-del-grupo-el-20190221/</link><dc:creator>Python Vigo</dc:creator><description>&lt;div&gt;&lt;p&gt;¡Buenas!&lt;/p&gt;
 &lt;p&gt;¡Ya está aquí el tercer jueves del mes!&lt;/p&gt;
 &lt;p&gt;Eso implica reunión de PythonVigo :D&lt;/p&gt;
 &lt;p&gt;Este jueves, &lt;strong&gt;día 21 de febrero de 2019, a las 20:00&lt;/strong&gt;, en &lt;a class="reference external" href="http://www.kaleidocoworking.com/"&gt;coworking de Kaleido&lt;/a&gt;, tenemos:&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;ul class="simple"&gt;
 &lt;li&gt;&lt;dl class="first docutils"&gt;
-&lt;dt&gt;CHARLA: "Cifra tus backups con Python" por John Magdalena.&lt;/dt&gt;
+&lt;dt&gt;CHARLA: "Cifra tus backups con Python" por Jhon Magdalena.&lt;/dt&gt;
 &lt;dd&gt;Cómo usar Python para "interactuar" con nuestras copias de seguridad cifradas&lt;/dd&gt;
 &lt;/dl&gt;
 &lt;/li&gt;
