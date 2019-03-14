@@ -1,5 +1,54 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Python Vigo (vigo)</title><link>https://www.python-vigo.es</link><description></description><atom:link rel="self" href="https://www.python-vigo.es/categorias/vigo.xml" type="application/rss+xml"></atom:link><language>es</language><lastBuildDate>Mon, 18 Feb 2019 20:37:24 GMT</lastBuildDate><generator>https://getnikola.com/</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Reunión del Grupo el 21/02/2019</title><link>https://www.python-vigo.es/posts/reunion-del-grupo-el-20190221/</link><dc:creator>Python Vigo</dc:creator><description>&lt;div&gt;&lt;p&gt;¡Buenas!&lt;/p&gt;
+<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Python Vigo (vigo)</title><link>https://www.python-vigo.es</link><description></description><atom:link type="application/rss+xml" rel="self" href="https://www.python-vigo.es/categorias/vigo.xml"></atom:link><language>es</language><lastBuildDate>Thu, 14 Mar 2019 16:00:23 GMT</lastBuildDate><generator>https://getnikola.com/</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Reunión del Grupo el 21/03/2019</title><link>https://www.python-vigo.es/posts/reunion-del-grupo-el-20190321/</link><dc:creator>Python Vigo</dc:creator><description>&lt;div&gt;&lt;p&gt;¡Buenas!&lt;/p&gt;
+&lt;p&gt;Antes de nada comentaros que este mes tenemos una novedad y es que cambiamos de lugar de celebración de la reunión.
+En esta ocasión nos reuniremos en el local de &lt;a class="reference external" href="https://intranet.aindustriosa.org/"&gt;A Industriosa&lt;/a&gt;, &lt;strong&gt;en calle Barcelona, 13&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;Así que, el jueves que viene &lt;strong&gt;día 21 de marzo de 2019, a las 20:00&lt;/strong&gt; en el local de &lt;a class="reference external" href="https://intranet.aindustriosa.org/"&gt;A Industriosa&lt;/a&gt;, &lt;strong&gt;en calle Barcelona, 13&lt;/strong&gt;, tendremos:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;&lt;dl class="first docutils"&gt;
+&lt;dt&gt;CHARLA: "Empieza a usar conda y no mires atrás" por David de la Iglesia.&lt;/dt&gt;
+&lt;dd&gt;Charla de introducción a conda, comparación con las alternativas y ejemplos de uso.&lt;/dd&gt;
+&lt;/dl&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;dl class="first docutils"&gt;
+&lt;dt&gt;CHARLA: "Usando los GPIO de Raspberry Pi con Python" por David Lorenzo.&lt;/dt&gt;
+&lt;dd&gt;Demostración de los usos básicos que podemos darle a los GPIO de Raspberry utilizando la librería gpiozero de Python.&lt;/dd&gt;
+&lt;/dl&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;dl class="first docutils"&gt;
+&lt;dt&gt;LIGHTNING TALKS [1]:&lt;/dt&gt;
+&lt;dd&gt;Si tras las charlas queda tiempo, tendréis ocasión de contarnos algo en 5 minutos cronometrados ;)&lt;/dd&gt;
+&lt;/dl&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Y como siempre, comentaros que necesitamos ponentes para los próximos meses, así que dadle forma a esas ideas y experiencias para poder hablarnos de ellas :)&lt;/p&gt;
+&lt;p&gt;Por otra parte recordad que tenemos un &lt;a class="reference external" href="https://github.com/python-vigo/charlas"&gt;repositorio de charlas&lt;/a&gt; para recopilar material de ponencias pasadas al que podéis hacer contribuciones.&lt;/p&gt;
+&lt;p&gt;Más abajo tenéis las vías de contacto disponibles [2]&lt;/p&gt;
+&lt;p&gt;Y bueno, eso es todo, no os despistéis y recordad! Este mes la reunión en &lt;a class="reference external" href="https://intranet.aindustriosa.org/"&gt;A Industriosa&lt;/a&gt;, &lt;strong&gt;en calle Barcelona, 13&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;¡Nos vemos el jueves!&lt;/p&gt;
+&lt;p&gt;--&lt;/p&gt;
+&lt;p&gt;[1] MECÁNICA DE LAS CHARLAS RELÁMPAGO (LIGHTNING TALKS)&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Charla de 5 minutos de reloj sobre cualquier tema de Python o relacionado&lt;/li&gt;
+&lt;li&gt;Cuando se acaba el tiempo, la gente empieza a aplaudir (aunque el ponente no haya acabado)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;[2] Vías de comunicación&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;&lt;a class="reference external" href="https://lists.es.python.org/listinfo/vigo/"&gt;Lista de correo (única vía 100% oficial)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="https://twitter.com/python_vigo/"&gt;Twitter&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="https://t.me/joinchat/AAAAAAfW2-q8miOKsVGjCg"&gt;Grupo de Telegram&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;dl class="first docutils"&gt;
+&lt;dt&gt;Slack (canal #pythonvigo):&lt;/dt&gt;
+&lt;dd&gt;&lt;ul class="first last"&gt;
+&lt;li&gt;&lt;a class="reference external" href="https://slackin-vigotech.herokuapp.com/"&gt;Obtener invitación&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="https://vigotechalliance.slack.com/"&gt;Acceso al grupo&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/dd&gt;
+&lt;/dl&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;img alt="/ubicacion_a_industriosa.png" src="https://www.python-vigo.es/ubicacion_a_industriosa.png"&gt;&lt;/div&gt;</description><category>desarrollo</category><category>python</category><category>vigo</category><guid>https://www.python-vigo.es/posts/reunion-del-grupo-el-20190321/</guid><pubDate>Wed, 13 Mar 2019 06:09:30 GMT</pubDate></item><item><title>Reunión del Grupo el 21/02/2019</title><link>https://www.python-vigo.es/posts/reunion-del-grupo-el-20190221/</link><dc:creator>Python Vigo</dc:creator><description>&lt;div&gt;&lt;p&gt;¡Buenas!&lt;/p&gt;
 &lt;p&gt;¡Ya está aquí el tercer jueves del mes!&lt;/p&gt;
 &lt;p&gt;Eso implica reunión de PythonVigo :D&lt;/p&gt;
 &lt;p&gt;Este jueves, &lt;strong&gt;día 21 de febrero de 2019, a las 20:00&lt;/strong&gt;, en &lt;a class="reference external" href="http://www.kaleidocoworking.com/"&gt;coworking de Kaleido&lt;/a&gt;, tenemos:&lt;/p&gt;
@@ -284,16 +333,4 @@ para los más noveles, hasta la realización del segundo mini-sprint
 para el proyecto SoundPhy (&lt;a class="reference external" href="https://github.com/Soundphy/soundphy"&gt;https://github.com/Soundphy/soundphy&lt;/a&gt;).&lt;/li&gt;
 &lt;/ol&gt;
 &lt;p&gt;¡No faltéis!&lt;/p&gt;
-&lt;img alt="/ubicacionkaleidocoworking.png" src="https://www.python-vigo.es/ubicacionkaleidocoworking.png"&gt;&lt;/div&gt;</description><category>python</category><category>vigo</category><guid>https://www.python-vigo.es/posts/reunion-del-grupo-el-16022017/</guid><pubDate>Wed, 15 Feb 2017 15:17:37 GMT</pubDate></item><item><title>Reunión del grupo el 15/12/2016</title><link>https://www.python-vigo.es/posts/reunion-del-grupo-el-15122016/</link><dc:creator>Miguel González</dc:creator><description>&lt;div&gt;&lt;p&gt;Recordad que la próxima reunión será este jueves 15 de diciembre a las
-20:00 en &lt;a class="reference external" href="http://www.kaleidocoworking.com/"&gt;Kaleido Coworking&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;En la última reunión del grupo se comentó probar un nuevo formato para la
-sesión de diciembre. En esta reunión organizaremos una sesión de preguntas
-y respuestas con una metodología estilo &lt;em&gt;agile&lt;/em&gt;. Al arrancar la reunión se
-plantean preguntas de todo tipo. Se votan las cuestiones para establecer el
-orden en que se formularan. Y se van planteando y debatiendo en el orden
-establecido entre el público asistente. Pasados 5/10 minutos se hace un
-sondeo, pulgares arriba se continúa con el tema, pulgares abajo, se pasa a
-la siguiente.&lt;/p&gt;
-&lt;p&gt;Al final de la sesión de "preguntas y respuestas", se mantendrá el espacio
-para &lt;em&gt;lightning talks&lt;/em&gt; que tanto éxito tuvo en la reunión pasada.&lt;/p&gt;
-&lt;img alt="/kaleido-coworking-center-map.png" src="https://www.python-vigo.es/kaleido-coworking-center-map.png"&gt;&lt;/div&gt;</description><category>python</category><category>vigo</category><guid>https://www.python-vigo.es/posts/reunion-del-grupo-el-15122016/</guid><pubDate>Sun, 11 Dec 2016 17:12:01 GMT</pubDate></item></channel></rss>
+&lt;img alt="/ubicacionkaleidocoworking.png" src="https://www.python-vigo.es/ubicacionkaleidocoworking.png"&gt;&lt;/div&gt;</description><category>python</category><category>vigo</category><guid>https://www.python-vigo.es/posts/reunion-del-grupo-el-16022017/</guid><pubDate>Wed, 15 Feb 2017 15:17:37 GMT</pubDate></item></channel></rss>
