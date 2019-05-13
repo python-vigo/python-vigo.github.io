@@ -1,0 +1,16 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+pyinotify = {version = "==0.9.6", markers="sys_platform == 'linux'"}
+MacFSEvents = {version = "==0.8.1", markers="sys_platform == 'darwin'"}
+Nikola = {version = "==7.8", extras = ["extras"]}
+"ghp-import2" = "*"
+
+[dev-packages]
+ipdb = "*"
+
+[requires]
+python_version = "3.5"
