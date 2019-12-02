@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>Python Vigo (python)</title><link>https://www.python-vigo.es</link><description></description><atom:link href="https://www.python-vigo.es/categorias/python.xml" rel="self" type="application/rss+xml"></atom:link><language>es</language><lastBuildDate>Mon, 02 Dec 2019 11:58:49 GMT</lastBuildDate><generator>https://getnikola.com/</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Reunión del Grupo el 19/12/2019</title><link>https://www.python-vigo.es/posts/reunion-del-grupo-el-20191219/</link><dc:creator>Python Vigo</dc:creator><description>&lt;div&gt;&lt;p&gt;¡Buenas!&lt;/p&gt;
+<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0"><channel><title>Python Vigo (python)</title><link>https://www.python-vigo.es</link><description></description><atom:link href="https://www.python-vigo.es/categorias/python.xml" type="application/rss+xml" rel="self"></atom:link><language>es</language><lastBuildDate>Mon, 02 Dec 2019 12:00:44 GMT</lastBuildDate><generator>https://getnikola.com/</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Reunión del Grupo el 19/12/2019</title><link>https://www.python-vigo.es/posts/reunion-del-grupo-el-20191219/</link><dc:creator>Python Vigo</dc:creator><description>&lt;div&gt;&lt;p&gt;¡Buenas!&lt;/p&gt;
 &lt;p&gt;¿Qué? ¿Ya toca reunión? ¡Pero si acaba de empezar el mes!&lt;/p&gt;
 &lt;p&gt;¡Tranquilos!, no es que se os hayan pasado las semanas volando sin saber en qué invertisteis vuestro tiempo ;)&lt;/p&gt;
 &lt;p&gt;A partir de ahora pretendemos avisaros de la reunión a principios del mes y recordároslo el lunes de la misma semana de la reunión.&lt;/p&gt;
@@ -14,7 +14,7 @@
 &lt;dt&gt;Ponencias:&lt;/dt&gt;
 &lt;dd&gt;&lt;ul class="first last"&gt;
 &lt;li&gt;&lt;dl class="first docutils"&gt;
-&lt;dt&gt;[Iniciación]: &lt;em&gt;Crear entornos virtuales e instalar paquetes de Python&lt;/em&gt;&lt;/dt&gt;
+&lt;dt&gt;[Iniciación]: &lt;em&gt;Crear entornos virtuales e instalar paquetes de Python&lt;/em&gt; por Miguel González&lt;/dt&gt;
 &lt;dd&gt;Los entornos virtuales son una de las herramientas básicas que todo programador de Python debería conocer. ¿Qué son y cómo se crean? ¿Cómo se instalan módulos para extender las capacidades que proporciona Python de base?.&lt;/dd&gt;
 &lt;/dl&gt;
 &lt;/li&gt;
