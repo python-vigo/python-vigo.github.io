@@ -31,7 +31,7 @@ Este es el plan para la reunión:
 
 * **Install party** [19.30]: Traéis vuestro portátil y os ayudamos a instalar Python y herramientas básicas.
 * Ponencias:
-    * [Iniciación]: *Crear entornos virtuales e instalar paquetes de Python*
+    * [Iniciación]: *Crear entornos virtuales e instalar paquetes de Python* por Miguel González
         Los entornos virtuales son una de las herramientas básicas que todo programador de Python debería conocer. ¿Qué son y cómo se crean? ¿Cómo se instalan módulos para extender las capacidades que proporciona Python de base?.
     * [Charla]: *Introducción a Ansible* por Daniel Sánchez
         Daniel Sánchez nos hablará sobre esta herramienta imprescindible a la hora de automatizar despliegues de todo tipo de proyectos. Útil y aplicable desde los escenarios más sencillos con un sólo servidor, hasta las configuraciones más complejas de múltiples dispositivos y servidores distribuídos.
