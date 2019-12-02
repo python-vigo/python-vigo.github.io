@@ -7,7 +7,7 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>https://www.python-vigo.es/</loc>
-  <lastmod>2019-10-14T07:15:00Z</lastmod>
+  <lastmod>2019-12-02T11:07:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.python-vigo.es/2015/</loc>
@@ -31,23 +31,23 @@
  </url>
  <url>
   <loc>https://www.python-vigo.es/archive.html</loc>
-  <lastmod>2019-11-19T23:54:00Z</lastmod>
+  <lastmod>2019-12-02T11:07:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.python-vigo.es/authors/</loc>
-  <lastmod>2019-11-19T23:54:00Z</lastmod>
+  <lastmod>2019-12-02T11:07:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.python-vigo.es/authors/luis-gonzalez-fernandez/</loc>
-  <lastmod>2019-11-19T23:54:00Z</lastmod>
+  <lastmod>2019-12-02T11:07:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.python-vigo.es/authors/miguel-gonzalez/</loc>
-  <lastmod>2019-11-19T23:54:00Z</lastmod>
+  <lastmod>2019-12-02T11:07:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.python-vigo.es/authors/python-vigo/</loc>
-  <lastmod>2019-11-19T23:54:00Z</lastmod>
+  <lastmod>2019-12-02T11:07:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.python-vigo.es/categorias/</loc>
@@ -107,7 +107,7 @@
  </url>
  <url>
   <loc>https://www.python-vigo.es/index-5.html</loc>
-  <lastmod>2019-11-19T23:54:00Z</lastmod>
+  <lastmod>2019-12-02T11:07:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.python-vigo.es/posts/call-for-papers-para-diciembre-2018-y-sucesivas/</loc>
@@ -284,6 +284,10 @@
  <url>
   <loc>https://www.python-vigo.es/posts/reunion-del-grupo-el-20191121/</loc>
   <lastmod>2019-11-19T23:54:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://www.python-vigo.es/posts/reunion-del-grupo-el-20191219/</loc>
+  <lastmod>2019-12-02T11:07:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.python-vigo.es/posts/reunion-del-grupo-el-21012016/</loc>
