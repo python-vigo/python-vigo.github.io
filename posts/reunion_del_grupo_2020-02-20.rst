@@ -1,4 +1,4 @@
-.. title: Reunión del Grupo el 20/01/2020
+.. title: Reunión del Grupo el 20/02/2020
 .. slug: reunion-del-grupo-el-20200220
 .. meeting_datetime: 20200220_2000
 .. date: 2020-02-03 08:53:30 UTC+02:00
