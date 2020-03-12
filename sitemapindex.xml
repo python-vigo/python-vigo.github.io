@@ -7,19 +7,19 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <sitemap>
   <loc>https://www.python-vigo.es/authors/luis-gonzalez-fernandez.xml</loc>
-  <lastmod>2020-02-03T20:42:00Z</lastmod>
+  <lastmod>2020-03-12T13:29:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://www.python-vigo.es/authors/miguel-gonzalez.xml</loc>
-  <lastmod>2020-02-03T20:42:00Z</lastmod>
+  <lastmod>2020-03-12T13:29:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://www.python-vigo.es/authors/python-vigo.xml</loc>
-  <lastmod>2020-02-03T20:42:00Z</lastmod>
+  <lastmod>2020-03-12T13:29:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://www.python-vigo.es/categorias/desarrollo.xml</loc>
-  <lastmod>2020-02-03T20:42:00Z</lastmod>
+  <lastmod>2020-03-12T13:29:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://www.python-vigo.es/categorias/diciembre.xml</loc>
@@ -39,7 +39,7 @@
  </sitemap>
  <sitemap>
   <loc>https://www.python-vigo.es/categorias/python.xml</loc>
-  <lastmod>2020-02-03T20:42:00Z</lastmod>
+  <lastmod>2020-03-12T13:29:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://www.python-vigo.es/categorias/shell.xml</loc>
@@ -51,14 +51,14 @@
  </sitemap>
  <sitemap>
   <loc>https://www.python-vigo.es/categorias/vigo.xml</loc>
-  <lastmod>2020-02-03T20:42:00Z</lastmod>
+  <lastmod>2020-03-12T13:29:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://www.python-vigo.es/rss.xml</loc>
-  <lastmod>2020-02-03T20:42:00Z</lastmod>
+  <lastmod>2020-03-12T13:29:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://www.python-vigo.es/sitemap.xml</loc>
-  <lastmod>2020-02-03T20:42:00Z</lastmod>
+  <lastmod>2020-03-12T13:29:00Z</lastmod>
  </sitemap>
 </sitemapindex>
