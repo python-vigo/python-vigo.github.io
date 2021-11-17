@@ -1,5 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="assets/xml/rss.xsl" media="all"?><rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0"><channel><title>Python Vigo</title><link>https://www.python-vigo.es</link><description>Grupo Python Vigo</description><atom:link type="application/rss+xml" href="https://www.python-vigo.es/rss.xml" rel="self"></atom:link><language>es</language><lastBuildDate>Tue, 07 Jul 2020 22:55:30 GMT</lastBuildDate><generator>https://getnikola.com/</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Reunión de Julio 2020</title><link>https://www.python-vigo.es/posts/reunion-de-julio-2020/</link><dc:creator>Python Vigo</dc:creator><description>&lt;div&gt;&lt;p&gt;¡Hola de nuevo!&lt;/p&gt;
+<?xml-stylesheet type="text/xsl" href="assets/xml/rss.xsl" media="all"?><rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0"><channel><title>Python Vigo</title><link>https://www.python-vigo.es</link><description>Grupo Python Vigo</description><atom:link type="application/rss+xml" rel="self" href="https://www.python-vigo.es/rss.xml"></atom:link><language>es</language><lastBuildDate>Wed, 17 Nov 2021 22:31:43 GMT</lastBuildDate><generator>https://getnikola.com/</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Pybirras! Estamos de vuelta</title><link>https://www.python-vigo.es/posts/pybirras-estamos-de-vuelta/</link><dc:creator>Python Vigo</dc:creator><description>&lt;div&gt;&lt;p&gt;Hola de nuevo! ¿Estamos de vuelta? pues casi!&lt;/p&gt;
+&lt;p&gt;De cara a reactivar la actividad a partir de Enero hemos pensado que nada mejor que vernos las caras después de tanto tiempo,
+juntarnos para charlar, comentar todo lo que hemos aprendido y ver la hoja de ruta del próximo año.
+Y cómo no podía ser de otra manera, ya que hay que mantener algunas viejas costumbres, nos vemos el tercer jueves de este mes,
+en este caso próximo &lt;strong&gt;Jueves día 18 a las 20:00&lt;/strong&gt;, en la plaza de Compostela frente a la cervecería "La Tita Rivera"
+&lt;a class="reference external" href="https://g.page/LaTitaRiveraVigo"&gt;Ubicación&lt;/a&gt;
+Por tranquilidad de todos nos juntaremos en una terraza manteniendo todas las medidas y abrigados eso sí.&lt;/p&gt;
+&lt;p&gt;Todas las personas estáis invitadas a asistir a las PyBirras, hayáis asistido o no a una reunión del grupo anteriormente, por lo que os animamos a venir! La conversación siempre es distendida y no es necesario ningún conocimiento previo, sólo ganas de charlar un rato.&lt;/p&gt;
+&lt;p&gt;Un saludo!&lt;/p&gt;&lt;/div&gt;</description><category>pybirras</category><category>python</category><category>vigo</category><guid>https://www.python-vigo.es/posts/pybirras-estamos-de-vuelta/</guid><pubDate>Wed, 17 Nov 2021 22:06:14 GMT</pubDate></item><item><title>Reunión de Julio 2020</title><link>https://www.python-vigo.es/posts/reunion-de-julio-2020/</link><dc:creator>Python Vigo</dc:creator><description>&lt;div&gt;&lt;p&gt;¡Hola de nuevo!&lt;/p&gt;
 &lt;p&gt;Después de unos meses complicados estamos de vuelta para la reunión de Julio!!.. pero en esta ocasión será online.
 Debido a la evolución de la situación actual pensamos que la alternativa más responsable es esta pero os mantendremos
 informados con posibles nuevas reuniones y actividades durante los próximos meses.&lt;/p&gt;
@@ -339,26 +347,4 @@ o el canal #pythonvigo en el &lt;a class="reference external" href="https://slac
 &lt;/dl&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
-&lt;img alt="/mapadanielcastelao.png" src="https://www.python-vigo.es/mapadanielcastelao.png"&gt;&lt;/div&gt;</description><category>desarrollo</category><category>python</category><category>vigo</category><guid>https://www.python-vigo.es/posts/reunion-del-grupo-el-20190718/</guid><pubDate>Fri, 12 Jul 2019 14:04:30 GMT</pubDate></item><item><title>Reunión del Grupo el 20/06/2019</title><link>https://www.python-vigo.es/posts/reunion-del-grupo-el-20190620/</link><dc:creator>Python Vigo</dc:creator><description>&lt;div&gt;&lt;p&gt;¡¡Buenas!!&lt;/p&gt;
-&lt;p&gt;¡Este mes toca reunión al estilo PyBirras!&lt;/p&gt;
-&lt;p&gt;Como este mes andamos algo ajetreados (como todos los pythonistas, no? :p) este mes cambiamos el formato habitual por algo más informal, tomando algo en una terraza y charlando un rato, así que ya sabéis, mañana jueves, día &lt;strong&gt;20 de junio a las 20:00&lt;/strong&gt; en el &lt;a class="reference external" href="http://www.lobishome.es/"&gt;Lobishome&lt;/a&gt; nos vemos las caras :)&lt;/p&gt;
-&lt;p&gt;Llevaremos algún ordenador, por si alguien se arranca a contarnos algo sobre la marcha, pero no habrá charla formal como habitualmente ;)&lt;/p&gt;
-&lt;p&gt;Como siempre, os dejamos más abajo el &lt;a class="reference external" href="https://github.com/python-vigo/charlas"&gt;repositorio de charlas&lt;/a&gt; y las vías de contacto del grupo [1]&lt;/p&gt;
-&lt;p&gt;¡Hasta mañana!&lt;/p&gt;
-&lt;p&gt;--&lt;/p&gt;
-&lt;p&gt;[1] Vías de comunicación&lt;/p&gt;
-&lt;ul class="simple"&gt;
-&lt;li&gt;&lt;a class="reference external" href="https://lists.es.python.org/listinfo/vigo/"&gt;Lista de correo (única vía 100% oficial)&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class="reference external" href="https://twitter.com/python_vigo/"&gt;Twitter&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class="reference external" href="https://t.me/joinchat/AAAAAAfW2-q8miOKsVGjCg"&gt;Grupo de Telegram&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;dl class="first docutils"&gt;
-&lt;dt&gt;Slack (canal #pythonvigo):&lt;/dt&gt;
-&lt;dd&gt;&lt;ul class="first last"&gt;
-&lt;li&gt;&lt;a class="reference external" href="https://slackin-vigotech.herokuapp.com/"&gt;Obtener invitación&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class="reference external" href="https://vigotechalliance.slack.com/"&gt;Acceso al grupo&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/dd&gt;
-&lt;/dl&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;img alt="/lobishome.png" src="https://www.python-vigo.es/lobishome.png"&gt;&lt;/div&gt;</description><category>desarrollo</category><category>python</category><category>vigo</category><guid>https://www.python-vigo.es/posts/reunion-del-grupo-el-20190620/</guid><pubDate>Wed, 19 Jun 2019 19:04:30 GMT</pubDate></item></channel></rss>
+&lt;img alt="/mapadanielcastelao.png" src="https://www.python-vigo.es/mapadanielcastelao.png"&gt;&lt;/div&gt;</description><category>desarrollo</category><category>python</category><category>vigo</category><guid>https://www.python-vigo.es/posts/reunion-del-grupo-el-20190718/</guid><pubDate>Fri, 12 Jul 2019 14:04:30 GMT</pubDate></item></channel></rss>
