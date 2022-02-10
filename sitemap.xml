@@ -7,7 +7,7 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>https://www.python-vigo.es/</loc>
-  <lastmod>2021-11-17T23:30:00Z</lastmod>
+  <lastmod>2022-02-10T01:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.python-vigo.es/2015/</loc>
@@ -38,28 +38,32 @@
   <lastmod>2021-11-17T22:31:00Z</lastmod>
  </url>
  <url>
+  <loc>https://www.python-vigo.es/2022/</loc>
+  <lastmod>2022-02-10T01:12:00Z</lastmod>
+ </url>
+ <url>
   <loc>https://www.python-vigo.es/archive.html</loc>
-  <lastmod>2021-11-17T22:31:00Z</lastmod>
+  <lastmod>2022-02-10T01:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.python-vigo.es/authors/</loc>
-  <lastmod>2021-11-17T23:30:00Z</lastmod>
+  <lastmod>2022-02-10T01:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.python-vigo.es/authors/luis-gonzalez-fernandez/</loc>
-  <lastmod>2021-11-17T23:30:00Z</lastmod>
+  <lastmod>2022-02-10T01:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.python-vigo.es/authors/miguel-gonzalez/</loc>
-  <lastmod>2021-11-17T23:30:00Z</lastmod>
+  <lastmod>2022-02-10T01:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.python-vigo.es/authors/python-vigo/</loc>
-  <lastmod>2021-11-17T23:30:00Z</lastmod>
+  <lastmod>2022-02-10T01:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.python-vigo.es/categorias/</loc>
-  <lastmod>2021-11-17T22:31:00Z</lastmod>
+  <lastmod>2022-02-10T01:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.python-vigo.es/categorias/desarrollo/</loc>
@@ -72,6 +76,10 @@
  <url>
   <loc>https://www.python-vigo.es/categorias/errbot/</loc>
   <lastmod>2017-11-24T02:16:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://www.python-vigo.es/categorias/jupyter/</loc>
+  <lastmod>2022-02-10T01:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.python-vigo.es/categorias/lista/</loc>
@@ -107,23 +115,23 @@
  </url>
  <url>
   <loc>https://www.python-vigo.es/index-1.html</loc>
-  <lastmod>2021-11-17T22:31:00Z</lastmod>
+  <lastmod>2022-02-10T01:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.python-vigo.es/index-2.html</loc>
-  <lastmod>2021-11-17T22:31:00Z</lastmod>
+  <lastmod>2022-02-10T01:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.python-vigo.es/index-3.html</loc>
-  <lastmod>2021-11-17T22:31:00Z</lastmod>
+  <lastmod>2022-02-10T01:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.python-vigo.es/index-4.html</loc>
-  <lastmod>2021-11-17T22:31:00Z</lastmod>
+  <lastmod>2022-02-10T01:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.python-vigo.es/index-5.html</loc>
-  <lastmod>2021-11-17T22:31:00Z</lastmod>
+  <lastmod>2022-02-10T01:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.python-vigo.es/posts/call-for-papers-para-diciembre-2018-y-sucesivas/</loc>
@@ -352,6 +360,10 @@
  <url>
   <loc>https://www.python-vigo.es/posts/reunion-del-grupo-el-26112015/</loc>
   <lastmod>2017-11-24T02:16:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://www.python-vigo.es/posts/reunion-febrero-2022/</loc>
+  <lastmod>2022-02-10T01:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.python-vigo.es/posts/suspension-reunion-de-marzo-2020/</loc>

@@ -7,19 +7,19 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <sitemap>
   <loc>https://www.python-vigo.es/authors/luis-gonzalez-fernandez.xml</loc>
-  <lastmod>2021-11-17T23:30:00Z</lastmod>
+  <lastmod>2022-02-10T01:12:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://www.python-vigo.es/authors/miguel-gonzalez.xml</loc>
-  <lastmod>2021-11-17T23:30:00Z</lastmod>
+  <lastmod>2022-02-10T01:12:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://www.python-vigo.es/authors/python-vigo.xml</loc>
-  <lastmod>2021-11-17T23:30:00Z</lastmod>
+  <lastmod>2022-02-10T01:12:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://www.python-vigo.es/categorias/desarrollo.xml</loc>
-  <lastmod>2021-11-17T22:31:00Z</lastmod>
+  <lastmod>2022-02-10T01:12:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://www.python-vigo.es/categorias/diciembre.xml</loc>
@@ -28,6 +28,10 @@
  <sitemap>
   <loc>https://www.python-vigo.es/categorias/errbot.xml</loc>
   <lastmod>2019-06-19T20:33:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://www.python-vigo.es/categorias/jupyter.xml</loc>
+  <lastmod>2022-02-10T01:12:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://www.python-vigo.es/categorias/lista.xml</loc>
@@ -43,7 +47,7 @@
  </sitemap>
  <sitemap>
   <loc>https://www.python-vigo.es/categorias/python.xml</loc>
-  <lastmod>2021-11-17T22:31:00Z</lastmod>
+  <lastmod>2022-02-10T01:12:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://www.python-vigo.es/categorias/quantum.xml</loc>
@@ -59,14 +63,14 @@
  </sitemap>
  <sitemap>
   <loc>https://www.python-vigo.es/categorias/vigo.xml</loc>
-  <lastmod>2021-11-17T22:31:00Z</lastmod>
+  <lastmod>2022-02-10T01:12:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://www.python-vigo.es/rss.xml</loc>
-  <lastmod>2021-11-17T22:31:00Z</lastmod>
+  <lastmod>2022-02-10T01:12:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://www.python-vigo.es/sitemap.xml</loc>
-  <lastmod>2021-11-17T23:30:00Z</lastmod>
+  <lastmod>2022-02-10T01:12:00Z</lastmod>
  </sitemap>
 </sitemapindex>
