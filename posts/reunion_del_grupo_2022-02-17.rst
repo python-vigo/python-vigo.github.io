@@ -1,5 +1,6 @@
 .. title: Reunión Febrero 2022
 .. slug: reunion-febrero-2022
+.. meeting_datetime: 20220217_2000
 .. date: 2022-02-09 21:37:28 UTC+01:00
 .. tags: python, vigo, desarrollo, jupyter
 .. category:
