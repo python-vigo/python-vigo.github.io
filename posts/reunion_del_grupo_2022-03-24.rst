@@ -1,6 +1,7 @@
 .. title: Reunión Marzo 2022
 .. slug: reunion-marzo-2022
 .. date: 2022-03-09 22:36:09 UTC+01:00
+.. meeting_datetime: 20220324_2000
 .. tags: python, vigo, desarrollo
 .. category:
 .. link:
