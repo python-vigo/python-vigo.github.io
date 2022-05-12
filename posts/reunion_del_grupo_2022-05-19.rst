@@ -21,7 +21,7 @@ Si alguna vez te ha interesado el desarrollo de software para información geogr
 esta charla. Como siempre al finalizar quien quiera puede dar una charla relámpago de cualquier tema relacionado con Python!
 
 * **Charla [20.00]**
-    * *Micho, ¿qué haces?, ¿cosas?, si, ¿cosas geo?* por Micho García de Geomáticos (`Twitter <https://twitter.com/geomati_co>`_)
+    * *Micho, ¿qué haces?, ¿cosas?, si, ¿cosas geo?* por Micho García de Geomáticos (`Twitter <https://twitter.com/geomati_co>`__)
         Una breve introducción al mundo de las cosas geo de la mano de Python.
 
 * **Lightning Talks** [1]
