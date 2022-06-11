@@ -7,70 +7,70 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <sitemap>
   <loc>https://www.python-vigo.es/authors/luis-gonzalez-fernandez.xml</loc>
-  <lastmod>2022-06-11T14:45:00Z</lastmod>
+  <lastmod>2022-06-11T19:40:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://www.python-vigo.es/authors/miguel-gonzalez.xml</loc>
-  <lastmod>2022-06-11T14:45:00Z</lastmod>
+  <lastmod>2022-06-11T19:40:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://www.python-vigo.es/authors/python-vigo.xml</loc>
-  <lastmod>2022-06-11T14:45:00Z</lastmod>
+  <lastmod>2022-06-11T20:07:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>https://www.python-vigo.es/categorias/desarrollo.xml</loc>
-  <lastmod>2022-06-11T14:45:00Z</lastmod>
+  <loc>https://www.python-vigo.es/categories/desarrollo.xml</loc>
+  <lastmod>2022-06-11T20:07:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>https://www.python-vigo.es/categorias/diciembre.xml</loc>
-  <lastmod>2019-06-19T20:33:00Z</lastmod>
+  <loc>https://www.python-vigo.es/categories/diciembre.xml</loc>
+  <lastmod>2022-06-11T19:40:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>https://www.python-vigo.es/categorias/errbot.xml</loc>
-  <lastmod>2019-06-19T20:33:00Z</lastmod>
+  <loc>https://www.python-vigo.es/categories/errbot.xml</loc>
+  <lastmod>2022-06-11T19:40:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>https://www.python-vigo.es/categorias/jupyter.xml</loc>
-  <lastmod>2022-02-10T01:12:00Z</lastmod>
+  <loc>https://www.python-vigo.es/categories/jupyter.xml</loc>
+  <lastmod>2022-06-11T19:40:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>https://www.python-vigo.es/categorias/lista.xml</loc>
-  <lastmod>2019-06-19T20:33:00Z</lastmod>
+  <loc>https://www.python-vigo.es/categories/lista.xml</loc>
+  <lastmod>2022-06-11T19:40:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>https://www.python-vigo.es/categorias/mailman.xml</loc>
-  <lastmod>2019-06-19T20:33:00Z</lastmod>
+  <loc>https://www.python-vigo.es/categories/mailman.xml</loc>
+  <lastmod>2022-06-11T19:40:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>https://www.python-vigo.es/categorias/pybirras.xml</loc>
-  <lastmod>2021-11-17T22:31:00Z</lastmod>
+  <loc>https://www.python-vigo.es/categories/pybirras.xml</loc>
+  <lastmod>2022-06-11T19:40:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>https://www.python-vigo.es/categorias/python.xml</loc>
-  <lastmod>2022-06-11T14:45:00Z</lastmod>
+  <loc>https://www.python-vigo.es/categories/python.xml</loc>
+  <lastmod>2022-06-11T20:07:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>https://www.python-vigo.es/categorias/quantum.xml</loc>
-  <lastmod>2021-11-17T22:31:00Z</lastmod>
+  <loc>https://www.python-vigo.es/categories/quantum.xml</loc>
+  <lastmod>2022-06-11T19:40:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>https://www.python-vigo.es/categorias/shell.xml</loc>
-  <lastmod>2019-06-19T20:33:00Z</lastmod>
+  <loc>https://www.python-vigo.es/categories/shell.xml</loc>
+  <lastmod>2022-06-11T19:40:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>https://www.python-vigo.es/categorias/twitter.xml</loc>
-  <lastmod>2019-06-19T20:33:00Z</lastmod>
+  <loc>https://www.python-vigo.es/categories/twitter.xml</loc>
+  <lastmod>2022-06-11T19:40:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>https://www.python-vigo.es/categorias/vigo.xml</loc>
-  <lastmod>2022-06-11T14:45:00Z</lastmod>
+  <loc>https://www.python-vigo.es/categories/vigo.xml</loc>
+  <lastmod>2022-06-11T20:07:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://www.python-vigo.es/rss.xml</loc>
-  <lastmod>2022-06-11T14:45:00Z</lastmod>
+  <lastmod>2022-06-11T20:07:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://www.python-vigo.es/sitemap.xml</loc>
-  <lastmod>2022-06-11T14:45:00Z</lastmod>
+  <lastmod>2022-06-11T20:07:00Z</lastmod>
  </sitemap>
 </sitemapindex>

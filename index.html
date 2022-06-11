@@ -1,21 +1,23 @@
 <!DOCTYPE html>
-<html prefix="og: http://ogp.me/ns# article: http://ogp.me/ns/article# " lang="es">
+<html prefix="og: http://ogp.me/ns# article: http://ogp.me/ns/article#
+" lang="es">
 <head>
 <meta charset="utf-8">
 <meta name="description" content="Grupo Python Vigo">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Python Vigo</title>
 <link href="assets/css/bootstrap.min.css" rel="stylesheet" type="text/css">
+<link href="assets/css/baguetteBox.min.css" rel="stylesheet" type="text/css">
 <link href="assets/css/rst.css" rel="stylesheet" type="text/css">
 <link href="assets/css/code.css" rel="stylesheet" type="text/css">
-<link href="assets/css/colorbox.css" rel="stylesheet" type="text/css">
 <link href="assets/css/theme.css" rel="stylesheet" type="text/css">
 <link href="assets/css/custom.css" rel="stylesheet" type="text/css">
-<meta content="#5670d4" name="theme-color">
-<link rel="alternate" type="application/rss+xml" title="RSS" href="rss.xml">
+<meta name="theme-color" content="#5670d4">
+<meta name="generator" content="Nikola (getnikola.com)">
+<link rel="alternate" type="application/rss+xml" title="RSS" hreflang="es" href="rss.xml">
 <link rel="canonical" href="https://www.python-vigo.es/">
 <link rel="icon" href="favicon.ico" sizes="48x48">
-<link rel="icon" href="favicon128.png" sizes="128x128">
+<link rel="icon" href="icon_128x128.png" sizes="128x128">
 <link rel="next" href="index-6.html" type="text/html">
 <!--[if lt IE 9]><script src="assets/js/html5.js"></script><![endif]--><meta property="og:image" content="https://www.python-vigo.es/pythonvigologo-medium.png">
 <link rel="prefetch" href="posts/reunion-junio-2022/" type="text/html">
@@ -25,27 +27,25 @@
 
 <!-- Menubar -->
 
-<nav class="navbar navbar-inverse navbar-static-top"><div class="container">
+<nav class="navbar navbar-expand-md static-top mb-4
+navbar-dark
+bg-dark
+"><div class="container">
 <!-- This keeps the margins nice -->
-        <div class="navbar-header">
-            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-navbar" aria-controls="bs-navbar" aria-expanded="false">
-            <span class="sr-only">Toggle navigation</span>
-            <span class="icon-bar"></span>
-            <span class="icon-bar"></span>
-            <span class="icon-bar"></span>
-            </button>
-            <a class="navbar-brand" href="https://www.python-vigo.es/">
-                <img src="https://www.python-vigo.es/pythonvigologo-mini.png" alt="Python Vigo" id="logo"><span id="blog-title">Python Vigo</span>
-            </a>
-        </div>
-<!-- /.navbar-header -->
-        <div class="collapse navbar-collapse" id="bs-navbar" aria-expanded="false">
-            <ul class="nav navbar-nav"><li>
-<a href="rss.xml">Feed RSS</a>
+        <a class="navbar-brand" href=".">
+            <img src="https://www.python-vigo.es/pythonvigologo-mini.png" alt="Python Vigo" id="logo" class="d-inline-block align-top"><span id="blog-title">Python Vigo</span>
+        </a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#bs-navbar" aria-controls="bs-navbar" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+
+        <div class="collapse navbar-collapse" id="bs-navbar">
+            <ul class="navbar-nav mr-auto"><li class="nav-item">
+<a href="rss.xml" class="nav-link">Canal RSS</a>
 
                 
             </li></ul>
-<ul class="nav navbar-nav navbar-right"></ul>
+<ul class="navbar-nav navbar-right"></ul>
 </div>
 <!-- /.navbar-collapse -->
     </div>
@@ -53,22 +53,27 @@
 </nav><!-- End of Menubar --><div class="container" id="content" role="main">
     <div class="body-content">
         <!--Body content-->
-        <div class="row">
-            
-            
+        
+        
+        
+
+    
+
 
     
 <div class="postindex">
-    <article class="h-entry post-text"><header><h1 class="p-name entry-title"><a href="posts/reunion-junio-2022/" class="u-url">Reunión Junio 2022</a></h1>
+    <article class="h-entry post-text" itemscope="itemscope" itemtype="http://schema.org/Article"><header><h1 class="p-name entry-title"><a href="posts/reunion-junio-2022/" class="u-url">Reunión Junio 2022</a></h1>
         <div class="metadata">
-            <p class="byline author vcard"><span class="byline-name fn">
+            <p class="byline author vcard"><span class="byline-name fn" itemprop="author">
                 <a href="authors/python-vigo/">Python Vigo</a>
             </span></p>
-            <p class="dateline"><a href="posts/reunion-junio-2022/" rel="bookmark"><time class="published dt-published" datetime="2022-06-10T21:33:42+02:00" title="21:33 10/06/2022">21:33 10/06/2022</time></a></p>
+            <p class="dateline">
+            <a href="posts/reunion-junio-2022/" rel="bookmark">
+            <time class="published dt-published" datetime="2022-06-10T21:33:42+02:00" itemprop="datePublished" title="21:33 10/06/2022">21:33 10/06/2022</time></a>
+            </p>
         </div>
     </header><div class="e-content entry-content">
-    <div>
-<p>¡Hola!</p>
+    <p>¡Hola!</p>
 <p>Ya casi a las puertas del verano volvemos con una reunión un poco diferente. Tendremos
 no uno sino cuatro ponentes que vendrán a hablar de diferentes modulos.</p>
 <p>Serán charlas de aproximadamente 10 minutos + preguntas una buena oportunidad para
@@ -76,88 +81,85 @@ introducirse en cada uno de los temas.</p>
 <p>La reunión será el próximo <strong>jueves día 16 de Junio, a las 20.00</strong> en el <a class="reference external" href="https://goo.gl/maps/asJ86HfJQZ1VvD9B8">Café UF</a>
 en Rúa Pracer 19, al lado del Concello.</p>
 <ul class="simple">
-<li><dl class="first docutils">
+<li><dl class="simple">
 <dt><strong>Charlas [20.00]</strong></dt>
-<dd><ul class="first last">
-<li>
-<em>Entornos virtuales</em> por Miguel González (<a class="reference external" href="https://twitter.com/migonzalvar">Twitter</a>)</li>
-<li>
-<em>Pydantic</em> por David Lorenzo (<a class="reference external" href="https://twitter.com/David_Lor_">Twitter</a>)</li>
-<li>
-<em>Python idiomático</em> por Xurxo Fresco (<a class="reference external" href="https://twitter.com/xurxof">Twitter</a>)</li>
-<li>
-<em>PyScript</em> por David Ibañez (<a class="reference external" href="https://twitter.com/david_ibanez">Twitter</a>)</li>
+<dd><ul>
+<li><p><em>Entornos virtuales</em> por Miguel González (<a class="reference external" href="https://twitter.com/migonzalvar">Twitter</a>)</p></li>
+<li><p><em>Pydantic</em> por David Lorenzo (<a class="reference external" href="https://twitter.com/David_Lor_">Twitter</a>)</p></li>
+<li><p><em>Python idiomático</em> por Xurxo Fresco (<a class="reference external" href="https://twitter.com/xurxof">Twitter</a>)</p></li>
+<li><p><em>PyScript</em> por David Ibañez (<a class="reference external" href="https://twitter.com/david_ibanez">Twitter</a>)</p></li>
 </ul></dd>
 </dl></li>
-<li><dl class="first docutils">
+<li><dl class="simple">
 <dt>
 <strong>Lightning Talks</strong> [1]</dt>
-<dd><ul class="first last">
-<li>Como siempre, quién lo desee tiene la oportunidad de contarnos algo en 5 minutos cronometrados ;)</li>
+<dd><ul>
+<li><p>Como siempre, quién lo desee tiene la oportunidad de contarnos algo en 5 minutos cronometrados ;)</p></li>
 </ul></dd>
 </dl></li>
-<li>
-<strong>PyBirras</strong> Un vez finalizado, nos quedaremos un rato y tomaremos algo en el propio local.</li>
+<li><p><strong>PyBirras</strong> Un vez finalizado, nos quedaremos un rato y tomaremos algo en el propio local.</p></li>
 </ul>
 <p>Recordad que <strong>todas estas actividades son gratuitas y de acceso libre</strong> para cualquier persona, sin darse de alta en ningún sitio.</p>
 <p>No habrá límites de aforo más allá del propio impuesto por el local y por ser en interior según la normativa vigente <strong>será indispensable el uso de mascarillas</strong>.</p>
 <p>Gracias a todos y todas y nos vemos el día 21!</p>
-<p>Un saludo.</p>
+<p>Un saludo!</p>
 <p>[1] MECÁNICA DE LAS CHARLAS RELÁMPAGO (LIGHTNING TALKS)</p>
 <ul class="simple">
-<li>Charla de 5 minutos de reloj sobre cualquier tema de Python o relacionado</li>
-<li>Cuando se acaba el tiempo, la gente empieza a aplaudir (aunque el ponente no haya acabado)</li>
+<li><p>Charla de 5 minutos de reloj sobre cualquier tema de Python o relacionado</p></li>
+<li><p>Cuando se acaba el tiempo, la gente empieza a aplaudir (aunque el ponente no haya acabado)</p></li>
 </ul>
 <p>[2] Vías de comunicación</p>
 <ul class="simple">
-<li><a class="reference external" href="https://lists.es.python.org/listinfo/vigo/">Lista de correo (única vía 100% oficial)</a></li>
-<li><a class="reference external" href="https://twitter.com/python_vigo/">Twitter</a></li>
-<li><a class="reference external" href="https://t.me/+B9bb6mt07Uyp5Pj7">Grupo de Telegram</a></li>
-<li><dl class="first docutils">
+<li><p><a class="reference external" href="https://lists.es.python.org/listinfo/vigo/">Lista de correo (única vía 100% oficial)</a></p></li>
+<li><p><a class="reference external" href="https://twitter.com/python_vigo/">Twitter</a></p></li>
+<li><p><a class="reference external" href="https://t.me/+B9bb6mt07Uyp5Pj7">Grupo de Telegram</a></p></li>
+<li><dl class="simple">
 <dt>Slack (canal #pythonvigo):</dt>
-<dd><ul class="first last">
-<li><a class="reference external" href="https://slackin-vigotech.herokuapp.com/">Obtener invitación</a></li>
-<li><a class="reference external" href="https://vigotechalliance.slack.com/">Acceso al grupo</a></li>
+<dd><ul>
+<li><p><a class="reference external" href="https://slackin-vigotech.herokuapp.com/">Obtener invitación</a></p></li>
+<li><p><a class="reference external" href="https://vigotechalliance.slack.com/">Acceso al grupo</a></p></li>
 </ul></dd>
 </dl></li>
 </ul>
 </div>
-    </div>
-    </article><article class="h-entry post-text"><header><h1 class="p-name entry-title"><a href="posts/reunion-mayo-2022/" class="u-url">Reunión Mayo 2022</a></h1>
+    </article><article class="h-entry post-text" itemscope="itemscope" itemtype="http://schema.org/Article"><header><h1 class="p-name entry-title"><a href="posts/reunion-mayo-2022/" class="u-url">Reunión Mayo 2022</a></h1>
         <div class="metadata">
-            <p class="byline author vcard"><span class="byline-name fn">
+            <p class="byline author vcard"><span class="byline-name fn" itemprop="author">
                 <a href="authors/python-vigo/">Python Vigo</a>
             </span></p>
-            <p class="dateline"><a href="posts/reunion-mayo-2022/" rel="bookmark"><time class="published dt-published" datetime="2022-05-11T20:36:12+02:00" title="20:36 11/05/2022">20:36 11/05/2022</time></a></p>
+            <p class="dateline">
+            <a href="posts/reunion-mayo-2022/" rel="bookmark">
+            <time class="published dt-published" datetime="2022-05-11T20:36:12+02:00" itemprop="datePublished" title="20:36 11/05/2022">20:36 11/05/2022</time></a>
+            </p>
         </div>
     </header><div class="e-content entry-content">
-    <div>
-<p>¡Hola!</p>
+    <p>¡Hola!</p>
 <p>Volvemos este mes con una charla y un ponente top.</p>
 <p>La reunión será el próximo <strong>jueves día 19 de Mayo, a las 20.00</strong> en el <a class="reference external" href="https://goo.gl/maps/asJ86HfJQZ1VvD9B8">Café UF</a>
 en Rúa Pracer 19, al lado del Concello.</p>
 <p>Si alguna vez te ha interesado el desarrollo de software para información geográfica (SIG) no te puedes perder
 esta charla. Como siempre al finalizar quien quiera puede dar una charla relámpago de cualquier tema relacionado con Python!</p>
 <ul class="simple">
-<li><dl class="first docutils">
+<li><dl class="simple">
 <dt><strong>Charla [20.00]</strong></dt>
-<dd><ul class="first last">
-<li><dl class="first docutils">
+<dd><ul>
+<li><dl class="simple">
 <dt>
 <em>Micho, ¿qué haces?, ¿cosas?, si, ¿cosas geo?</em> por Micho García de Geomáticos (<a class="reference external" href="https://twitter.com/geomati_co">Twitter</a>)</dt>
-<dd>Una breve introducción al mundo de las cosas geo de la mano de Python.</dd>
+<dd>
+<p>Una breve introducción al mundo de las cosas geo de la mano de Python.</p>
+</dd>
 </dl></li>
 </ul></dd>
 </dl></li>
-<li><dl class="first docutils">
+<li><dl class="simple">
 <dt>
 <strong>Lightning Talks</strong> [1]</dt>
-<dd><ul class="first last">
-<li>Quién lo desee tiene la oportunidad de contarnos algo en 5 minutos cronometrados ;)</li>
+<dd><ul>
+<li><p>Quién lo desee tiene la oportunidad de contarnos algo en 5 minutos cronometrados ;)</p></li>
 </ul></dd>
 </dl></li>
-<li>
-<strong>PyBirras</strong> Un vez finalizado, nos quedaremos un rato tomaremos algo en el propio local.</li>
+<li><p><strong>PyBirras</strong> Un vez finalizado, nos quedaremos un rato tomaremos algo en el propio local.</p></li>
 </ul>
 <p>Recordad que <strong>todas estas actividades son gratuitas y de acceso libre</strong> para cualquier persona, sin darse de alta en ningún sitio.
 No habrá límites de aforo más allá del propio impuesto por el local y por ser en interior según la normativa vigente <strong>será indispensable el uso de mascarillas</strong>.</p>
@@ -165,58 +167,60 @@ No habrá límites de aforo más allá del propio impuesto por el local y por se
 <p>Un saludo.</p>
 <p>[1] MECÁNICA DE LAS CHARLAS RELÁMPAGO (LIGHTNING TALKS)</p>
 <ul class="simple">
-<li>Charla de 5 minutos de reloj sobre cualquier tema de Python o relacionado</li>
-<li>Cuando se acaba el tiempo, la gente empieza a aplaudir (aunque el ponente no haya acabado)</li>
+<li><p>Charla de 5 minutos de reloj sobre cualquier tema de Python o relacionado</p></li>
+<li><p>Cuando se acaba el tiempo, la gente empieza a aplaudir (aunque el ponente no haya acabado)</p></li>
 </ul>
 <p>[2] Vías de comunicación</p>
 <ul class="simple">
-<li><a class="reference external" href="https://lists.es.python.org/listinfo/vigo/">Lista de correo (única vía 100% oficial)</a></li>
-<li><a class="reference external" href="https://twitter.com/python_vigo/">Twitter</a></li>
-<li><a class="reference external" href="https://t.me/+B9bb6mt07Uyp5Pj7">Grupo de Telegram</a></li>
-<li><dl class="first docutils">
+<li><p><a class="reference external" href="https://lists.es.python.org/listinfo/vigo/">Lista de correo (única vía 100% oficial)</a></p></li>
+<li><p><a class="reference external" href="https://twitter.com/python_vigo/">Twitter</a></p></li>
+<li><p><a class="reference external" href="https://t.me/+B9bb6mt07Uyp5Pj7">Grupo de Telegram</a></p></li>
+<li><dl class="simple">
 <dt>Slack (canal #pythonvigo):</dt>
-<dd><ul class="first last">
-<li><a class="reference external" href="https://slackin-vigotech.herokuapp.com/">Obtener invitación</a></li>
-<li><a class="reference external" href="https://vigotechalliance.slack.com/">Acceso al grupo</a></li>
+<dd><ul>
+<li><p><a class="reference external" href="https://slackin-vigotech.herokuapp.com/">Obtener invitación</a></p></li>
+<li><p><a class="reference external" href="https://vigotechalliance.slack.com/">Acceso al grupo</a></p></li>
 </ul></dd>
 </dl></li>
 </ul>
 </div>
-    </div>
-    </article><article class="h-entry post-text"><header><h1 class="p-name entry-title"><a href="posts/reunion-abril-2022/" class="u-url">Reunión Abril 2022</a></h1>
+    </article><article class="h-entry post-text" itemscope="itemscope" itemtype="http://schema.org/Article"><header><h1 class="p-name entry-title"><a href="posts/reunion-abril-2022/" class="u-url">Reunión Abril 2022</a></h1>
         <div class="metadata">
-            <p class="byline author vcard"><span class="byline-name fn">
+            <p class="byline author vcard"><span class="byline-name fn" itemprop="author">
                 <a href="authors/python-vigo/">Python Vigo</a>
             </span></p>
-            <p class="dateline"><a href="posts/reunion-abril-2022/" rel="bookmark"><time class="published dt-published" datetime="2022-04-11T22:36:09+01:00" title="22:36 11/04/2022">22:36 11/04/2022</time></a></p>
+            <p class="dateline">
+            <a href="posts/reunion-abril-2022/" rel="bookmark">
+            <time class="published dt-published" datetime="2022-04-11T22:36:09+01:00" itemprop="datePublished" title="22:36 11/04/2022">22:36 11/04/2022</time></a>
+            </p>
         </div>
     </header><div class="e-content entry-content">
-    <div>
-<p>¡Hola!</p>
+    <p>¡Hola!</p>
 <p>Por tercera vez este 2022 nos juntamos para hablar de Python!</p>
 <p>La reunión será <strong>jueves día 21 de Abril, a las 20.00</strong>. Una vez más será en el <a class="reference external" href="https://goo.gl/maps/asJ86HfJQZ1VvD9B8">Café UF</a>
 en Rúa Pracer 19, al lado del Concello.</p>
 <p>Si estás interesado en el backend y desarrollo de APIs quizás la charla sea para ti.</p>
 <ul class="simple">
-<li><dl class="first docutils">
+<li><dl class="simple">
 <dt><strong>Charla [20.00]</strong></dt>
-<dd><ul class="first last">
-<li><dl class="first docutils">
+<dd><ul>
+<li><dl class="simple">
 <dt>
 <em>Evoluciona tu API en Python con GraphQL</em> por Álex Hermida (<a class="reference external" href="https://twitter.com/alexhermida">Twitter</a>)</dt>
-<dd>Hablaremos de GraphQL con una introducción al lenguaje y algunas de las implementaciones en Python.</dd>
+<dd>
+<p>Hablaremos de GraphQL con una introducción al lenguaje y algunas de las implementaciones en Python.</p>
+</dd>
 </dl></li>
 </ul></dd>
 </dl></li>
-<li><dl class="first docutils">
+<li><dl class="simple">
 <dt>
 <strong>Lightning Talks</strong> [1]</dt>
-<dd><ul class="first last">
-<li>Quién lo desee tiene la oportunidad de contarnos algo en 5 minutos cronometrados ;)</li>
+<dd><ul>
+<li><p>Quién lo desee tiene la oportunidad de contarnos algo en 5 minutos cronometrados ;)</p></li>
 </ul></dd>
 </dl></li>
-<li>
-<strong>PyBirras</strong> Un vez finalizado, nos quedaremos un rato tomaremos algo en el propio local.</li>
+<li><p><strong>PyBirras</strong> Un vez finalizado, nos quedaremos un rato tomaremos algo en el propio local.</p></li>
 </ul>
 <p>Recordad que <strong>todas estas actividades son gratuitas y de acceso libre</strong> para cualquier persona, sin darse de alta en ningún sitio.
 No habrá límites de aforo más allá del propio impuesto por el local y por ser en interior según la normativa vigente <strong>será indispensable el uso de mascarillas</strong>.</p>
@@ -224,46 +228,48 @@ No habrá límites de aforo más allá del propio impuesto por el local y por se
 <p>Un saludo.</p>
 <p>[1] MECÁNICA DE LAS CHARLAS RELÁMPAGO (LIGHTNING TALKS)</p>
 <ul class="simple">
-<li>Charla de 5 minutos de reloj sobre cualquier tema de Python o relacionado</li>
-<li>Cuando se acaba el tiempo, la gente empieza a aplaudir (aunque el ponente no haya acabado)</li>
+<li><p>Charla de 5 minutos de reloj sobre cualquier tema de Python o relacionado</p></li>
+<li><p>Cuando se acaba el tiempo, la gente empieza a aplaudir (aunque el ponente no haya acabado)</p></li>
 </ul>
 </div>
-    </div>
-    </article><article class="h-entry post-text"><header><h1 class="p-name entry-title"><a href="posts/reunion-marzo-2022/" class="u-url">Reunión Marzo 2022</a></h1>
+    </article><article class="h-entry post-text" itemscope="itemscope" itemtype="http://schema.org/Article"><header><h1 class="p-name entry-title"><a href="posts/reunion-marzo-2022/" class="u-url">Reunión Marzo 2022</a></h1>
         <div class="metadata">
-            <p class="byline author vcard"><span class="byline-name fn">
+            <p class="byline author vcard"><span class="byline-name fn" itemprop="author">
                 <a href="authors/python-vigo/">Python Vigo</a>
             </span></p>
-            <p class="dateline"><a href="posts/reunion-marzo-2022/" rel="bookmark"><time class="published dt-published" datetime="2022-03-09T22:36:09+01:00" title="22:36 09/03/2022">22:36 09/03/2022</time></a></p>
+            <p class="dateline">
+            <a href="posts/reunion-marzo-2022/" rel="bookmark">
+            <time class="published dt-published" datetime="2022-03-09T22:36:09+01:00" itemprop="datePublished" title="22:36 09/03/2022">22:36 09/03/2022</time></a>
+            </p>
         </div>
     </header><div class="e-content entry-content">
-    <div>
-<p>¡Hola!</p>
+    <p>¡Hola!</p>
 <p>Este mes volvemos &lt;&lt;excepcionalmente&gt;&gt; el último jueves de mes debido a problemas de agenda, pero después de retomar las charlas
 el mes pasado tenemos todavía más ganas.</p>
 <p>La reunión será <strong>jueves día 24 de Marzo, a las 20.00</strong>, en esta ocasión será en el <a class="reference external" href="https://goo.gl/maps/asJ86HfJQZ1VvD9B8">Café UF</a>
 en Rúa Pracer 19, al lado del Concello..</p>
 <p>En esta ocasión tendremos una charla muy interesante para cualquier que trabaje a diario o se esté iniciando en Python:</p>
 <ul class="simple">
-<li><dl class="first docutils">
+<li><dl class="simple">
 <dt><strong>Charla [20.00]</strong></dt>
-<dd><ul class="first last">
-<li><dl class="first docutils">
+<dd><ul>
+<li><dl class="simple">
 <dt>
 <em>Introducción a pyTest</em> por David Lorenzo (<a class="reference external" href="https://twitter.com/David_Lor_">Twitter</a>)</dt>
-<dd>David nos iniciará en los primeros pasos en el testing con Python, utilizando la librería pyTest y explorando las funcionalidades que nos ofrece.</dd>
+<dd>
+<p>David nos iniciará en los primeros pasos en el testing con Python, utilizando la librería pyTest y explorando las funcionalidades que nos ofrece.</p>
+</dd>
 </dl></li>
 </ul></dd>
 </dl></li>
-<li><dl class="first docutils">
+<li><dl class="simple">
 <dt>
 <strong>Lightning Talks</strong> [1]</dt>
-<dd><ul class="first last">
-<li>Quién lo desee tiene la oportunidad de contarnos algo en 5 minutos cronometrados ;)</li>
+<dd><ul>
+<li><p>Quién lo desee tiene la oportunidad de contarnos algo en 5 minutos cronometrados ;)</p></li>
 </ul></dd>
 </dl></li>
-<li>
-<strong>PyBirras</strong> Un vez finalizado, nos quedaremos un rato tomaremos algo en el propio local.</li>
+<li><p><strong>PyBirras</strong> Un vez finalizado, nos quedaremos un rato tomaremos algo en el propio local.</p></li>
 </ul>
 <p>Recordad que <strong>todas estas actividades son gratuitas y de acceso libre</strong> para cualquier persona, sin darse de alta en ningún sitio.
 No habrá límites de aforo más allá del propio impuesto por el local y por ser en interior según la normativa vigente <strong>será indispensable el uso de mascarillas</strong>.</p>
@@ -271,44 +277,46 @@ No habrá límites de aforo más allá del propio impuesto por el local y por se
 <p>Un saludo.</p>
 <p>[1] MECÁNICA DE LAS CHARLAS RELÁMPAGO (LIGHTNING TALKS)</p>
 <ul class="simple">
-<li>Charla de 5 minutos de reloj sobre cualquier tema de Python o relacionado</li>
-<li>Cuando se acaba el tiempo, la gente empieza a aplaudir (aunque el ponente no haya acabado)</li>
+<li><p>Charla de 5 minutos de reloj sobre cualquier tema de Python o relacionado</p></li>
+<li><p>Cuando se acaba el tiempo, la gente empieza a aplaudir (aunque el ponente no haya acabado)</p></li>
 </ul>
 </div>
-    </div>
-    </article><article class="h-entry post-text"><header><h1 class="p-name entry-title"><a href="posts/reunion-febrero-2022/" class="u-url">Reunión Febrero 2022</a></h1>
+    </article><article class="h-entry post-text" itemscope="itemscope" itemtype="http://schema.org/Article"><header><h1 class="p-name entry-title"><a href="posts/reunion-febrero-2022/" class="u-url">Reunión Febrero 2022</a></h1>
         <div class="metadata">
-            <p class="byline author vcard"><span class="byline-name fn">
+            <p class="byline author vcard"><span class="byline-name fn" itemprop="author">
                 <a href="authors/python-vigo/">Python Vigo</a>
             </span></p>
-            <p class="dateline"><a href="posts/reunion-febrero-2022/" rel="bookmark"><time class="published dt-published" datetime="2022-02-09T21:37:28+01:00" title="21:37 09/02/2022">21:37 09/02/2022</time></a></p>
+            <p class="dateline">
+            <a href="posts/reunion-febrero-2022/" rel="bookmark">
+            <time class="published dt-published" datetime="2022-02-09T21:37:28+01:00" itemprop="datePublished" title="21:37 09/02/2022">21:37 09/02/2022</time></a>
+            </p>
         </div>
     </header><div class="e-content entry-content">
-    <div>
-<p>¡Hola!</p>
+    <p>¡Hola!</p>
 <p>Por fín estamos de vuelta! Primera reunión presencial (si, si, presencial!) del año 2022 y con muchas ganas :)</p>
 <p>El <strong>jueves día 17 de Febrero, a las 20.00</strong> nos veremos de nuevo las caras.</p>
 <p>Para esta reunión tenemos preparado lo siguiente:</p>
 <ul class="simple">
-<li>
-<strong>Presentación del grupo [20.00]</strong>: Después de casi dos años desde el último evento presencial es posible que haya caras nuevas, en cualquier caso haremos un breve repaso de eventos pasados y objetivos del grupo.</li>
-<li><dl class="first docutils">
+<li><p><strong>Presentación del grupo [20.00]</strong>: Después de casi dos años desde el último evento presencial es posible que haya caras nuevas, en cualquier caso haremos un breve repaso de eventos pasados y objetivos del grupo.</p></li>
+<li><dl class="simple">
 <dt><strong>Charla [20.10]</strong></dt>
-<dd><ul class="first last">
-<li><dl class="first docutils">
+<dd><ul>
+<li><dl class="simple">
 <dt>
 <em>De Jupyter a la Tierra</em> por Óscar Iglesias (<a class="reference external" href="http://linkedin.com/in/oscarigrexas">LinkedIn</a> / <a class="reference external" href="http://github.com/oscarigrexas">Github</a>)</dt>
-<dd>Óscar trabaja en Gradiant en el área de datos. Compartirá con nosotros una introducción a las pipelines de datos trabajando sobre un ejemplo de machine learning, trasladando una libreta Jupyter al mundo real.</dd>
+<dd>
+<p>Óscar trabaja en Gradiant en el área de datos. Compartirá con nosotros una introducción a las pipelines de datos trabajando sobre un ejemplo de machine learning, trasladando una libreta Jupyter al mundo real.</p>
+</dd>
 </dl></li>
 </ul></dd>
 </dl></li>
-<li><dl class="first docutils">
+<li><dl class="simple">
 <dt><strong>Lightning Talks</strong></dt>
-<dd><ul class="first last">
-<li>Como venía siendo habitual, quién le apetezca puede dar una charla corta, la puede traer preparada o no, lo más importante, máximo 5 minutos pondremos el cronómetro a funcionar!</li>
+<dd><ul>
+<li><p>Como venía siendo habitual, quién le apetezca puede dar una charla corta, la puede traer preparada o no, lo más importante, máximo 5 minutos pondremos el cronómetro a funcionar!</p></li>
 </ul></dd>
 </dl></li>
-<li>Al acabar iremos a tomar algo a alguna local cercano si el tiempo lo permite.</li>
+<li><p>Al acabar iremos a tomar algo a alguna local cercano si el tiempo lo permite.</p></li>
 </ul>
 <p>En esta ocasión nuestros compañeros del Hackspace de <a class="reference external" href="https://aindustriosa.org/">A Industriosa</a> (<a class="reference external" href="https://goo.gl/maps/jKMdepWKVDQmgrd86">Ubicación</a>) nos ceden el local
 para poder juntarnos. Si tenéis curiosidad de qué se cuece por allí entrad en la web y echad un ojo, así como los eventos
@@ -318,18 +326,19 @@ que organizan en <a class="reference external" href="https://www.meetup.com/en-A
 actualmente de ninguna plataforma de registro, se realizará por orden de llegada.</p>
 <p>Gracias a todos y todas y nos vemos el día 17!</p>
 <p>Un saludo.</p>
-</div>
     </div>
-    </article><article class="h-entry post-text"><header><h1 class="p-name entry-title"><a href="posts/pybirras-estamos-de-vuelta/" class="u-url">Pybirras! Estamos de vuelta</a></h1>
+    </article><article class="h-entry post-text" itemscope="itemscope" itemtype="http://schema.org/Article"><header><h1 class="p-name entry-title"><a href="posts/pybirras-estamos-de-vuelta/" class="u-url">Pybirras! Estamos de vuelta</a></h1>
         <div class="metadata">
-            <p class="byline author vcard"><span class="byline-name fn">
+            <p class="byline author vcard"><span class="byline-name fn" itemprop="author">
                 <a href="authors/python-vigo/">Python Vigo</a>
             </span></p>
-            <p class="dateline"><a href="posts/pybirras-estamos-de-vuelta/" rel="bookmark"><time class="published dt-published" datetime="2021-11-17T23:06:14+01:00" title="23:06 17/11/2021">23:06 17/11/2021</time></a></p>
+            <p class="dateline">
+            <a href="posts/pybirras-estamos-de-vuelta/" rel="bookmark">
+            <time class="published dt-published" datetime="2021-11-17T23:06:14+01:00" itemprop="datePublished" title="23:06 17/11/2021">23:06 17/11/2021</time></a>
+            </p>
         </div>
     </header><div class="e-content entry-content">
-    <div>
-<p>Hola de nuevo! ¿Estamos de vuelta? pues casi!</p>
+    <p>Hola de nuevo! ¿Estamos de vuelta? pues casi!</p>
 <p>De cara a reactivar la actividad a partir de Enero hemos pensado que nada mejor que vernos las caras después de tanto tiempo,
 juntarnos para charlar, comentar todo lo que hemos aprendido y ver la hoja de ruta del próximo año.
 Y cómo no podía ser de otra manera, ya que hay que mantener algunas viejas costumbres, nos vemos el tercer jueves de este mes,
@@ -338,30 +347,33 @@ en este caso próximo <strong>Jueves día 18 a las 20:00</strong>, en la plaza d
 Por tranquilidad de todos nos juntaremos en una terraza manteniendo todas las medidas y abrigados eso sí.</p>
 <p>Todas las personas estáis invitadas a asistir a las PyBirras, hayáis asistido o no a una reunión del grupo anteriormente, por lo que os animamos a venir! La conversación siempre es distendida y no es necesario ningún conocimiento previo, sólo ganas de charlar un rato.</p>
 <p>Un saludo!</p>
-</div>
     </div>
-    </article><article class="h-entry post-text"><header><h1 class="p-name entry-title"><a href="posts/reunion-de-julio-2020/" class="u-url">Reunión de Julio 2020</a></h1>
+    </article><article class="h-entry post-text" itemscope="itemscope" itemtype="http://schema.org/Article"><header><h1 class="p-name entry-title"><a href="posts/reunion-de-julio-2020/" class="u-url">Reunión de Julio 2020</a></h1>
         <div class="metadata">
-            <p class="byline author vcard"><span class="byline-name fn">
+            <p class="byline author vcard"><span class="byline-name fn" itemprop="author">
                 <a href="authors/python-vigo/">Python Vigo</a>
             </span></p>
-            <p class="dateline"><a href="posts/reunion-de-julio-2020/" rel="bookmark"><time class="published dt-published" datetime="2020-07-07T23:10:30+02:00" title="23:10 07/07/2020">23:10 07/07/2020</time></a></p>
+            <p class="dateline">
+            <a href="posts/reunion-de-julio-2020/" rel="bookmark">
+            <time class="published dt-published" datetime="2020-07-07T23:10:30+02:00" itemprop="datePublished" title="23:10 07/07/2020">23:10 07/07/2020</time></a>
+            </p>
         </div>
     </header><div class="e-content entry-content">
-    <div>
-<p>¡Hola de nuevo!</p>
+    <p>¡Hola de nuevo!</p>
 <p>Después de unos meses complicados estamos de vuelta para la reunión de Julio!!.. pero en esta ocasión será online.
 Debido a la evolución de la situación actual pensamos que la alternativa más responsable es esta pero os mantendremos
 informados con posibles nuevas reuniones y actividades durante los próximos meses.</p>
 <p>Este mes os traemos una charla y ponente estrella.</p>
 <ul class="simple">
-<li><dl class="first docutils">
+<li><dl class="simple">
 <dt>
 <em>Creando tu propio simulador cuántico en 200 líneas</em> por <a class="reference external" href="https://twitter.com/ismaelfaro">Ismael Faro</a>
 </dt>
-<dd>Aprenderemos de la mano de un vigués, que trabaja en IBM Research en Nueva York, cómo crear nuestro propio
+<dd>
+<p>Aprenderemos de la mano de un vigués, que trabaja en IBM Research en Nueva York, cómo crear nuestro propio
 simulador cuántico. Durante toda la charla podréis realizar las preguntas que queráis y al final de la misma
-las comentaremos.</dd>
+las comentaremos.</p>
+</dd>
 </dl></li>
 </ul>
 <p>El streaming será, el próximo <strong>Jueves día 16 de Julio a las 19:30</strong> en nuestro <a class="reference external" href="https://www.youtube.com/channel/UCTUXabChakosnupWEnz4xTA">canal de YouTube</a>
@@ -370,62 +382,66 @@ si no os lo queréis perder <strong>suscribiros al canal!</strong>.</p>
 <a class="reference external" href="https://lists.es.python.org/listinfo/vigo/">lista de correo</a>, el grupo de <a class="reference external" href="https://t.me/joinchat/AAAAAAfW2-q8miOKsVGjCg">Telegram</a>
 o el canal #pythonvigo en el <a class="reference external" href="https://slackin-vigotech.herokuapp.com/">Slack de VigoTech.org</a>.</p>
 <p>Saludos y a mantenerse sanos! :D</p>
-</div>
     </div>
-    </article><article class="h-entry post-text"><header><h1 class="p-name entry-title"><a href="posts/suspension-reunion-de-marzo-2020/" class="u-url">Suspensión de la reunión de marzo 2020</a></h1>
+    </article><article class="h-entry post-text" itemscope="itemscope" itemtype="http://schema.org/Article"><header><h1 class="p-name entry-title"><a href="posts/suspension-reunion-de-marzo-2020/" class="u-url">Suspensión de la reunión de marzo 2020</a></h1>
         <div class="metadata">
-            <p class="byline author vcard"><span class="byline-name fn">
+            <p class="byline author vcard"><span class="byline-name fn" itemprop="author">
                 <a href="authors/python-vigo/">Python Vigo</a>
             </span></p>
-            <p class="dateline"><a href="posts/suspension-reunion-de-marzo-2020/" rel="bookmark"><time class="published dt-published" datetime="2020-03-12T14:10:30+02:00" title="14:10 12/03/2020">14:10 12/03/2020</time></a></p>
+            <p class="dateline">
+            <a href="posts/suspension-reunion-de-marzo-2020/" rel="bookmark">
+            <time class="published dt-published" datetime="2020-03-12T14:10:30+02:00" itemprop="datePublished" title="14:10 12/03/2020">14:10 12/03/2020</time></a>
+            </p>
         </div>
     </header><div class="e-content entry-content">
-    <div>
-<p>¡Hola!</p>
+    <p>¡Hola!</p>
 <p>Supongo que todos estaréis al tanto de la situación con respecto al Covid-19, así que por respeto a las medidas aconsejadas y aportar nuestro granito de arena a evitar/ralentizar la transmisión en la medida de lo posible, <strong>hemos decidido suspender la reunión de este mes</strong>.</p>
 <p>La reunión del mes que viene tampoco está claro si la llevaremos a cabo, ya se verá en base a cómo vaya evolucionando la situación y las recomendaciones. Os iremos informando.</p>
 <p>Por otra parte, en esta ocasión me gustaría proporcionar otros <strong>enlaces que consideramos de interés</strong>, que en esta ocasión no son los de PythonVigo y que tienen recursos fáciles de entender y compartir ;)</p>
 <ul class="simple">
-<li><a class="reference external" href="https://www.sergas.gal/Saude-publica/Novo-coronavirus-informacion-poboacion-">Información para la población, con infografía, teléfonos y recomendaciones de prevención y actuación por parte del Sergas</a></li>
-<li><a class="reference external" href="https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov-China/ciudadania.htm">Web de información para la ciudadanía del Ministerio de Sanidad, con informes y recursos fáciles de entender y compartir</a></li>
-<li><a class="reference external" href="https://www.who.int/es/emergencies/diseases/novel-coronavirus-2019">Página de la OMS con recomendaciones e información específica</a></li>
+<li><p><a class="reference external" href="https://www.sergas.gal/Saude-publica/Novo-coronavirus-informacion-poboacion-">Información para la población, con infografía, teléfonos y recomendaciones de prevención y actuación por parte del Sergas</a></p></li>
+<li><p><a class="reference external" href="https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov-China/ciudadania.htm">Web de información para la ciudadanía del Ministerio de Sanidad, con informes y recursos fáciles de entender y compartir</a></p></li>
+<li><p><a class="reference external" href="https://www.who.int/es/emergencies/diseases/novel-coronavirus-2019">Página de la OMS con recomendaciones e información específica</a></p></li>
 </ul>
 <p>Saludos y a mantenerse sanos! :D</p>
-</div>
     </div>
-    </article><article class="h-entry post-text"><header><h1 class="p-name entry-title"><a href="posts/reunion-del-grupo-el-20200220/" class="u-url">Reunión del Grupo el 20/02/2020</a></h1>
+    </article><article class="h-entry post-text" itemscope="itemscope" itemtype="http://schema.org/Article"><header><h1 class="p-name entry-title"><a href="posts/reunion-del-grupo-el-20200220/" class="u-url">Reunión del Grupo el 20/02/2020</a></h1>
         <div class="metadata">
-            <p class="byline author vcard"><span class="byline-name fn">
+            <p class="byline author vcard"><span class="byline-name fn" itemprop="author">
                 <a href="authors/python-vigo/">Python Vigo</a>
             </span></p>
-            <p class="dateline"><a href="posts/reunion-del-grupo-el-20200220/" rel="bookmark"><time class="published dt-published" datetime="2020-02-03T08:53:30+02:00" title="08:53 03/02/2020">08:53 03/02/2020</time></a></p>
+            <p class="dateline">
+            <a href="posts/reunion-del-grupo-el-20200220/" rel="bookmark">
+            <time class="published dt-published" datetime="2020-02-03T08:53:30+02:00" itemprop="datePublished" title="08:53 03/02/2020">08:53 03/02/2020</time></a>
+            </p>
         </div>
     </header><div class="e-content entry-content">
-    <div>
-<p>¡Hola!</p>
+    <p>¡Hola!</p>
 <p>Ya está cerca la reunión de este mes :D</p>
 <p>Esta vez toca el <strong>jueves día 20 de febrero, a las 20.00</strong> en el <a class="reference external" href="https://www.danielcastelao.org/">CFP Daniel Castelao</a>.</p>
 <p>En esta reunión <strong>continuamos con la serie charlas de Introducción a Python</strong>, para los que quieran introducirse en el mundillo <strong>Python desde cero</strong>.</p>
 <p>Para esta reunión tenemos preparado lo siguiente:</p>
 <ul class="simple">
-<li>
-<strong>Install party [19.30]</strong>: Venid media hora antes de las ponencias con vuestro portátil y os ayudamos a instalar Python y herramientas básicas.</li>
-<li><dl class="first docutils">
+<li><p><strong>Install party [19.30]</strong>: Venid media hora antes de las ponencias con vuestro portátil y os ayudamos a instalar Python y herramientas básicas.</p></li>
+<li><dl class="simple">
 <dt><strong>Ponencias [20.00]</strong></dt>
-<dd><ul class="first last">
-<li><dl class="first docutils">
+<dd><ul>
+<li><dl class="simple">
 <dt>[Iniciación]: <em>Introducción a Python 2ª parte</em> por Adrián Chaves</dt>
-<dd>Continuaremos aprendiendo los fundamentos y funcionalidades básicas de la programación en Python.</dd>
+<dd>
+<p>Continuaremos aprendiendo los fundamentos y funcionalidades básicas de la programación en Python.</p>
+</dd>
 </dl></li>
-<li><dl class="first docutils">
+<li><dl class="simple">
 <dt>[Charla]: <em>Distribuir paquetes en Python</em> por Miguel González</dt>
-<dd>Una cosa es programar un script con Python, pero ¿cómo distribuyes tu creación para que otros puedan usarla?</dd>
+<dd>
+<p>Una cosa es programar un script con Python, pero ¿cómo distribuyes tu creación para que otros puedan usarla?</p>
+</dd>
 </dl></li>
 </ul></dd>
 </dl></li>
-<li>
-<strong>Lightning Talks</strong> [1]</li>
-<li>Al acabar iremos a tomar algo a alguna cafetería cercana como habitualmente.</li>
+<li><p><strong>Lightning Talks</strong> [1]</p></li>
+<li><p>Al acabar iremos a tomar algo a alguna cafetería cercana como habitualmente.</p></li>
 </ul>
 <p>Recordad que <strong>todas estas actividades son gratuitas y de acceso libre</strong> para cualquier persona, sin darse de alta en ningún sitio.</p>
 <p>Más información y vías de contacto abajo [2] y [3]</p>
@@ -433,60 +449,59 @@ o el canal #pythonvigo en el <a class="reference external" href="https://slackin
 <p>--</p>
 <p>[1] MECÁNICA DE LAS CHARLAS RELÁMPAGO (LIGHTNING TALKS)</p>
 <ul class="simple">
-<li>Charla de 5 minutos de reloj sobre cualquier tema de Python o relacionado</li>
-<li>Cuando se acaba el tiempo, la gente empieza a aplaudir (aunque el ponente no haya acabado)</li>
+<li><p>Charla de 5 minutos de reloj sobre cualquier tema de Python o relacionado</p></li>
+<li><p>Cuando se acaba el tiempo, la gente empieza a aplaudir (aunque el ponente no haya acabado)</p></li>
 </ul>
 <p>[2] Vías de comunicación</p>
 <ul class="simple">
-<li>Lista de correo (única vía 100% oficial) <a class="reference external" href="https://lists.es.python.org/listinfo/vigo/">https://lists.es.python.org/listinfo/vigo/</a>
-</li>
-<li>Twitter <a class="reference external" href="https://twitter.com/python_vigo/">https://twitter.com/python_vigo/</a>
-</li>
-<li>Grupo de Telegram <a class="reference external" href="https://t.me/joinchat/AAAAAAfW2-q8miOKsVGjCg">https://t.me/joinchat/AAAAAAfW2-q8miOKsVGjCg</a>
-</li>
-<li>Slack (canal #pythonvigo):</li>
+<li><p>Lista de correo (única vía 100% oficial) <a class="reference external" href="https://lists.es.python.org/listinfo/vigo/">https://lists.es.python.org/listinfo/vigo/</a></p></li>
+<li><p>Twitter <a class="reference external" href="https://twitter.com/python_vigo/">https://twitter.com/python_vigo/</a></p></li>
+<li><p>Grupo de Telegram <a class="reference external" href="https://t.me/joinchat/AAAAAAfW2-q8miOKsVGjCg">https://t.me/joinchat/AAAAAAfW2-q8miOKsVGjCg</a></p></li>
+<li><p>Slack (canal #pythonvigo):</p></li>
 </ul>
 <p>      - Obtener invitación <a class="reference external" href="https://slackin-vigotech.herokuapp.com/">https://slackin-vigotech.herokuapp.com/</a></p>
 <p>      - Acceso al grupo <a class="reference external" href="https://vigotechalliance.slack.com/">https://vigotechalliance.slack.com/</a></p>
 <p>[3] Repositorio de material de charlas pasadas <a class="reference external" href="https://github.com/python-vigo/charlas">https://github.com/python-vigo/charlas</a></p>
 <img alt="/mapadanielcastelao_v2.png" src="mapadanielcastelao_v2.png">
 </div>
-    </div>
-    </article><article class="h-entry post-text"><header><h1 class="p-name entry-title"><a href="posts/reunion-del-grupo-el-20200116/" class="u-url">Reunión del Grupo el 16/01/2020</a></h1>
+    </article><article class="h-entry post-text" itemscope="itemscope" itemtype="http://schema.org/Article"><header><h1 class="p-name entry-title"><a href="posts/reunion-del-grupo-el-20200116/" class="u-url">Reunión del Grupo el 16/01/2020</a></h1>
         <div class="metadata">
-            <p class="byline author vcard"><span class="byline-name fn">
+            <p class="byline author vcard"><span class="byline-name fn" itemprop="author">
                 <a href="authors/python-vigo/">Python Vigo</a>
             </span></p>
-            <p class="dateline"><a href="posts/reunion-del-grupo-el-20200116/" rel="bookmark"><time class="published dt-published" datetime="2019-12-30T08:53:30+02:00" title="08:53 30/12/2019">08:53 30/12/2019</time></a></p>
+            <p class="dateline">
+            <a href="posts/reunion-del-grupo-el-20200116/" rel="bookmark">
+            <time class="published dt-published" datetime="2019-12-30T08:53:30+02:00" itemprop="datePublished" title="08:53 30/12/2019">08:53 30/12/2019</time></a>
+            </p>
         </div>
     </header><div class="e-content entry-content">
-    <div>
-<p>¡Hola!</p>
+    <p>¡Hola!</p>
 <p>Estamos ya calentando motores para la primera reunión del año 2020 :)</p>
 <p>Esta vez toca el <strong>jueves día 16 de enero, a las 20.00</strong> en el <a class="reference external" href="http://www.danielcastelao.org/">CFP Daniel Castelao</a>.</p>
 <p>En esta reunión <strong>empezamos con la serie de Introducción a Python</strong>, para los que quieran introducirse en el mundillo <strong>Python desde cero</strong>.</p>
 <p>Para esta reunión tenemos preparado lo siguiente:</p>
 <ul class="simple">
-<li>
-<strong>Install party [19.30]</strong>: Venid media hora antes de las ponencias con vuestro portátil y os ayudamos a instalar Python y herramientas básicas.</li>
-<li><dl class="first docutils">
+<li><p><strong>Install party [19.30]</strong>: Venid media hora antes de las ponencias con vuestro portátil y os ayudamos a instalar Python y herramientas básicas.</p></li>
+<li><dl class="simple">
 <dt><strong>Ponencias [20.00]</strong></dt>
-<dd><ul class="first last">
-<li><dl class="first docutils">
+<dd><ul>
+<li><dl class="simple">
 <dt>[Iniciación]: <em>Introducción a Python 1ª parte</em> por Xurxo Fresco</dt>
-<dd>Aprenderemos los fundamentos y funcionalidades básicas de la programación en Python.</dd>
+<dd>
+<p>Aprenderemos los fundamentos y funcionalidades básicas de la programación en Python.</p>
+</dd>
 </dl></li>
-<li><dl class="first docutils">
+<li><dl class="simple">
 <dt>[Charla]: <em>Polaris: Intelixencia artificial para satélites</em> por Xabi Crespo</dt>
-<dd>Telemetría, satélites, inteligencia artificial,... Para que todo ello cobre sentido, conoceremos de primera mano en qué consiste el proyecto Polaris, respaldado por la Agencia Espacial Europea (ESA) y que ha formado parte del Google Summer of Code 2019.</dd>
+<dd>
+<p>Telemetría, satélites, inteligencia artificial,... Para que todo ello cobre sentido, conoceremos de primera mano en qué consiste el proyecto Polaris, respaldado por la Agencia Espacial Europea (ESA) y que ha formado parte del Google Summer of Code 2019.</p>
+</dd>
 </dl></li>
 </ul></dd>
 </dl></li>
-<li>
-<strong>Lightning Talks</strong> [1]</li>
-<li>
-<strong>Recopilación de preguntas y dudas</strong>: Queremos dar forma a una sección que nos permita tener pequeños debates abiertos en caso de disponer de tiempo extra tras las otras actividades, para ello recordad que podéis enviar, a lista de correo [2] dudas o preguntas sobre temas que os interese que debatamos entre todos.La idea es disponer de una lista de temas/dudas/preguntas, que en cualquier reunión podamos votar cuáles nos interesa debatir en ese momento.</li>
-<li>Al acabar iremos a tomar algo a alguna cafetería cercana como habitualmente.</li>
+<li><p><strong>Lightning Talks</strong> [1]</p></li>
+<li><p><strong>Recopilación de preguntas y dudas</strong>: Queremos dar forma a una sección que nos permita tener pequeños debates abiertos en caso de disponer de tiempo extra tras las otras actividades, para ello recordad que podéis enviar, a lista de correo [2] dudas o preguntas sobre temas que os interese que debatamos entre todos.La idea es disponer de una lista de temas/dudas/preguntas, que en cualquier reunión podamos votar cuáles nos interesa debatir en ese momento.</p></li>
+<li><p>Al acabar iremos a tomar algo a alguna cafetería cercana como habitualmente.</p></li>
 </ul>
 <p>Recordad que <strong>todas estas actividades son gratuitas y de acceso libre</strong> para cualquier persona, sin darse de alta en ningún sitio.</p>
 <p>Además, os adelantamos que para la reunión de <strong>febrero</strong> tendremos la <strong>segunda parte de Introducción a Python</strong> y la charla <strong>Distribuir paquetes en Python</strong></p>
@@ -495,47 +510,40 @@ o el canal #pythonvigo en el <a class="reference external" href="https://slackin
 <p>--</p>
 <p>[1] MECÁNICA DE LAS CHARLAS RELÁMPAGO (LIGHTNING TALKS)</p>
 <ul class="simple">
-<li>Charla de 5 minutos de reloj sobre cualquier tema de Python o relacionado</li>
-<li>Cuando se acaba el tiempo, la gente empieza a aplaudir (aunque el ponente no haya acabado)</li>
+<li><p>Charla de 5 minutos de reloj sobre cualquier tema de Python o relacionado</p></li>
+<li><p>Cuando se acaba el tiempo, la gente empieza a aplaudir (aunque el ponente no haya acabado)</p></li>
 </ul>
 <p>[2] Vías de comunicación</p>
 <ul class="simple">
-<li>Lista de correo (única vía 100% oficial) <a class="reference external" href="https://lists.es.python.org/listinfo/vigo/">https://lists.es.python.org/listinfo/vigo/</a>
-</li>
-<li>Twitter <a class="reference external" href="https://twitter.com/python_vigo/">https://twitter.com/python_vigo/</a>
-</li>
-<li>Grupo de Telegram <a class="reference external" href="https://t.me/joinchat/AAAAAAfW2-q8miOKsVGjCg">https://t.me/joinchat/AAAAAAfW2-q8miOKsVGjCg</a>
-</li>
-<li>Slack (canal #pythonvigo):</li>
+<li><p>Lista de correo (única vía 100% oficial) <a class="reference external" href="https://lists.es.python.org/listinfo/vigo/">https://lists.es.python.org/listinfo/vigo/</a></p></li>
+<li><p>Twitter <a class="reference external" href="https://twitter.com/python_vigo/">https://twitter.com/python_vigo/</a></p></li>
+<li><p>Grupo de Telegram <a class="reference external" href="https://t.me/joinchat/AAAAAAfW2-q8miOKsVGjCg">https://t.me/joinchat/AAAAAAfW2-q8miOKsVGjCg</a></p></li>
+<li><p>Slack (canal #pythonvigo):</p></li>
 </ul>
 <p>      - Obtener invitación <a class="reference external" href="https://slackin-vigotech.herokuapp.com/">https://slackin-vigotech.herokuapp.com/</a></p>
 <p>      - Acceso al grupo <a class="reference external" href="https://vigotechalliance.slack.com/">https://vigotechalliance.slack.com/</a></p>
 <p>[3] Repositorio de material de charlas pasadas <a class="reference external" href="https://github.com/python-vigo/charlas">https://github.com/python-vigo/charlas</a></p>
 <img alt="/mapadanielcastelao_v2.png" src="mapadanielcastelao_v2.png">
 </div>
-    </div>
     </article>
 </div>
 
-        <nav class="postindexpager"><ul class="pager">
-<li class="next">
-                <a href="index-6.html" rel="next">Publicaciones anteriores</a>
-            </li>
-        </ul></nav>
-</div>
-        <!--End of body content-->
-
-        <footer id="footer">
-            Contents © 2022  <a href="mailto:luisgf@luisgf.es">Python Vigo</a>
+        <ul class="pager postindexpager clearfix">
+<li class="next"><a href="index-6.html" rel="next">Publicaciones anteriores</a></li>
+        </ul>
+<!--End of body content--><footer id="footer">
+            Contents © 2022         <a href="mailto:luisgf@luisgf.es">Python Vigo</a>
+            
             
         </footer>
 </div>
 </div>
 
 
-            <script src="assets/js/jquery.min.js"></script><script src="assets/js/bootstrap.min.js"></script><script src="assets/js/moment-with-locales.min.js"></script><script src="assets/js/fancydates.js"></script><script src="assets/js/jquery.colorbox-min.js"></script><script src="assets/js/colorbox-i18n/jquery.colorbox-es.js"></script><script>$('a.image-reference:not(.islink) img:not(.islink)').parent().colorbox({rel:"gal",maxWidth:"100%",maxHeight:"100%",scalePhotos:true});</script><!-- fancy dates --><script>
-    moment.locale("es");
-    fancydates(0, "YYYY-MM-DD HH:mm");
-    </script><!-- end fancy dates -->
+            <script src="assets/js/jquery.min.js"></script><script src="assets/js/popper.min.js"></script><script src="assets/js/bootstrap.min.js"></script><script src="assets/js/baguetteBox.min.js"></script><script>
+    baguetteBox.run('div#content', {
+        ignoreClass: 'islink',
+        captions: function(element){var i=element.getElementsByTagName('img')[0];return i===undefined?'':i.alt;}});
+    </script>
 </body>
 </html>

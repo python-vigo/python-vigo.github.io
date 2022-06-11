@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Python Vigo (Publicaciones sobre jupyter)</title><link>https://www.python-vigo.es/</link><description></description><atom:link href="https://www.python-vigo.es/categories/jupyter.xml" rel="self" type="application/rss+xml"></atom:link><language>es</language><copyright>Contents © 2022 &lt;a href="mailto:luisgf@luisgf.es"&gt;Python Vigo&lt;/a&gt; </copyright><lastBuildDate>Sat, 11 Jun 2022 19:40:52 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Reunión Febrero 2022</title><link>https://www.python-vigo.es/posts/reunion-febrero-2022/</link><dc:creator>Python Vigo</dc:creator><description>&lt;p&gt;¡Hola!&lt;/p&gt;
+&lt;p&gt;Por fín estamos de vuelta! Primera reunión presencial (si, si, presencial!) del año 2022 y con muchas ganas :)&lt;/p&gt;
+&lt;p&gt;El &lt;strong&gt;jueves día 17 de Febrero, a las 20.00&lt;/strong&gt; nos veremos de nuevo las caras.&lt;/p&gt;
+&lt;p&gt;Para esta reunión tenemos preparado lo siguiente:&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Presentación del grupo [20.00]&lt;/strong&gt;: Después de casi dos años desde el último evento presencial es posible que haya caras nuevas, en cualquier caso haremos un breve repaso de eventos pasados y objetivos del grupo.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;dl class="simple"&gt;
+&lt;dt&gt;&lt;strong&gt;Charla [20.10]&lt;/strong&gt;&lt;/dt&gt;
+&lt;dd&gt;&lt;ul&gt;
+&lt;li&gt;&lt;dl class="simple"&gt;
+&lt;dt&gt;&lt;em&gt;De Jupyter a la Tierra&lt;/em&gt; por Óscar Iglesias (&lt;a class="reference external" href="http://linkedin.com/in/oscarigrexas"&gt;LinkedIn&lt;/a&gt; / &lt;a class="reference external" href="http://github.com/oscarigrexas"&gt;Github&lt;/a&gt;)&lt;/dt&gt;
+&lt;dd&gt;&lt;p&gt;Óscar trabaja en Gradiant en el área de datos. Compartirá con nosotros una introducción a las pipelines de datos trabajando sobre un ejemplo de machine learning, trasladando una libreta Jupyter al mundo real.&lt;/p&gt;
+&lt;/dd&gt;
+&lt;/dl&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/dd&gt;
+&lt;/dl&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;dl class="simple"&gt;
+&lt;dt&gt;&lt;strong&gt;Lightning Talks&lt;/strong&gt;&lt;/dt&gt;
+&lt;dd&gt;&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Como venía siendo habitual, quién le apetezca puede dar una charla corta, la puede traer preparada o no, lo más importante, máximo 5 minutos pondremos el cronómetro a funcionar!&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/dd&gt;
+&lt;/dl&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Al acabar iremos a tomar algo a alguna local cercano si el tiempo lo permite.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;En esta ocasión nuestros compañeros del Hackspace de &lt;a class="reference external" href="https://aindustriosa.org/"&gt;A Industriosa&lt;/a&gt; (&lt;a class="reference external" href="https://goo.gl/maps/jKMdepWKVDQmgrd86"&gt;Ubicación&lt;/a&gt;) nos ceden el local
+para poder juntarnos. Si tenéis curiosidad de qué se cuece por allí entrad en la web y echad un ojo, así como los eventos
+que organizan en &lt;a class="reference external" href="https://www.meetup.com/en-AU/AIndustriosa/events/past/"&gt;Meetup&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Recordad que &lt;strong&gt;todas estas actividades son gratuitas y de acceso libre&lt;/strong&gt; para cualquier persona, sin darse de alta en ningún sitio.&lt;/p&gt;
+&lt;p&gt;En esta ocasión y debido a la situación epidemeológica actual, &lt;strong&gt;será indispensable el uso de mascarilla y limitaremos el aforo para el evento a 15 asistentes&lt;/strong&gt; como no disponemos
+actualmente de ninguna plataforma de registro, se realizará por orden de llegada.&lt;/p&gt;
+&lt;p&gt;Gracias a todos y todas y nos vemos el día 17!&lt;/p&gt;
+&lt;p&gt;Un saludo.&lt;/p&gt;</description><category>desarrollo</category><category>jupyter</category><category>python</category><category>vigo</category><guid>https://www.python-vigo.es/posts/reunion-febrero-2022/</guid><pubDate>Wed, 09 Feb 2022 20:37:28 GMT</pubDate></item></channel></rss>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Python Vigo (Publicaciones sobre shell)</title><link>https://www.python-vigo.es/</link><description></description><atom:link href="https://www.python-vigo.es/categories/shell.xml" rel="self" type="application/rss+xml"></atom:link><language>es</language><copyright>Contents © 2022 &lt;a href="mailto:luisgf@luisgf.es"&gt;Python Vigo&lt;/a&gt; </copyright><lastBuildDate>Sat, 11 Jun 2022 19:40:52 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Reunión del grupo el 19/05/2016</title><link>https://www.python-vigo.es/posts/reunion-del-grupo-el-19052016/</link><dc:creator>Luis González Fernández</dc:creator><description>&lt;p&gt;Hola a todos:&lt;/p&gt;
+&lt;p&gt;Este mes Python Vigo se reune el 19/05/2016, una vez más para traeros un par de charlas de lo más interesantes entre lo que se encuentra:&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;&lt;p&gt;ErrBot en Python, por Daniel.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Python desde linea de comandos, por Miguel González&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Recordad que empezaremos a las 19:30 en la &lt;a class="reference external" href="http://bibliotecadaemao.blogspot.com.es/."&gt;Biblioteca de la Escuela Municipal de Artes y Oficios&lt;/a&gt; en la calle &lt;strong&gt;García Barbón número 5&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;Os esperamos!&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;/blockquote&gt;</description><category>errbot</category><category>python</category><category>shell</category><category>vigo</category><guid>https://www.python-vigo.es/posts/reunion-del-grupo-el-19052016/</guid><pubDate>Wed, 18 May 2016 08:29:01 GMT</pubDate></item></channel></rss>
