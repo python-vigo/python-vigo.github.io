@@ -39,7 +39,7 @@ No habrá límites de aforo más allá del propio impuesto por el local y por se
 
 Gracias a todos y todas y nos vemos el día 21!
 
-Un saludo.
+Un saludo!
 
 
 [1] MECÁNICA DE LAS CHARLAS RELÁMPAGO (LIGHTNING TALKS)
