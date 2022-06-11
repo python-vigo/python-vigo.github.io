@@ -12,27 +12,29 @@
 
 ¡Hola!
 
-Ya casi a las puertas del verano volvemos con un reunión un poco diferente. Tendremos no
-uno si no cuatro ponentes que vendrán a hablar de diferentes modulos. 
-Serán charlas de aproximadamente 10 minutos + preguntas una buena oportunidad para
+Ya casi a las puertas del verano volvemos con una reunión un poco diferente. Tendremos 
+no uno sino cuatro ponentes que vendrán a hablar de diferentes modulos. 
+
+Serán charlas de aproximadamente 10 minutos + preguntas una buena oportunidad para 
 introducirse en cada uno de los temas.
 
 La reunión será el próximo **jueves día 16 de Junio, a las 20.00** en el `Café UF <https://goo.gl/maps/asJ86HfJQZ1VvD9B8>`_
 en Rúa Pracer 19, al lado del Concello.
  
 * **Charlas [20.00]**
-    * * Entornos virtuales* por Miguel González (`Twitter <https://twitter.com/migonzalvar>`__)
-    * * Pydantic* por David Lorenzo (`Twitter <https://twitter.com/David_Lor_>`__)
-    * * Python idiomático* por Xurso Fresco (`Twitter <https://twitter.com/xurxof>`__)
-    * * PyScript* por David Ibañez (`Twitter <https://twitter.com/david_ibanez>`__)
+    * *Entornos virtuales* por Miguel González (`Twitter <https://twitter.com/migonzalvar>`__)
+    * *Pydantic* por David Lorenzo (`Twitter <https://twitter.com/David_Lor_>`__)
+    * *Python idiomático* por Xurxo Fresco (`Twitter <https://twitter.com/xurxof>`__)
+    * *PyScript* por David Ibañez (`Twitter <https://twitter.com/david_ibanez>`__)
 
 * **Lightning Talks** [1]
-    *  Como siempre quién lo desee tiene la oportunidad de contarnos algo en 5 minutos cronometrados ;)
+    *  Como siempre, quién lo desee tiene la oportunidad de contarnos algo en 5 minutos cronometrados ;)
 
-* **PyBirras** Un vez finalizado, nos quedaremos un rato tomaremos algo en el propio local.
+* **PyBirras** Un vez finalizado, nos quedaremos un rato y tomaremos algo en el propio local.
 
 
 Recordad que **todas estas actividades son gratuitas y de acceso libre** para cualquier persona, sin darse de alta en ningún sitio.
+
 No habrá límites de aforo más allá del propio impuesto por el local y por ser en interior según la normativa vigente **será indispensable el uso de mascarillas**.
 
 Gracias a todos y todas y nos vemos el día 21!
