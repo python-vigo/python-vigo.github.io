@@ -37,7 +37,7 @@ Recordad que **todas estas actividades son gratuitas y de acceso libre** para cu
 
 No habrá límites de aforo más allá del propio impuesto por el local y por ser en interior según la normativa vigente **será indispensable el uso de mascarillas**.
 
-Gracias a todos y todas y nos vemos el día 21!
+Gracias a todos y todas y nos vemos el día 16!
 
 Un saludo!
 
