@@ -1,5 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Python Vigo</title><link>https://www.python-vigo.es/</link><description>Grupo Python Vigo</description><atom:link href="https://www.python-vigo.es/rss.xml" rel="self" type="application/rss+xml"></atom:link><language>es</language><copyright>Contents © 2022 &lt;a href="mailto:luisgf@luisgf.es"&gt;Python Vigo&lt;/a&gt; </copyright><lastBuildDate>Wed, 14 Sep 2022 21:26:03 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Reunión Junio 2022</title><link>https://www.python-vigo.es/posts/reunion-junio-2022/</link><dc:creator>Python Vigo</dc:creator><description>&lt;p&gt;¡Hola!&lt;/p&gt;
+<?xml-stylesheet type="text/xsl" href="assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Python Vigo</title><link>https://www.python-vigo.es/</link><description>Grupo Python Vigo</description><atom:link href="https://www.python-vigo.es/rss.xml" rel="self" type="application/rss+xml"></atom:link><language>es</language><copyright>Contents © 2022 &lt;a href="mailto:luisgf@luisgf.es"&gt;Python Vigo&lt;/a&gt; </copyright><lastBuildDate>Wed, 14 Sep 2022 21:34:17 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Reunión Septiembre 2022</title><link>https://www.python-vigo.es/posts/reunion-septiembre-2022/</link><dc:creator>Python Vigo</dc:creator><description>&lt;p&gt;¡Hola!&lt;/p&gt;
+&lt;p&gt;El verano se termina y por petición popular volvemos in-extremis con unas &lt;strong&gt;PyBirras&lt;/strong&gt;!&lt;/p&gt;
+&lt;p&gt;En esta ocasión no habrá charlas y quedaremos para hablar de Python y de qué nos apetece
+ver y compartir en las próximas reuniones.&lt;/p&gt;
+&lt;p&gt;Nos vemos mañana &lt;strong&gt;jueves día 15 de Septiembre, a las 20.00&lt;/strong&gt; como es habitual en el
+&lt;a class="reference external" href="https://goo.gl/maps/asJ86HfJQZ1VvD9B8"&gt;Café UF&lt;/a&gt; en Rúa Pracer 19, al lado del Concello.&lt;/p&gt;
+&lt;p&gt;Gracias a todos y todas y nos vemos mañana!&lt;/p&gt;
+&lt;p&gt;Un saludo!&lt;/p&gt;
+&lt;p&gt;[1] Vías de comunicación&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;&lt;p&gt;&lt;a class="reference external" href="https://lists.es.python.org/listinfo/vigo/"&gt;Lista de correo (única vía 100% oficial)&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a class="reference external" href="https://twitter.com/python_vigo/"&gt;Twitter&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a class="reference external" href="https://t.me/+B9bb6mt07Uyp5Pj7"&gt;Grupo de Telegram&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;dl class="simple"&gt;
+&lt;dt&gt;Slack (canal #pythonvigo):&lt;/dt&gt;
+&lt;dd&gt;&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;a class="reference external" href="https://slackin-vigotech.herokuapp.com/"&gt;Obtener invitación&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a class="reference external" href="https://vigotechalliance.slack.com/"&gt;Acceso al grupo&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/dd&gt;
+&lt;/dl&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</description><category>desarrollo</category><category>python</category><category>vigo</category><guid>https://www.python-vigo.es/posts/reunion-septiembre-2022/</guid><pubDate>Wed, 14 Sep 2022 21:05:12 GMT</pubDate></item><item><title>Reunión Junio 2022</title><link>https://www.python-vigo.es/posts/reunion-junio-2022/</link><dc:creator>Python Vigo</dc:creator><description>&lt;p&gt;¡Hola!&lt;/p&gt;
 &lt;p&gt;Ya casi a las puertas del verano volvemos con una reunión un poco diferente. Tendremos
 no uno sino cuatro ponentes que vendrán a hablar de diferentes modulos.&lt;/p&gt;
 &lt;p&gt;Serán charlas de aproximadamente 10 minutos + preguntas una buena oportunidad para
@@ -300,54 +322,4 @@ o el canal #pythonvigo en el &lt;a class="reference external" href="https://slac
 &lt;p&gt;      - Obtener invitación &lt;a class="reference external" href="https://slackin-vigotech.herokuapp.com/"&gt;https://slackin-vigotech.herokuapp.com/&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;      - Acceso al grupo &lt;a class="reference external" href="https://vigotechalliance.slack.com/"&gt;https://vigotechalliance.slack.com/&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;[3] Repositorio de material de charlas pasadas &lt;a class="reference external" href="https://github.com/python-vigo/charlas"&gt;https://github.com/python-vigo/charlas&lt;/a&gt;&lt;/p&gt;
-&lt;img alt="/mapadanielcastelao_v2.png" src="https://www.python-vigo.es/mapadanielcastelao_v2.png"&gt;</description><category>desarrollo</category><category>python</category><category>vigo</category><guid>https://www.python-vigo.es/posts/reunion-del-grupo-el-20200220/</guid><pubDate>Mon, 03 Feb 2020 06:53:30 GMT</pubDate></item><item><title>Reunión del Grupo el 16/01/2020</title><link>https://www.python-vigo.es/posts/reunion-del-grupo-el-20200116/</link><dc:creator>Python Vigo</dc:creator><description>&lt;p&gt;¡Hola!&lt;/p&gt;
-&lt;p&gt;Estamos ya calentando motores para la primera reunión del año 2020 :)&lt;/p&gt;
-&lt;p&gt;Esta vez toca el &lt;strong&gt;jueves día 16 de enero, a las 20.00&lt;/strong&gt; en el &lt;a class="reference external" href="http://www.danielcastelao.org/"&gt;CFP Daniel Castelao&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;En esta reunión &lt;strong&gt;empezamos con la serie de Introducción a Python&lt;/strong&gt;, para los que quieran introducirse en el mundillo &lt;strong&gt;Python desde cero&lt;/strong&gt;.&lt;/p&gt;
-&lt;p&gt;Para esta reunión tenemos preparado lo siguiente:&lt;/p&gt;
-&lt;ul class="simple"&gt;
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;Install party [19.30]&lt;/strong&gt;: Venid media hora antes de las ponencias con vuestro portátil y os ayudamos a instalar Python y herramientas básicas.&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;dl class="simple"&gt;
-&lt;dt&gt;&lt;strong&gt;Ponencias [20.00]&lt;/strong&gt;&lt;/dt&gt;
-&lt;dd&gt;&lt;ul&gt;
-&lt;li&gt;&lt;dl class="simple"&gt;
-&lt;dt&gt;[Iniciación]: &lt;em&gt;Introducción a Python 1ª parte&lt;/em&gt; por Xurxo Fresco&lt;/dt&gt;
-&lt;dd&gt;&lt;p&gt;Aprenderemos los fundamentos y funcionalidades básicas de la programación en Python.&lt;/p&gt;
-&lt;/dd&gt;
-&lt;/dl&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;dl class="simple"&gt;
-&lt;dt&gt;[Charla]: &lt;em&gt;Polaris: Intelixencia artificial para satélites&lt;/em&gt; por Xabi Crespo&lt;/dt&gt;
-&lt;dd&gt;&lt;p&gt;Telemetría, satélites, inteligencia artificial,... Para que todo ello cobre sentido, conoceremos de primera mano en qué consiste el proyecto Polaris, respaldado por la Agencia Espacial Europea (ESA) y que ha formado parte del Google Summer of Code 2019.&lt;/p&gt;
-&lt;/dd&gt;
-&lt;/dl&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/dd&gt;
-&lt;/dl&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;Lightning Talks&lt;/strong&gt; [1]&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;Recopilación de preguntas y dudas&lt;/strong&gt;: Queremos dar forma a una sección que nos permita tener pequeños debates abiertos en caso de disponer de tiempo extra tras las otras actividades, para ello recordad que podéis enviar, a lista de correo [2] dudas o preguntas sobre temas que os interese que debatamos entre todos.La idea es disponer de una lista de temas/dudas/preguntas, que en cualquier reunión podamos votar cuáles nos interesa debatir en ese momento.&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;Al acabar iremos a tomar algo a alguna cafetería cercana como habitualmente.&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Recordad que &lt;strong&gt;todas estas actividades son gratuitas y de acceso libre&lt;/strong&gt; para cualquier persona, sin darse de alta en ningún sitio.&lt;/p&gt;
-&lt;p&gt;Además, os adelantamos que para la reunión de &lt;strong&gt;febrero&lt;/strong&gt; tendremos la &lt;strong&gt;segunda parte de Introducción a Python&lt;/strong&gt; y la charla &lt;strong&gt;Distribuir paquetes en Python&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Más información y vías de contacto abajo [2] y [3]&lt;/p&gt;
-&lt;p&gt;¡¡Que tengáis buena entrada en el nuevo año!!&lt;/p&gt;
-&lt;p&gt;--&lt;/p&gt;
-&lt;p&gt;[1] MECÁNICA DE LAS CHARLAS RELÁMPAGO (LIGHTNING TALKS)&lt;/p&gt;
-&lt;ul class="simple"&gt;
-&lt;li&gt;&lt;p&gt;Charla de 5 minutos de reloj sobre cualquier tema de Python o relacionado&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;Cuando se acaba el tiempo, la gente empieza a aplaudir (aunque el ponente no haya acabado)&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;[2] Vías de comunicación&lt;/p&gt;
-&lt;ul class="simple"&gt;
-&lt;li&gt;&lt;p&gt;Lista de correo (única vía 100% oficial) &lt;a class="reference external" href="https://lists.es.python.org/listinfo/vigo/"&gt;https://lists.es.python.org/listinfo/vigo/&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;Twitter &lt;a class="reference external" href="https://twitter.com/python_vigo/"&gt;https://twitter.com/python_vigo/&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;Grupo de Telegram &lt;a class="reference external" href="https://t.me/joinchat/AAAAAAfW2-q8miOKsVGjCg"&gt;https://t.me/joinchat/AAAAAAfW2-q8miOKsVGjCg&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;Slack (canal #pythonvigo):&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;      - Obtener invitación &lt;a class="reference external" href="https://slackin-vigotech.herokuapp.com/"&gt;https://slackin-vigotech.herokuapp.com/&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;      - Acceso al grupo &lt;a class="reference external" href="https://vigotechalliance.slack.com/"&gt;https://vigotechalliance.slack.com/&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;[3] Repositorio de material de charlas pasadas &lt;a class="reference external" href="https://github.com/python-vigo/charlas"&gt;https://github.com/python-vigo/charlas&lt;/a&gt;&lt;/p&gt;
-&lt;img alt="/mapadanielcastelao_v2.png" src="https://www.python-vigo.es/mapadanielcastelao_v2.png"&gt;</description><category>desarrollo</category><category>python</category><category>vigo</category><guid>https://www.python-vigo.es/posts/reunion-del-grupo-el-20200116/</guid><pubDate>Mon, 30 Dec 2019 06:53:30 GMT</pubDate></item></channel></rss>
+&lt;img alt="/mapadanielcastelao_v2.png" src="https://www.python-vigo.es/mapadanielcastelao_v2.png"&gt;</description><category>desarrollo</category><category>python</category><category>vigo</category><guid>https://www.python-vigo.es/posts/reunion-del-grupo-el-20200220/</guid><pubDate>Mon, 03 Feb 2020 06:53:30 GMT</pubDate></item></channel></rss>
