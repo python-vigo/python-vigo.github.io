@@ -1,6 +1,6 @@
 .. title: Reunión Septiembre 2022
 .. slug: reunion-septiembre-2022
-.. date: 2022-09-15 23:05:12 UTC+02:00
+.. date: 2022-09-14 23:05:12 UTC+02:00
 .. meeting_datetime: 20220915_2000
 .. tags: python, vigo, desarrollo
 .. category:
