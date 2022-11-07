@@ -1,5 +1,57 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Python Vigo</title><link>https://www.python-vigo.es/</link><description>Grupo Python Vigo</description><atom:link href="https://www.python-vigo.es/rss.xml" rel="self" type="application/rss+xml"></atom:link><language>es</language><copyright>Contents © 2022 &lt;a href="mailto:luisgf@luisgf.es"&gt;Python Vigo&lt;/a&gt; </copyright><lastBuildDate>Mon, 07 Nov 2022 21:22:03 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Reunión Octubre 2022</title><link>https://www.python-vigo.es/posts/reunion-octubre-2022/</link><dc:creator>Python Vigo</dc:creator><description>&lt;p&gt;¡Hola!&lt;/p&gt;
+<?xml-stylesheet type="text/xsl" href="assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Python Vigo</title><link>https://www.python-vigo.es/</link><description>Grupo Python Vigo</description><atom:link href="https://www.python-vigo.es/rss.xml" rel="self" type="application/rss+xml"></atom:link><language>es</language><copyright>Contents © 2022 &lt;a href="mailto:luisgf@luisgf.es"&gt;Python Vigo&lt;/a&gt; </copyright><lastBuildDate>Mon, 07 Nov 2022 21:23:07 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Reunión Noviembre 2022</title><link>https://www.python-vigo.es/posts/reunion-noviembre-2022/</link><dc:creator>Python Vigo</dc:creator><description>&lt;p&gt;¡Hola!&lt;/p&gt;
+&lt;p&gt;Un vez más el tercer jueves de este mes, el próximo &lt;strong&gt;jueves día 17 de Noviembre a las 20.00&lt;/strong&gt;, ¡volvemos
+con charlas y la reunión de grupo!&lt;/p&gt;
+&lt;p&gt;Hablaremos de un tema que siempre está de actualidad y que todos sufrimos casi a diario, el testing.
+Ya estéis dando los primeros pasos con Python o seais ya iniciados podréis sacarle partido, estamos seguros
+que el ponente que viene en esta ocasión tiene mucho que contar.
+Y como siemprem al finalizar quien quiera puede dar una charla relámpago de cualquier tema relacionado con Python!&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;&lt;dl class="simple"&gt;
+&lt;dt&gt;&lt;strong&gt;Charla [20.00]&lt;/strong&gt;&lt;/dt&gt;
+&lt;dd&gt;&lt;ul&gt;
+&lt;li&gt;&lt;dl class="simple"&gt;
+&lt;dt&gt;&lt;em&gt;Rápido, robusto y preciso o cómo recuperar el amor por tus tests&lt;/em&gt; por (&lt;a class="reference external" href="https://xuaps.com/"&gt;David Vílchez&lt;/a&gt;)&lt;/dt&gt;
+&lt;dd&gt;&lt;p&gt;Durante esta charla repasaremos aquellas propiedades que debe cumplir un tests, por qué y cómo medirlas para
+analizar como de "buenos" son nuestros tests usando datos y no opiniones.&lt;/p&gt;
+&lt;/dd&gt;
+&lt;/dl&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/dd&gt;
+&lt;/dl&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;dl class="simple"&gt;
+&lt;dt&gt;&lt;strong&gt;Lightning Talks&lt;/strong&gt; [1]&lt;/dt&gt;
+&lt;dd&gt;&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Quién lo desee tiene la oportunidad de contarnos algo en 5 minutos cronometrados ;)&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/dd&gt;
+&lt;/dl&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;PyBirras&lt;/strong&gt; Un vez finalizado, tomaremos en algún lugar cercano.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Nos vemos el &lt;strong&gt;jueves día 17 de Noviembre, a las 20.00&lt;/strong&gt; en la sede de
+&lt;a class="reference external" href="https://goo.gl/maps/dXVATGFM8J2j8fxN8"&gt;HACK A BOSS&lt;/a&gt; en Rúa do Roupeiro,
+27 (Plaza Interior), Vigo.&lt;/p&gt;
+&lt;p&gt;Gracias a todos y todas, gracias a HACK A BOSS por cedernos el espacio y nos vemos la semana
+que viene!&lt;/p&gt;
+&lt;p&gt;Un saludo!&lt;/p&gt;
+&lt;p&gt;[1] Vías de comunicación&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;&lt;p&gt;&lt;a class="reference external" href="https://lists.es.python.org/listinfo/vigo/"&gt;Lista de correo (única vía 100% oficial)&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a class="reference external" href="https://twitter.com/python_vigo/"&gt;Twitter&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a class="reference external" href="https://t.me/+B9bb6mt07Uyp5Pj7"&gt;Grupo de Telegram&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;dl class="simple"&gt;
+&lt;dt&gt;Slack (canal #pythonvigo):&lt;/dt&gt;
+&lt;dd&gt;&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;a class="reference external" href="https://slackin-vigotech.herokuapp.com/"&gt;Obtener invitación&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a class="reference external" href="https://vigotechalliance.slack.com/"&gt;Acceso al grupo&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/dd&gt;
+&lt;/dl&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</description><category>desarrollo</category><category>python</category><category>vigo</category><guid>https://www.python-vigo.es/posts/reunion-noviembre-2022/</guid><pubDate>Mon, 07 Nov 2022 18:08:12 GMT</pubDate></item><item><title>Reunión Octubre 2022</title><link>https://www.python-vigo.es/posts/reunion-octubre-2022/</link><dc:creator>Python Vigo</dc:creator><description>&lt;p&gt;¡Hola!&lt;/p&gt;
 &lt;p&gt;Volvemos por fin con la nueva temporada de charlas y, en esta ocasión, también con novedades.&lt;/p&gt;
 &lt;p&gt;Nos juntaremos el próximo &lt;strong&gt;jueves día 20 de Octubre, a las 20.00&lt;/strong&gt; y volveremos a tener como
 lugar de encuentro uno de lo sitios conocidos por muchas personas del grupo, actualmente sede
@@ -320,13 +372,4 @@ si no os lo queréis perder &lt;strong&gt;suscribiros al canal!&lt;/strong&gt;.&
 &lt;p&gt;Recordad además, que si queréis dar una charla, tenéis alguna duda podéis contactar con el grupo a través de la
 &lt;a class="reference external" href="https://lists.es.python.org/listinfo/vigo/"&gt;lista de correo&lt;/a&gt;, el grupo de &lt;a class="reference external" href="https://t.me/joinchat/AAAAAAfW2-q8miOKsVGjCg"&gt;Telegram&lt;/a&gt;
 o el canal #pythonvigo en el &lt;a class="reference external" href="https://slackin-vigotech.herokuapp.com/"&gt;Slack de VigoTech.org&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;Saludos y a mantenerse sanos! :D&lt;/p&gt;</description><category>desarrollo</category><category>python</category><category>quantum</category><category>vigo</category><guid>https://www.python-vigo.es/posts/reunion-de-julio-2020/</guid><pubDate>Tue, 07 Jul 2020 21:10:30 GMT</pubDate></item><item><title>Suspensión de la reunión de marzo 2020</title><link>https://www.python-vigo.es/posts/suspension-reunion-de-marzo-2020/</link><dc:creator>Python Vigo</dc:creator><description>&lt;p&gt;¡Hola!&lt;/p&gt;
-&lt;p&gt;Supongo que todos estaréis al tanto de la situación con respecto al Covid-19, así que por respeto a las medidas aconsejadas y aportar nuestro granito de arena a evitar/ralentizar la transmisión en la medida de lo posible, &lt;strong&gt;hemos decidido suspender la reunión de este mes&lt;/strong&gt;.&lt;/p&gt;
-&lt;p&gt;La reunión del mes que viene tampoco está claro si la llevaremos a cabo, ya se verá en base a cómo vaya evolucionando la situación y las recomendaciones. Os iremos informando.&lt;/p&gt;
-&lt;p&gt;Por otra parte, en esta ocasión me gustaría proporcionar otros &lt;strong&gt;enlaces que consideramos de interés&lt;/strong&gt;, que en esta ocasión no son los de PythonVigo y que tienen recursos fáciles de entender y compartir ;)&lt;/p&gt;
-&lt;ul class="simple"&gt;
-&lt;li&gt;&lt;p&gt;&lt;a class="reference external" href="https://www.sergas.gal/Saude-publica/Novo-coronavirus-informacion-poboacion-"&gt;Información para la población, con infografía, teléfonos y recomendaciones de prevención y actuación por parte del Sergas&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;&lt;a class="reference external" href="https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov-China/ciudadania.htm"&gt;Web de información para la ciudadanía del Ministerio de Sanidad, con informes y recursos fáciles de entender y compartir&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;&lt;a class="reference external" href="https://www.who.int/es/emergencies/diseases/novel-coronavirus-2019"&gt;Página de la OMS con recomendaciones e información específica&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Saludos y a mantenerse sanos! :D&lt;/p&gt;</description><category>desarrollo</category><category>python</category><category>vigo</category><guid>https://www.python-vigo.es/posts/suspension-reunion-de-marzo-2020/</guid><pubDate>Thu, 12 Mar 2020 12:10:30 GMT</pubDate></item></channel></rss>
+&lt;p&gt;Saludos y a mantenerse sanos! :D&lt;/p&gt;</description><category>desarrollo</category><category>python</category><category>quantum</category><category>vigo</category><guid>https://www.python-vigo.es/posts/reunion-de-julio-2020/</guid><pubDate>Tue, 07 Jul 2020 21:10:30 GMT</pubDate></item></channel></rss>
