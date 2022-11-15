@@ -12,30 +12,30 @@
 
 ¡Hola!
 
-Un vez más el tercer jueves de este mes, el próximo **jueves día 17 de Noviembre a las 20.00**, ¡volvemos
+Un vez más el tercer jueves de este mes, el próximo **jueves día 17 de noviembre a las 20.00**, ¡volvemos
 con charlas y la reunión de grupo!
 
 Hablaremos de un tema que siempre está de actualidad y que todos sufrimos casi a diario, el testing.
 Ya estéis dando los primeros pasos con Python o seais ya iniciados podréis sacarle partido, estamos seguros
 que el ponente que viene en esta ocasión tiene mucho que contar.
-Y como siemprem al finalizar quien quiera puede dar una charla relámpago de cualquier tema relacionado con Python!
+Y como siempre al finalizar quien quiera puede dar una charla relámpago de cualquier tema relacionado con Python!
 
 * **Charla [20.00]**
     * *Rápido, robusto y preciso o cómo recuperar el amor por tus tests* por (`David Vílchez <https://xuaps.com/>`__)
-        Durante esta charla repasaremos aquellas propiedades que debe cumplir un tests, por qué y cómo medirlas para
+        Durante esta charla repasaremos aquellas propiedades que debe cumplir un test, por qué y cómo medirlas para
         analizar como de "buenos" son nuestros tests usando datos y no opiniones.
 
 * **Lightning Talks** [1]
-    *  Quién lo desee tiene la oportunidad de contarnos algo en 5 minutos cronometrados ;)
+    *  Quien lo desee tiene la oportunidad de contarnos algo en 5 minutos cronometrados ;)
 
-* **PyBirras** Un vez finalizado, tomaremos en algún lugar cercano.
+* **PyBirras** Una vez finalizado, tomaremos algo en algún lugar cercano.
 
 
-Nos vemos el **jueves día 17 de Noviembre, a las 20.00** en la sede de
+Nos vemos el **jueves día 17 de noviembre, a las 20.00** en la sede de
 `HACK A BOSS <https://goo.gl/maps/dXVATGFM8J2j8fxN8>`_ en Rúa do Roupeiro, 
 27 (Plaza Interior), Vigo.
 
-Gracias a todos y todas, gracias a HACK A BOSS por cedernos el espacio y nos vemos la semana
+Gracias a todos y todas, gracias también a HACK A BOSS por cedernos el espacio y nos vemos la semana
 que viene!
 
 Un saludo!
