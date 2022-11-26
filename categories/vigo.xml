@@ -1,5 +1,43 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Python Vigo (Publicaciones sobre vigo)</title><link>https://www.python-vigo.es/</link><description></description><atom:link href="https://www.python-vigo.es/categories/vigo.xml" rel="self" type="application/rss+xml"></atom:link><language>es</language><copyright>Contents © 2022 &lt;a href="mailto:luisgf@luisgf.es"&gt;Python Vigo&lt;/a&gt; </copyright><lastBuildDate>Tue, 15 Nov 2022 08:11:26 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Reunión Noviembre 2022</title><link>https://www.python-vigo.es/posts/reunion-noviembre-2022/</link><dc:creator>Python Vigo</dc:creator><description>&lt;p&gt;¡Hola!&lt;/p&gt;
+<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Python Vigo (Publicaciones sobre vigo)</title><link>https://www.python-vigo.es/</link><description></description><atom:link href="https://www.python-vigo.es/categories/vigo.xml" rel="self" type="application/rss+xml"></atom:link><language>es</language><copyright>Contents © 2022 &lt;a href="mailto:luisgf@luisgf.es"&gt;Python Vigo&lt;/a&gt; </copyright><lastBuildDate>Sat, 26 Nov 2022 10:11:49 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Reunión Diciembre 2022</title><link>https://www.python-vigo.es/posts/reunion-diciembre-2022/</link><dc:creator>Python Vigo</dc:creator><description>&lt;p&gt;¡Hola!&lt;/p&gt;
+&lt;p&gt;Se acerca Diciembre, final de año y fiestas para muchos. Por eso hemos pensado en celebrar un especial
+final de año, Saturnalia, Kwanzaa, Navidad o Janucá, cada uno puede elegir lo que celebra.&lt;/p&gt;
+&lt;p&gt;Será una celebración informal, &lt;strong&gt;donde no habrá una charla, ¡tendremos muchas!.&lt;/strong&gt; La idea es que todo el que quiera
+pueda traer su charla y presentar lo que le apetezca.&lt;/p&gt;
+&lt;p&gt;Por ello os animamos a que preparéis vuestra charla, la idea será charlas cortas entre 5 y 15 minutos máximo, así
+todo el mundo podrá tener un hueco y nos quedaremos con ganas de más.&lt;/p&gt;
+&lt;p&gt;Algunas sugerencias:&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;&lt;p&gt;Python 101&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Entornos virtuales&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;API rest con FastAPI&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Despliegue de aplicaciones en Python&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Python asyncrono&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Webhooks en Python&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Pero como comentamos, son sólo sugerencias y cualquier tema es bienvenido.&lt;/p&gt;
+&lt;p&gt;Como siempre será el tercer jueves, el próximo &lt;strong&gt;jueves día 15 de Diciembre a las 20.00&lt;/strong&gt;, al finalizar las charlas
+quedaremos para las PyBirras.&lt;/p&gt;
+&lt;p&gt;En esta ocasión debido a que el acceso a la zona centro está complicado en estas fechas, volvemos a celebrar la
+reunión en el &lt;a class="reference external" href="https://goo.gl/maps/asJ86HfJQZ1VvD9B8"&gt;Café UF&lt;/a&gt; en Rúa Pracer 19, al lado del Concello.
+El acceso desde la zona de O Castro/Camelias no debería ser problematico.&lt;/p&gt;
+&lt;p&gt;Gracias a todos y todas, gracias al Café UF por cedernos el espacio.&lt;/p&gt;
+&lt;p&gt;Un saludo!&lt;/p&gt;
+&lt;p&gt;[1] Vías de comunicación&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;&lt;p&gt;&lt;a class="reference external" href="https://lists.es.python.org/listinfo/vigo/"&gt;Lista de correo (única vía 100% oficial)&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a class="reference external" href="https://twitter.com/python_vigo/"&gt;Twitter&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a class="reference external" href="https://t.me/+B9bb6mt07Uyp5Pj7"&gt;Grupo de Telegram&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;dl class="simple"&gt;
+&lt;dt&gt;Slack (canal #pythonvigo):&lt;/dt&gt;
+&lt;dd&gt;&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;a class="reference external" href="https://slackin-vigotech.herokuapp.com/"&gt;Obtener invitación&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a class="reference external" href="https://vigotechalliance.slack.com/"&gt;Acceso al grupo&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/dd&gt;
+&lt;/dl&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</description><category>desarrollo</category><category>python</category><category>vigo</category><guid>https://www.python-vigo.es/posts/reunion-diciembre-2022/</guid><pubDate>Wed, 23 Nov 2022 18:00:22 GMT</pubDate></item><item><title>Reunión Noviembre 2022</title><link>https://www.python-vigo.es/posts/reunion-noviembre-2022/</link><dc:creator>Python Vigo</dc:creator><description>&lt;p&gt;¡Hola!&lt;/p&gt;
 &lt;p&gt;Un vez más el tercer jueves de este mes, el próximo &lt;strong&gt;jueves día 17 de noviembre a las 20.00&lt;/strong&gt;, ¡volvemos
 con charlas y la reunión de grupo!&lt;/p&gt;
 &lt;p&gt;Hablaremos de un tema que siempre está de actualidad y que todos sufrimos casi a diario, el testing.
@@ -352,24 +390,4 @@ en este caso próximo &lt;strong&gt;Jueves día 18 a las 20:00&lt;/strong&gt;, e
 &lt;a class="reference external" href="https://g.page/LaTitaRiveraVigo"&gt;Ubicación&lt;/a&gt;
 Por tranquilidad de todos nos juntaremos en una terraza manteniendo todas las medidas y abrigados eso sí.&lt;/p&gt;
 &lt;p&gt;Todas las personas estáis invitadas a asistir a las PyBirras, hayáis asistido o no a una reunión del grupo anteriormente, por lo que os animamos a venir! La conversación siempre es distendida y no es necesario ningún conocimiento previo, sólo ganas de charlar un rato.&lt;/p&gt;
-&lt;p&gt;Un saludo!&lt;/p&gt;</description><category>pybirras</category><category>python</category><category>vigo</category><guid>https://www.python-vigo.es/posts/pybirras-estamos-de-vuelta/</guid><pubDate>Wed, 17 Nov 2021 22:06:14 GMT</pubDate></item><item><title>Reunión de Julio 2020</title><link>https://www.python-vigo.es/posts/reunion-de-julio-2020/</link><dc:creator>Python Vigo</dc:creator><description>&lt;p&gt;¡Hola de nuevo!&lt;/p&gt;
-&lt;p&gt;Después de unos meses complicados estamos de vuelta para la reunión de Julio!!.. pero en esta ocasión será online.
-Debido a la evolución de la situación actual pensamos que la alternativa más responsable es esta pero os mantendremos
-informados con posibles nuevas reuniones y actividades durante los próximos meses.&lt;/p&gt;
-&lt;p&gt;Este mes os traemos una charla y ponente estrella.&lt;/p&gt;
-&lt;ul class="simple"&gt;
-&lt;li&gt;&lt;dl class="simple"&gt;
-&lt;dt&gt;&lt;em&gt;Creando tu propio simulador cuántico en 200 líneas&lt;/em&gt; por &lt;a class="reference external" href="https://twitter.com/ismaelfaro"&gt;Ismael Faro&lt;/a&gt;&lt;/dt&gt;
-&lt;dd&gt;&lt;p&gt;Aprenderemos de la mano de un vigués, que trabaja en IBM Research en Nueva York, cómo crear nuestro propio
-simulador cuántico. Durante toda la charla podréis realizar las preguntas que queráis y al final de la misma
-las comentaremos.&lt;/p&gt;
-&lt;/dd&gt;
-&lt;/dl&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;El streaming será, el próximo &lt;strong&gt;Jueves día 16 de Julio a las 19:30&lt;/strong&gt; en nuestro &lt;a class="reference external" href="https://www.youtube.com/channel/UCTUXabChakosnupWEnz4xTA"&gt;canal de YouTube&lt;/a&gt;
-si no os lo queréis perder &lt;strong&gt;suscribiros al canal!&lt;/strong&gt;.&lt;/p&gt;
-&lt;p&gt;Recordad además, que si queréis dar una charla, tenéis alguna duda podéis contactar con el grupo a través de la
-&lt;a class="reference external" href="https://lists.es.python.org/listinfo/vigo/"&gt;lista de correo&lt;/a&gt;, el grupo de &lt;a class="reference external" href="https://t.me/joinchat/AAAAAAfW2-q8miOKsVGjCg"&gt;Telegram&lt;/a&gt;
-o el canal #pythonvigo en el &lt;a class="reference external" href="https://slackin-vigotech.herokuapp.com/"&gt;Slack de VigoTech.org&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;Saludos y a mantenerse sanos! :D&lt;/p&gt;</description><category>desarrollo</category><category>python</category><category>quantum</category><category>vigo</category><guid>https://www.python-vigo.es/posts/reunion-de-julio-2020/</guid><pubDate>Tue, 07 Jul 2020 21:10:30 GMT</pubDate></item></channel></rss>
+&lt;p&gt;Un saludo!&lt;/p&gt;</description><category>pybirras</category><category>python</category><category>vigo</category><guid>https://www.python-vigo.es/posts/pybirras-estamos-de-vuelta/</guid><pubDate>Wed, 17 Nov 2021 22:06:14 GMT</pubDate></item></channel></rss>
