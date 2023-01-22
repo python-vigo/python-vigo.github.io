@@ -7,7 +7,7 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>https://www.python-vigo.es/</loc>
-  <lastmod>2022-09-14T21:26:00Z</lastmod>
+  <lastmod>2023-01-22T17:33:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.python-vigo.es/2015/</loc>
@@ -42,8 +42,12 @@
   <lastmod>2022-09-14T21:26:00Z</lastmod>
  </url>
  <url>
+  <loc>https://www.python-vigo.es/2023/</loc>
+  <lastmod>2023-01-22T17:33:00Z</lastmod>
+ </url>
+ <url>
   <loc>https://www.python-vigo.es/archive.html</loc>
-  <lastmod>2022-11-26T10:10:00Z</lastmod>
+  <lastmod>2023-01-22T17:33:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.python-vigo.es/authors/</loc>
@@ -115,27 +119,27 @@
  </url>
  <url>
   <loc>https://www.python-vigo.es/index-1.html</loc>
-  <lastmod>2022-09-14T21:26:00Z</lastmod>
+  <lastmod>2023-01-22T17:33:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.python-vigo.es/index-2.html</loc>
-  <lastmod>2022-09-14T21:26:00Z</lastmod>
+  <lastmod>2023-01-22T17:33:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.python-vigo.es/index-3.html</loc>
-  <lastmod>2022-09-14T21:26:00Z</lastmod>
+  <lastmod>2023-01-22T17:33:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.python-vigo.es/index-4.html</loc>
-  <lastmod>2022-09-14T21:26:00Z</lastmod>
+  <lastmod>2023-01-22T17:33:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.python-vigo.es/index-5.html</loc>
-  <lastmod>2022-09-14T21:26:00Z</lastmod>
+  <lastmod>2023-01-22T17:33:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.python-vigo.es/index-6.html</loc>
-  <lastmod>2022-11-26T10:10:00Z</lastmod>
+  <lastmod>2023-01-22T17:33:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.python-vigo.es/posts/call-for-papers-para-diciembre-2018-y-sucesivas/</loc>
@@ -372,6 +376,10 @@
  <url>
   <loc>https://www.python-vigo.es/posts/reunion-diciembre-2022/</loc>
   <lastmod>2022-11-26T10:10:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://www.python-vigo.es/posts/reunion-enero-2023/</loc>
+  <lastmod>2023-01-22T17:33:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.python-vigo.es/posts/reunion-febrero-2022/</loc>
