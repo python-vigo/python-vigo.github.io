@@ -15,7 +15,7 @@
 Este mes no hemos celebrado la reunión el tercer jueves como es habitual pero no nos queremos perder el
 juntarnos y charla de Python.
 
-Este próximo **jueves día 26 de Enero** nos juntaremos para hablar de Python. siguiendo con el formato del
+Este próximo **jueves día 26 de Enero a las 20:00** nos juntaremos para hablar de Python. siguiendo con el formato del
 mes pasado no habrá una sóla charla si no que la idea es que todo el que quiera pueda traer su charla y
 presentar o preguntar lo que le apetezca.
 
