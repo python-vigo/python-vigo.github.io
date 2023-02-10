@@ -18,7 +18,7 @@ razones.
 * Es un evento que patrocina la `Asociación de Python España <https://es.python.org/>`_
 * ¡Nos traemos un ponente de `Python Valencia <https://pyvlc.es/>`_!
 
-Este próximo **jueves día 16 de Enero a las 20:00** tenemos preparado lo siguiente:
+Este próximo **jueves día 16 de Febrero a las 20:00** tenemos preparado lo siguiente:
 
 * **Charla [20.00]**
     * | *HTML over the Wire, el futuro del desarrollo Web* por `Andros Fenollosa <https://twitter.com/androsfenollosa>`_.
@@ -32,7 +32,7 @@ al lado del Concello y así podremos disfrutar de las PyBirras durante las charl
 
 
 Gracias a todos y todas, en esta ocasión mención especial a **Python España por el esfuerzo que hace por las comunidades**
-y cómo siempre gracias al `Café UF <https://www.facebook.com/cafeufnegrasombrablues/>`_
+y como siempre gracias al `Café UF <https://www.facebook.com/cafeufnegrasombrablues/>`_
 por cedernos el espacio.
 
 Un saludo!
