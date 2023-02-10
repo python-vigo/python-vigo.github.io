@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Python Vigo (Publicaciones sobre desarrollo)</title><link>https://www.python-vigo.es/</link><description></description><atom:link href="https://www.python-vigo.es/categories/desarrollo.xml" rel="self" type="application/rss+xml"></atom:link><language>es</language><copyright>Contents © 2023 &lt;a href="mailto:luisgf@luisgf.es"&gt;Python Vigo&lt;/a&gt; </copyright><lastBuildDate>Thu, 09 Feb 2023 20:46:26 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Reunión Febrero 2023</title><link>https://www.python-vigo.es/posts/reunion-febrero-2023/</link><dc:creator>Python Vigo</dc:creator><description>&lt;p&gt;¡Hola a todas y todos!&lt;/p&gt;
+<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Python Vigo (Publicaciones sobre desarrollo)</title><link>https://www.python-vigo.es/</link><description></description><atom:link href="https://www.python-vigo.es/categories/desarrollo.xml" rel="self" type="application/rss+xml"></atom:link><language>es</language><copyright>Contents © 2023 &lt;a href="mailto:luisgf@luisgf.es"&gt;Python Vigo&lt;/a&gt; </copyright><lastBuildDate>Fri, 10 Feb 2023 08:06:03 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Reunión Febrero 2023</title><link>https://www.python-vigo.es/posts/reunion-febrero-2023/</link><dc:creator>Python Vigo</dc:creator><description>&lt;p&gt;¡Hola a todas y todos!&lt;/p&gt;
 &lt;p&gt;Se acerca el tercer jueves de mes y en esta ocasión tenemos un evento muy especial. Especial por dos
 razones.&lt;/p&gt;
 &lt;ul class="simple"&gt;
 &lt;li&gt;&lt;p&gt;Es un evento que patrocina la &lt;a class="reference external" href="https://es.python.org/"&gt;Asociación de Python España&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
 &lt;li&gt;&lt;p&gt;¡Nos traemos un ponente de &lt;a class="reference external" href="https://pyvlc.es/"&gt;Python Valencia&lt;/a&gt;!&lt;/p&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;Este próximo &lt;strong&gt;jueves día 16 de Enero a las 20:00&lt;/strong&gt; tenemos preparado lo siguiente:&lt;/p&gt;
+&lt;p&gt;Este próximo &lt;strong&gt;jueves día 16 de Febrero a las 20:00&lt;/strong&gt; tenemos preparado lo siguiente:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;dl&gt;
 &lt;dt&gt;&lt;strong&gt;Charla [20.00]&lt;/strong&gt;&lt;/dt&gt;
@@ -32,7 +32,7 @@ razones.&lt;/p&gt;
 &lt;p&gt;La reunión será en el Café UF &lt;a class="reference external" href="https://goo.gl/maps/asJ86HfJQZ1VvD9B8"&gt;(ubicación)&lt;/a&gt; en Rúa Pracer 19,
 al lado del Concello y así podremos disfrutar de las PyBirras durante las charlas.&lt;/p&gt;
 &lt;p&gt;Gracias a todos y todas, en esta ocasión mención especial a &lt;strong&gt;Python España por el esfuerzo que hace por las comunidades&lt;/strong&gt;
-y cómo siempre gracias al &lt;a class="reference external" href="https://www.facebook.com/cafeufnegrasombrablues/"&gt;Café UF&lt;/a&gt;
+y como siempre gracias al &lt;a class="reference external" href="https://www.facebook.com/cafeufnegrasombrablues/"&gt;Café UF&lt;/a&gt;
 por cedernos el espacio.&lt;/p&gt;
 &lt;p&gt;Un saludo!&lt;/p&gt;
 &lt;p&gt;[1] Vías de comunicación&lt;/p&gt;
