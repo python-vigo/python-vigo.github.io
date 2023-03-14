@@ -1,5 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Python Vigo (Publicaciones sobre python)</title><link>https://www.python-vigo.es/</link><description></description><atom:link href="https://www.python-vigo.es/categories/python.xml" rel="self" type="application/rss+xml"></atom:link><language>es</language><copyright>Contents © 2023 &lt;a href="mailto:luisgf@luisgf.es"&gt;Python Vigo&lt;/a&gt; </copyright><lastBuildDate>Fri, 10 Feb 2023 08:06:03 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Reunión Febrero 2023</title><link>https://www.python-vigo.es/posts/reunion-febrero-2023/</link><dc:creator>Python Vigo</dc:creator><description>&lt;p&gt;¡Hola a todas y todos!&lt;/p&gt;
+<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Python Vigo (Publicaciones sobre python)</title><link>https://www.python-vigo.es/</link><description></description><atom:link href="https://www.python-vigo.es/categories/python.xml" rel="self" type="application/rss+xml"></atom:link><language>es</language><copyright>Contents © 2023 &lt;a href="mailto:luisgf@luisgf.es"&gt;Python Vigo&lt;/a&gt; </copyright><lastBuildDate>Tue, 14 Mar 2023 14:13:45 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Reunión Marzo 2023</title><link>https://www.python-vigo.es/posts/reunion-marzon-2023/</link><dc:creator>Python Vigo</dc:creator><description>&lt;p&gt;¡Hola a todas y todos!&lt;/p&gt;
+&lt;p&gt;Ya casi es el tercer jueves de mes y en esta ocasión no habrá charlas y quedaremos para unas PyBirras y por supuesto
+si alguien tiene una lightning talk guardada encantados.&lt;/p&gt;
+&lt;p&gt;Nos vemos este &lt;strong&gt;jueves día 16 de Marzo, a las 20.00&lt;/strong&gt; como es habitual en el
+&lt;a class="reference external" href="https://goo.gl/maps/asJ86HfJQZ1VvD9B8"&gt;Café UF&lt;/a&gt; en Rúa Pracer 19, al lado del Concello.&lt;/p&gt;
+&lt;p&gt;Gracias a todos y todas y nos vemos mañana!&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;PyBirras y Lightning Talks [20.00]&lt;/strong&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Gracias a todos y todas y gracias al &lt;a class="reference external" href="https://www.facebook.com/cafeufnegrasombrablues/"&gt;UF&lt;/a&gt; por cedernos el espacio.&lt;/p&gt;
+&lt;p&gt;Un saludo!&lt;/p&gt;
+&lt;p&gt;[1] Vías de comunicación&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;&lt;p&gt;&lt;a class="reference external" href="https://lists.es.python.org/listinfo/vigo/"&gt;Lista de correo (única vía 100% oficial)&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a class="reference external" href="https://twitter.com/python_vigo/"&gt;Twitter&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a class="reference external" href="https://t.me/+B9bb6mt07Uyp5Pj7"&gt;Grupo de Telegram&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;dl class="simple"&gt;
+&lt;dt&gt;Slack (canal #pythonvigo):&lt;/dt&gt;
+&lt;dd&gt;&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;a class="reference external" href="https://slackin-vigotech.herokuapp.com/"&gt;Obtener invitación&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a class="reference external" href="https://vigotechalliance.slack.com/"&gt;Acceso al grupo&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/dd&gt;
+&lt;/dl&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</description><category>desarrollo</category><category>django</category><category>python</category><category>vigo</category><guid>https://www.python-vigo.es/posts/reunion-marzon-2023/</guid><pubDate>Tue, 14 Mar 2023 11:09:10 GMT</pubDate></item><item><title>Reunión Febrero 2023</title><link>https://www.python-vigo.es/posts/reunion-febrero-2023/</link><dc:creator>Python Vigo</dc:creator><description>&lt;p&gt;¡Hola a todas y todos!&lt;/p&gt;
 &lt;p&gt;Se acerca el tercer jueves de mes y en esta ocasión tenemos un evento muy especial. Especial por dos
 razones.&lt;/p&gt;
 &lt;ul class="simple"&gt;
@@ -383,42 +408,4 @@ No habrá límites de aforo más allá del propio impuesto por el local y por se
 &lt;ul class="simple"&gt;
 &lt;li&gt;&lt;p&gt;Charla de 5 minutos de reloj sobre cualquier tema de Python o relacionado&lt;/p&gt;&lt;/li&gt;
 &lt;li&gt;&lt;p&gt;Cuando se acaba el tiempo, la gente empieza a aplaudir (aunque el ponente no haya acabado)&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;</description><category>desarrollo</category><category>python</category><category>vigo</category><guid>https://www.python-vigo.es/posts/reunion-abril-2022/</guid><pubDate>Mon, 11 Apr 2022 21:36:09 GMT</pubDate></item><item><title>Reunión Marzo 2022</title><link>https://www.python-vigo.es/posts/reunion-marzo-2022/</link><dc:creator>Python Vigo</dc:creator><description>&lt;p&gt;¡Hola!&lt;/p&gt;
-&lt;p&gt;Este mes volvemos &amp;lt;&amp;lt;excepcionalmente&amp;gt;&amp;gt; el último jueves de mes debido a problemas de agenda, pero después de retomar las charlas
-el mes pasado tenemos todavía más ganas.&lt;/p&gt;
-&lt;p&gt;La reunión será &lt;strong&gt;jueves día 24 de Marzo, a las 20.00&lt;/strong&gt;, en esta ocasión será en el &lt;a class="reference external" href="https://goo.gl/maps/asJ86HfJQZ1VvD9B8"&gt;Café UF&lt;/a&gt;
-en Rúa Pracer 19, al lado del Concello..&lt;/p&gt;
-&lt;p&gt;En esta ocasión tendremos una charla muy interesante para cualquier que trabaje a diario o se esté iniciando en Python:&lt;/p&gt;
-&lt;ul class="simple"&gt;
-&lt;li&gt;&lt;dl class="simple"&gt;
-&lt;dt&gt;&lt;strong&gt;Charla [20.00]&lt;/strong&gt;&lt;/dt&gt;
-&lt;dd&gt;&lt;ul&gt;
-&lt;li&gt;&lt;dl class="simple"&gt;
-&lt;dt&gt;&lt;em&gt;Introducción a pyTest&lt;/em&gt; por David Lorenzo (&lt;a class="reference external" href="https://twitter.com/David_Lor_"&gt;Twitter&lt;/a&gt;)&lt;/dt&gt;
-&lt;dd&gt;&lt;p&gt;David nos iniciará en los primeros pasos en el testing con Python, utilizando la librería pyTest y explorando las funcionalidades que nos ofrece.&lt;/p&gt;
-&lt;/dd&gt;
-&lt;/dl&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/dd&gt;
-&lt;/dl&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;dl class="simple"&gt;
-&lt;dt&gt;&lt;strong&gt;Lightning Talks&lt;/strong&gt; [1]&lt;/dt&gt;
-&lt;dd&gt;&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;Quién lo desee tiene la oportunidad de contarnos algo en 5 minutos cronometrados ;)&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/dd&gt;
-&lt;/dl&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;PyBirras&lt;/strong&gt; Un vez finalizado, nos quedaremos un rato tomaremos algo en el propio local.&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Recordad que &lt;strong&gt;todas estas actividades son gratuitas y de acceso libre&lt;/strong&gt; para cualquier persona, sin darse de alta en ningún sitio.
-No habrá límites de aforo más allá del propio impuesto por el local y por ser en interior según la normativa vigente &lt;strong&gt;será indispensable el uso de mascarillas&lt;/strong&gt;.&lt;/p&gt;
-&lt;p&gt;Gracias a todos y todas y nos vemos el día 24!&lt;/p&gt;
-&lt;p&gt;Un saludo.&lt;/p&gt;
-&lt;p&gt;[1] MECÁNICA DE LAS CHARLAS RELÁMPAGO (LIGHTNING TALKS)&lt;/p&gt;
-&lt;ul class="simple"&gt;
-&lt;li&gt;&lt;p&gt;Charla de 5 minutos de reloj sobre cualquier tema de Python o relacionado&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;Cuando se acaba el tiempo, la gente empieza a aplaudir (aunque el ponente no haya acabado)&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;</description><category>desarrollo</category><category>python</category><category>vigo</category><guid>https://www.python-vigo.es/posts/reunion-marzo-2022/</guid><pubDate>Wed, 09 Mar 2022 21:36:09 GMT</pubDate></item></channel></rss>
+&lt;/ul&gt;</description><category>desarrollo</category><category>python</category><category>vigo</category><guid>https://www.python-vigo.es/posts/reunion-abril-2022/</guid><pubDate>Mon, 11 Apr 2022 21:36:09 GMT</pubDate></item></channel></rss>
