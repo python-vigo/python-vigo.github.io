@@ -1,5 +1,44 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Python Vigo (Publicaciones sobre desarrollo)</title><link>https://www.python-vigo.es/</link><description></description><atom:link href="https://www.python-vigo.es/categories/desarrollo.xml" rel="self" type="application/rss+xml"></atom:link><language>es</language><copyright>Contents © 2023 &lt;a href="mailto:luisgf@luisgf.es"&gt;Python Vigo&lt;/a&gt; </copyright><lastBuildDate>Tue, 14 Mar 2023 14:13:45 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Reunión Marzo 2023</title><link>https://www.python-vigo.es/posts/reunion-marzon-2023/</link><dc:creator>Python Vigo</dc:creator><description>&lt;p&gt;¡Hola a todas y todos!&lt;/p&gt;
+<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Python Vigo (Publicaciones sobre desarrollo)</title><link>https://www.python-vigo.es/</link><description></description><atom:link href="https://www.python-vigo.es/categories/desarrollo.xml" rel="self" type="application/rss+xml"></atom:link><language>es</language><copyright>Contents © 2023 &lt;a href="mailto:luisgf@luisgf.es"&gt;Python Vigo&lt;/a&gt; </copyright><lastBuildDate>Mon, 17 Apr 2023 20:30:00 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Reunión Abril 2023</title><link>https://www.python-vigo.es/posts/reunion-abril-2023/</link><dc:creator>Python Vigo</dc:creator><description>&lt;p&gt;¡Hola a todas y todos!&lt;/p&gt;
+&lt;p&gt;Volvemos a la carga este próximo jueves con nueva reunión del grupo,
+para charlar de Python acompañados de un ordenador y las PyBirras.&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;&lt;dl class="simple"&gt;
+&lt;dt&gt;&lt;strong&gt;Lightning Talks&lt;/strong&gt;&lt;/dt&gt;
+&lt;dd&gt;&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Quién lo desee tiene la oportunidad de contarnos algo en 5 minutos cronometrados&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/dd&gt;
+&lt;/dl&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;dl class="simple"&gt;
+&lt;dt&gt;&lt;strong&gt;PyAMA&lt;/strong&gt;&lt;/dt&gt;
+&lt;dd&gt;&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Inspirado en el &lt;strong&gt;mob programming&lt;/strong&gt; y en los &lt;strong&gt;AMA (ask me anything)&lt;/strong&gt; nos juntaremos alrededor de un ordenador preparados para ayudar, compartir y responder cualquier petición o pregunta del grupo.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/dd&gt;
+&lt;/dl&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Nos vemos este &lt;strong&gt;jueves día 20 de Abril, a las 20.00&lt;/strong&gt; como es habitual en el
+&lt;a class="reference external" href="https://goo.gl/maps/asJ86HfJQZ1VvD9B8"&gt;Café UF&lt;/a&gt; en Rúa Pracer 19, al lado del Concello.&lt;/p&gt;
+&lt;p&gt;Gracias a todos y todas y gracias al &lt;a class="reference external" href="https://www.facebook.com/cafeufnegrasombrablues/"&gt;UF&lt;/a&gt; por cedernos el espacio.&lt;/p&gt;
+&lt;p&gt;Un saludo!&lt;/p&gt;
+&lt;p&gt;[1] Vías de comunicación&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;&lt;p&gt;&lt;a class="reference external" href="https://lists.es.python.org/listinfo/vigo/"&gt;Lista de correo (única vía 100% oficial)&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a class="reference external" href="https://twitter.com/python_vigo/"&gt;Twitter&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a class="reference external" href="https://t.me/+B9bb6mt07Uyp5Pj7"&gt;Grupo de Telegram&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;dl class="simple"&gt;
+&lt;dt&gt;Slack (canal #pythonvigo):&lt;/dt&gt;
+&lt;dd&gt;&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;a class="reference external" href="https://slackin-vigotech.herokuapp.com/"&gt;Obtener invitación&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a class="reference external" href="https://vigotechalliance.slack.com/"&gt;Acceso al grupo&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/dd&gt;
+&lt;/dl&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</description><category>desarrollo</category><category>PyAMA</category><category>python</category><category>vigo</category><guid>https://www.python-vigo.es/posts/reunion-abril-2023/</guid><pubDate>Mon, 17 Apr 2023 13:02:02 GMT</pubDate></item><item><title>Reunión Marzo 2023</title><link>https://www.python-vigo.es/posts/reunion-marzon-2023/</link><dc:creator>Python Vigo</dc:creator><description>&lt;p&gt;¡Hola a todas y todos!&lt;/p&gt;
 &lt;p&gt;Ya casi es el tercer jueves de mes y en esta ocasión no habrá charlas y quedaremos para unas PyBirras y por supuesto
 si alguien tiene una lightning talk guardada encantados.&lt;/p&gt;
 &lt;p&gt;Nos vemos este &lt;strong&gt;jueves día 16 de Marzo, a las 20.00&lt;/strong&gt; como es habitual en el
@@ -371,41 +410,4 @@ No habrá límites de aforo más allá del propio impuesto por el local y por se
 &lt;/dd&gt;
 &lt;/dl&gt;
 &lt;/li&gt;
-&lt;/ul&gt;</description><category>desarrollo</category><category>python</category><category>vigo</category><guid>https://www.python-vigo.es/posts/reunion-mayo-2022/</guid><pubDate>Wed, 11 May 2022 18:36:12 GMT</pubDate></item><item><title>Reunión Abril 2022</title><link>https://www.python-vigo.es/posts/reunion-abril-2022/</link><dc:creator>Python Vigo</dc:creator><description>&lt;p&gt;¡Hola!&lt;/p&gt;
-&lt;p&gt;Por tercera vez este 2022 nos juntamos para hablar de Python!&lt;/p&gt;
-&lt;p&gt;La reunión será &lt;strong&gt;jueves día 21 de Abril, a las 20.00&lt;/strong&gt;. Una vez más será en el &lt;a class="reference external" href="https://goo.gl/maps/asJ86HfJQZ1VvD9B8"&gt;Café UF&lt;/a&gt;
-en Rúa Pracer 19, al lado del Concello.&lt;/p&gt;
-&lt;p&gt;Si estás interesado en el backend y desarrollo de APIs quizás la charla sea para ti.&lt;/p&gt;
-&lt;ul class="simple"&gt;
-&lt;li&gt;&lt;dl class="simple"&gt;
-&lt;dt&gt;&lt;strong&gt;Charla [20.00]&lt;/strong&gt;&lt;/dt&gt;
-&lt;dd&gt;&lt;ul&gt;
-&lt;li&gt;&lt;dl class="simple"&gt;
-&lt;dt&gt;&lt;em&gt;Evoluciona tu API en Python con GraphQL&lt;/em&gt; por Álex Hermida (&lt;a class="reference external" href="https://twitter.com/alexhermida"&gt;Twitter&lt;/a&gt;)&lt;/dt&gt;
-&lt;dd&gt;&lt;p&gt;Hablaremos de GraphQL con una introducción al lenguaje y algunas de las implementaciones en Python.&lt;/p&gt;
-&lt;/dd&gt;
-&lt;/dl&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/dd&gt;
-&lt;/dl&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;dl class="simple"&gt;
-&lt;dt&gt;&lt;strong&gt;Lightning Talks&lt;/strong&gt; [1]&lt;/dt&gt;
-&lt;dd&gt;&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;Quién lo desee tiene la oportunidad de contarnos algo en 5 minutos cronometrados ;)&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/dd&gt;
-&lt;/dl&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;PyBirras&lt;/strong&gt; Un vez finalizado, nos quedaremos un rato tomaremos algo en el propio local.&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Recordad que &lt;strong&gt;todas estas actividades son gratuitas y de acceso libre&lt;/strong&gt; para cualquier persona, sin darse de alta en ningún sitio.
-No habrá límites de aforo más allá del propio impuesto por el local y por ser en interior según la normativa vigente &lt;strong&gt;será indispensable el uso de mascarillas&lt;/strong&gt;.&lt;/p&gt;
-&lt;p&gt;Gracias a todos y todas y nos vemos el día 21!&lt;/p&gt;
-&lt;p&gt;Un saludo.&lt;/p&gt;
-&lt;p&gt;[1] MECÁNICA DE LAS CHARLAS RELÁMPAGO (LIGHTNING TALKS)&lt;/p&gt;
-&lt;ul class="simple"&gt;
-&lt;li&gt;&lt;p&gt;Charla de 5 minutos de reloj sobre cualquier tema de Python o relacionado&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;Cuando se acaba el tiempo, la gente empieza a aplaudir (aunque el ponente no haya acabado)&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;</description><category>desarrollo</category><category>python</category><category>vigo</category><guid>https://www.python-vigo.es/posts/reunion-abril-2022/</guid><pubDate>Mon, 11 Apr 2022 21:36:09 GMT</pubDate></item></channel></rss>
+&lt;/ul&gt;</description><category>desarrollo</category><category>python</category><category>vigo</category><guid>https://www.python-vigo.es/posts/reunion-mayo-2022/</guid><pubDate>Wed, 11 May 2022 18:36:12 GMT</pubDate></item></channel></rss>
