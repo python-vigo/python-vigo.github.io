@@ -47,7 +47,7 @@
  </url>
  <url>
   <loc>https://www.python-vigo.es/archive.html</loc>
-  <lastmod>2023-05-16T20:20:00Z</lastmod>
+  <lastmod>2023-06-11T20:25:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.python-vigo.es/authors/</loc>
@@ -67,7 +67,7 @@
  </url>
  <url>
   <loc>https://www.python-vigo.es/categories/</loc>
-  <lastmod>2023-04-17T20:26:00Z</lastmod>
+  <lastmod>2023-06-11T20:39:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.python-vigo.es/categories/desarrollo/</loc>
@@ -114,6 +114,10 @@
   <lastmod>2022-09-14T21:26:00Z</lastmod>
  </url>
  <url>
+  <loc>https://www.python-vigo.es/categories/retrospectiva/</loc>
+  <lastmod>2023-06-11T20:39:00Z</lastmod>
+ </url>
+ <url>
   <loc>https://www.python-vigo.es/categories/shell/</loc>
   <lastmod>2022-09-14T21:26:00Z</lastmod>
  </url>
@@ -151,7 +155,7 @@
  </url>
  <url>
   <loc>https://www.python-vigo.es/index-7.html</loc>
-  <lastmod>2023-05-16T20:20:00Z</lastmod>
+  <lastmod>2023-06-11T20:25:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.python-vigo.es/posts/call-for-papers-para-diciembre-2018-y-sucesivas/</loc>
@@ -408,6 +412,10 @@
  <url>
   <loc>https://www.python-vigo.es/posts/reunion-junio-2022/</loc>
   <lastmod>2022-09-14T21:26:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://www.python-vigo.es/posts/reunion-junio-2023/</loc>
+  <lastmod>2023-06-11T20:25:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.python-vigo.es/posts/reunion-marzo-2022/</loc>
