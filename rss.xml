@@ -1,5 +1,57 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Python Vigo</title><link>https://www.python-vigo.es/</link><description>Grupo Python Vigo</description><atom:link href="https://www.python-vigo.es/rss.xml" rel="self" type="application/rss+xml"></atom:link><language>es</language><copyright>Contents © 2023 &lt;a href="mailto:luisgf@luisgf.es"&gt;Python Vigo&lt;/a&gt; </copyright><lastBuildDate>Tue, 12 Sep 2023 20:47:56 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Reunión septiembre 2023</title><link>https://www.python-vigo.es/posts/reunion-septiembre-2023/</link><dc:creator>Python Vigo</dc:creator><description>&lt;p&gt;¡Estamos de vuelta!&lt;/p&gt;
+<?xml-stylesheet type="text/xsl" href="assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Python Vigo</title><link>https://www.python-vigo.es/</link><description>Grupo Python Vigo</description><atom:link href="https://www.python-vigo.es/rss.xml" rel="self" type="application/rss+xml"></atom:link><language>es</language><copyright>Contents © 2023 &lt;a href="mailto:luisgf@luisgf.es"&gt;Python Vigo&lt;/a&gt; </copyright><lastBuildDate>Sat, 14 Oct 2023 19:22:41 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Reunión octubre 2023</title><link>https://www.python-vigo.es/posts/reunion-octubre-2023/</link><dc:creator>Python Vigo</dc:creator><description>&lt;p&gt;¡Hola a todas y todos!&lt;/p&gt;
+&lt;p&gt;Volvemos a la carga este próximo jueves con nueva reunión del grupo,
+para charlar de Python, PyBirras y quizás alguna sorpresa más!&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;&lt;dl class="simple"&gt;
+&lt;dt&gt;&lt;strong&gt;Charla [20.00]&lt;/strong&gt;&lt;/dt&gt;
+&lt;dd&gt;&lt;ul&gt;
+&lt;li&gt;&lt;dl class="simple"&gt;
+&lt;dt&gt;&lt;em&gt;Python ❤️ web&lt;/em&gt; por (&lt;a class="reference external" href="https://twitter.com/migonzalvar"&gt;Miguel González&lt;/a&gt;)&lt;/dt&gt;
+&lt;dd&gt;&lt;p&gt;Nos hará una demostración de como crear una sencilla aplicación web desde 0 utilizando
+algunas de las librerías de moda en los últimos meses.&lt;/p&gt;
+&lt;/dd&gt;
+&lt;/dl&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/dd&gt;
+&lt;/dl&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;dl class="simple"&gt;
+&lt;dt&gt;&lt;strong&gt;Lightning Talks [21:00]&lt;/strong&gt;&lt;/dt&gt;
+&lt;dd&gt;&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Quién lo desee tiene la oportunidad de contarnos algo en 5 minutos cronometrados&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/dd&gt;
+&lt;/dl&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;dl class="simple"&gt;
+&lt;dt&gt;&lt;strong&gt;PyConES 2024&lt;/strong&gt;&lt;/dt&gt;
+&lt;dd&gt;&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Presentacion de la candidatura de la PyConES 2024 en Vigo&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/dd&gt;
+&lt;/dl&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Nos vemos este &lt;strong&gt;jueves día 19 de octubre, a las 20.00&lt;/strong&gt; en el &lt;a class="reference external" href="https://goo.gl/maps/asJ86HfJQZ1VvD9B8"&gt;Café UF&lt;/a&gt; en Rúa Pracer 19, al lado del Concello.&lt;/p&gt;
+&lt;p&gt;Gracias a todas y todos!&lt;/p&gt;
+&lt;p&gt;Un saludo!&lt;/p&gt;
+&lt;p&gt;[1] Vías de comunicación&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;&lt;p&gt;&lt;a class="reference external" href="https://lists.es.python.org/listinfo/vigo/"&gt;Lista de correo (única vía 100% oficial)&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a class="reference external" href="https://twitter.com/python_vigo/"&gt;Twitter&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a class="reference external" href="https://t.me/+B9bb6mt07Uyp5Pj7"&gt;Grupo de Telegram&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;dl class="simple"&gt;
+&lt;dt&gt;Slack (canal #pythonvigo):&lt;/dt&gt;
+&lt;dd&gt;&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;a class="reference external" href="https://join.slack.com/t/vigotechalliance/shared_invite/zt-1x53dxbj8-jNrMXnt0Q9HVDIccAsM1Qg"&gt;Obtener invitación&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a class="reference external" href="https://vigotechalliance.slack.com/"&gt;Acceso al grupo&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/dd&gt;
+&lt;/dl&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</description><category>desarrollo</category><category>python</category><category>retrospectiva</category><category>vigo</category><guid>https://www.python-vigo.es/posts/reunion-octubre-2023/</guid><pubDate>Tue, 10 Oct 2023 18:10:23 GMT</pubDate></item><item><title>Reunión septiembre 2023</title><link>https://www.python-vigo.es/posts/reunion-septiembre-2023/</link><dc:creator>Python Vigo</dc:creator><description>&lt;p&gt;¡Estamos de vuelta!&lt;/p&gt;
 &lt;p&gt;El verano ha volado y volvemos con las reuniones mensuales. Cómo muchos sabéis se acerca el gran
 evento Python del año, la  &lt;a class="reference external" href="https://2023.es.pycon.org/"&gt;PyConES&lt;/a&gt; que este año se celebra en Canarias,
 a la que algunos miembros del grupo asistirán, e incluso darán alguna charla!&lt;/p&gt;
@@ -374,59 +426,4 @@ que viene!&lt;/p&gt;
 &lt;/dd&gt;
 &lt;/dl&gt;
 &lt;/li&gt;
-&lt;/ul&gt;</description><category>desarrollo</category><category>python</category><category>vigo</category><guid>https://www.python-vigo.es/posts/reunion-noviembre-2022/</guid><pubDate>Mon, 07 Nov 2022 18:08:12 GMT</pubDate></item><item><title>Reunión Octubre 2022</title><link>https://www.python-vigo.es/posts/reunion-octubre-2022/</link><dc:creator>Python Vigo</dc:creator><description>&lt;p&gt;¡Hola!&lt;/p&gt;
-&lt;p&gt;Volvemos por fin con la nueva temporada de charlas y, en esta ocasión, también con novedades.&lt;/p&gt;
-&lt;p&gt;Nos juntaremos el próximo &lt;strong&gt;jueves día 20 de Octubre, a las 20.00&lt;/strong&gt; y volveremos a tener como
-lugar de encuentro uno de lo sitios conocidos por muchas personas del grupo, actualmente sede
-de HACK A BOSS en Vigo, pero antiguamente conocido como Kaleido Coworking, un sitio donde se
-forjaron muchos de los grupos de la comunidad &lt;a class="reference external" href="https://vigotech.org/"&gt;VigoTech&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;En esta ocasión, será un buena oportunidad para aprender un poco más de Python y serverless,
-y como siempre al finalizar quien quiera puede dar una charla relámpago de cualquier tema
-relacionado con Python!&lt;/p&gt;
-&lt;ul class="simple"&gt;
-&lt;li&gt;&lt;dl class="simple"&gt;
-&lt;dt&gt;&lt;strong&gt;Charla [20.00]&lt;/strong&gt;&lt;/dt&gt;
-&lt;dd&gt;&lt;ul&gt;
-&lt;li&gt;&lt;dl class="simple"&gt;
-&lt;dt&gt;&lt;em&gt;2 anos con Python e Serverless&lt;/em&gt; por Héctor Canto (&lt;a class="reference external" href="https://twitter.com/hectorcanto_dev"&gt;Twitter&lt;/a&gt;)&lt;/dt&gt;
-&lt;dd&gt;&lt;p&gt;O que me gustaría ter sabido antes sobre AWS lambda e Serverless. Un pequeno percorrido
-sobre como usar Python con AWS lambda: Conceptos básicos, leccións aprendidas, librerías
-imprescidibles e algo de arquitectura.&lt;/p&gt;
-&lt;/dd&gt;
-&lt;/dl&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/dd&gt;
-&lt;/dl&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;dl class="simple"&gt;
-&lt;dt&gt;&lt;strong&gt;Lightning Talks&lt;/strong&gt; [1]&lt;/dt&gt;
-&lt;dd&gt;&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;Quién lo desee tiene la oportunidad de contarnos algo en 5 minutos cronometrados ;)&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/dd&gt;
-&lt;/dl&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;PyBirras&lt;/strong&gt; Un vez finalizado, tomaremos en algún lugar cercano.&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Nos vemos el &lt;strong&gt;jueves día 20 de Octubre, a las 20.00&lt;/strong&gt; en la sede de
-&lt;a class="reference external" href="https://goo.gl/maps/dXVATGFM8J2j8fxN8"&gt;HACK A BOSS&lt;/a&gt; en Rúa do Roupeiro,
-27 (Plaza Interior), Vigo.&lt;/p&gt;
-&lt;p&gt;Gracias a todos y todas, gracias a HACK A BOSS por cedernos el espacio y nos vemos la semana
-que viene!&lt;/p&gt;
-&lt;p&gt;Un saludo!&lt;/p&gt;
-&lt;p&gt;[1] Vías de comunicación&lt;/p&gt;
-&lt;ul class="simple"&gt;
-&lt;li&gt;&lt;p&gt;&lt;a class="reference external" href="https://lists.es.python.org/listinfo/vigo/"&gt;Lista de correo (única vía 100% oficial)&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;&lt;a class="reference external" href="https://twitter.com/python_vigo/"&gt;Twitter&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;&lt;a class="reference external" href="https://t.me/+B9bb6mt07Uyp5Pj7"&gt;Grupo de Telegram&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;dl class="simple"&gt;
-&lt;dt&gt;Slack (canal #pythonvigo):&lt;/dt&gt;
-&lt;dd&gt;&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;&lt;a class="reference external" href="https://slackin-vigotech.herokuapp.com/"&gt;Obtener invitación&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;&lt;a class="reference external" href="https://vigotechalliance.slack.com/"&gt;Acceso al grupo&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/dd&gt;
-&lt;/dl&gt;
-&lt;/li&gt;
-&lt;/ul&gt;</description><category>desarrollo</category><category>python</category><category>vigo</category><guid>https://www.python-vigo.es/posts/reunion-octubre-2022/</guid><pubDate>Tue, 11 Oct 2022 18:14:01 GMT</pubDate></item></channel></rss>
+&lt;/ul&gt;</description><category>desarrollo</category><category>python</category><category>vigo</category><guid>https://www.python-vigo.es/posts/reunion-noviembre-2022/</guid><pubDate>Mon, 07 Nov 2022 18:08:12 GMT</pubDate></item></channel></rss>
