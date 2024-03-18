@@ -1,5 +1,52 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Python Vigo (Publicaciones sobre python)</title><link>https://www.python-vigo.es/</link><description></description><atom:link href="https://www.python-vigo.es/categories/python.xml" rel="self" type="application/rss+xml"></atom:link><language>es</language><copyright>Contents © 2024 &lt;a href="mailto:luisgf@luisgf.es"&gt;Python Vigo&lt;/a&gt; </copyright><lastBuildDate>Tue, 13 Feb 2024 11:49:48 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Reunión febrero 2024</title><link>https://www.python-vigo.es/posts/reunion-febrero-2024/</link><dc:creator>Python Vigo</dc:creator><description>&lt;p&gt;¡Hola a todas y todos!&lt;/p&gt;
+<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Python Vigo (Publicaciones sobre python)</title><link>https://www.python-vigo.es/</link><description></description><atom:link href="https://www.python-vigo.es/categories/python.xml" rel="self" type="application/rss+xml"></atom:link><language>es</language><copyright>Contents © 2024 &lt;a href="mailto:luisgf@luisgf.es"&gt;Python Vigo&lt;/a&gt; </copyright><lastBuildDate>Sat, 16 Mar 2024 10:45:02 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Reunión marzo 2024</title><link>https://www.python-vigo.es/posts/reunion-marzon-2024/</link><dc:creator>Python Vigo</dc:creator><description>&lt;p&gt;¡Hola a todas y todos!&lt;/p&gt;
+&lt;p&gt;Se acerca el tercer jueves del mes, y con él, la próxima reunión del grupo.&lt;/p&gt;
+&lt;p&gt;En esta ocasión la reunión será un poco diferente, ya que tendremos una sesión de preparación para &lt;a class="reference external" href="https://2024.es.pycon.org/"&gt;PyConES 2024&lt;/a&gt;,
+además la idea es comenzar un poquito antes, a las 19:30h, para poder trabajar en grupo y aprovechar el tiempo al máximo, pero
+si no puedes llegar hasta las 20:00h, no te preocupes, ¡te esperamos igualmente!&lt;/p&gt;
+&lt;p&gt;Durante esta sesión nos juntaremos para trabajar en grupos de 3-4 personas en diferentes tareas que son necesarias para la organización de la conferencia.&lt;/p&gt;
+&lt;p&gt;Pediremos unas pizzas y llevaremos algo de beber, por supuesto todo ello con Python de fondo y
+aprovechando para charlar y compartir experiencias.&lt;/p&gt;
+&lt;p&gt;Como siempre tendrá lugar en la &lt;a class="reference external" href="https://aindustriosa.org/"&gt;Asociación Tecnolóxica A Industriosa&lt;/a&gt;.&lt;/p&gt;
+&lt;pre class="literal-block"&gt;Rúa Gregorio Espino 38, entresuelo 3
+36205 Vigo&lt;/pre&gt;
+&lt;p&gt;Todavía no hay cartel por lo que  para facilitar el acceso, os dejamos aquí la
+&lt;a class="reference external" href="https://maps.app.goo.gl/mY8dqwVfkKB6RMmYA"&gt;ubicación&lt;/a&gt; y una pequeña captura para
+facilitar el acceso a &lt;a class="reference external" href="https://www.python-vigo.es/aindustriosa_entrada.png"&gt;A Industriosa&lt;/a&gt;. Igualmente podéis preguntar por Telegram.&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;&lt;dl class="simple"&gt;
+&lt;dt&gt;&lt;strong&gt;PyConESPizza 2024 - [19:30]&lt;/strong&gt;&lt;/dt&gt;
+&lt;dd&gt;&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Trabajar en el CallForPapers, orientado a preparar el servidor de Pretalx y siguientes pasos&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Avanzar con el desarrollo de la Web&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Comunicación y planificación de próximos hitos&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Cerrar últimos detalles para los patrocinios&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Preparar las diapositivas de la charla en centros docentes&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/dd&gt;
+&lt;/dl&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Pizza [21:30]&lt;/strong&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Nos vemos este &lt;strong&gt;jueves día 21 de marzo, a las 19.30&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;Gracias a todas y todos!&lt;/p&gt;
+&lt;p&gt;Un saludo!&lt;/p&gt;
+&lt;p&gt;[1] Vías de comunicación&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;&lt;p&gt;&lt;a class="reference external" href="https://lists.es.python.org/listinfo/vigo/"&gt;Lista de correo (única vía 100% oficial)&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a class="reference external" href="https://twitter.com/python_vigo/"&gt;Twitter&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a class="reference external" href="https://t.me/+B9bb6mt07Uyp5Pj7"&gt;Grupo de Telegram&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;dl class="simple"&gt;
+&lt;dt&gt;Slack (canal #pythonvigo):&lt;/dt&gt;
+&lt;dd&gt;&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;a class="reference external" href="https://join.slack.com/t/vigotechalliance/shared_invite/zt-1x53dxbj8-jNrMXnt0Q9HVDIccAsM1Qg"&gt;Obtener invitación&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a class="reference external" href="https://vigotechalliance.slack.com/"&gt;Acceso al grupo&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/dd&gt;
+&lt;/dl&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;2: &lt;a class="reference external" href="https://www.python-vigo.es/aindustriosa_entrada.png"&gt;A Industriosa&lt;/a&gt;&lt;/p&gt;</description><category>desarrollo</category><category>pycones</category><category>python</category><category>vigo</category><guid>https://www.python-vigo.es/posts/reunion-marzon-2024/</guid><pubDate>Fri, 15 Mar 2024 17:55:30 GMT</pubDate></item><item><title>Reunión febrero 2024</title><link>https://www.python-vigo.es/posts/reunion-febrero-2024/</link><dc:creator>Python Vigo</dc:creator><description>&lt;p&gt;¡Hola a todas y todos!&lt;/p&gt;
 &lt;p&gt;Volvemos a la carga este próximo jueves con nueva reunión del grupo, la cual tendrá lugar en el mismo sitio que la anterior,
 en la &lt;a class="reference external" href="https://aindustriosa.org/"&gt;Asociación Tecnolóxica A Industriosa&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;La dirección sería:&lt;/p&gt;
@@ -483,29 +530,4 @@ para charlar de Python acompañados de un ordenador y las PyBirras.&lt;/p&gt;
 &lt;/dd&gt;
 &lt;/dl&gt;
 &lt;/li&gt;
-&lt;/ul&gt;</description><category>desarrollo</category><category>PyAMA</category><category>python</category><category>vigo</category><guid>https://www.python-vigo.es/posts/reunion-abril-2023/</guid><pubDate>Mon, 17 Apr 2023 13:02:02 GMT</pubDate></item><item><title>Reunión Marzo 2023</title><link>https://www.python-vigo.es/posts/reunion-marzon-2023/</link><dc:creator>Python Vigo</dc:creator><description>&lt;p&gt;¡Hola a todas y todos!&lt;/p&gt;
-&lt;p&gt;Ya casi es el tercer jueves de mes y en esta ocasión no habrá charlas y quedaremos para unas PyBirras y por supuesto
-si alguien tiene una lightning talk guardada encantados.&lt;/p&gt;
-&lt;p&gt;Nos vemos este &lt;strong&gt;jueves día 16 de Marzo, a las 20.00&lt;/strong&gt; como es habitual en el
-&lt;a class="reference external" href="https://goo.gl/maps/asJ86HfJQZ1VvD9B8"&gt;Café UF&lt;/a&gt; en Rúa Pracer 19, al lado del Concello.&lt;/p&gt;
-&lt;p&gt;Gracias a todos y todas y nos vemos mañana!&lt;/p&gt;
-&lt;ul class="simple"&gt;
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;PyBirras y Lightning Talks [20.00]&lt;/strong&gt;&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Gracias a todos y todas y gracias al &lt;a class="reference external" href="https://www.facebook.com/cafeufnegrasombrablues/"&gt;UF&lt;/a&gt; por cedernos el espacio.&lt;/p&gt;
-&lt;p&gt;Un saludo!&lt;/p&gt;
-&lt;p&gt;[1] Vías de comunicación&lt;/p&gt;
-&lt;ul class="simple"&gt;
-&lt;li&gt;&lt;p&gt;&lt;a class="reference external" href="https://lists.es.python.org/listinfo/vigo/"&gt;Lista de correo (única vía 100% oficial)&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;&lt;a class="reference external" href="https://twitter.com/python_vigo/"&gt;Twitter&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;&lt;a class="reference external" href="https://t.me/+B9bb6mt07Uyp5Pj7"&gt;Grupo de Telegram&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;dl class="simple"&gt;
-&lt;dt&gt;Slack (canal #pythonvigo):&lt;/dt&gt;
-&lt;dd&gt;&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;&lt;a class="reference external" href="https://slackin-vigotech.herokuapp.com/"&gt;Obtener invitación&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;&lt;a class="reference external" href="https://vigotechalliance.slack.com/"&gt;Acceso al grupo&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/dd&gt;
-&lt;/dl&gt;
-&lt;/li&gt;
-&lt;/ul&gt;</description><category>desarrollo</category><category>django</category><category>python</category><category>vigo</category><guid>https://www.python-vigo.es/posts/reunion-marzon-2023/</guid><pubDate>Tue, 14 Mar 2023 11:09:10 GMT</pubDate></item></channel></rss>
+&lt;/ul&gt;</description><category>desarrollo</category><category>PyAMA</category><category>python</category><category>vigo</category><guid>https://www.python-vigo.es/posts/reunion-abril-2023/</guid><pubDate>Mon, 17 Apr 2023 13:02:02 GMT</pubDate></item></channel></rss>
