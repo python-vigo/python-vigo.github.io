@@ -7,7 +7,7 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>https://www.python-vigo.es/</loc>
-  <lastmod>2024-03-16T10:38:00Z</lastmod>
+  <lastmod>2024-04-16T06:45:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.python-vigo.es/2015/</loc>
@@ -51,7 +51,7 @@
  </url>
  <url>
   <loc>https://www.python-vigo.es/archive.html</loc>
-  <lastmod>2024-03-16T10:38:00Z</lastmod>
+  <lastmod>2024-04-16T06:45:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.python-vigo.es/authors/</loc>
@@ -163,7 +163,11 @@
  </url>
  <url>
   <loc>https://www.python-vigo.es/index-7.html</loc>
-  <lastmod>2024-03-16T10:38:00Z</lastmod>
+  <lastmod>2024-04-16T06:45:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://www.python-vigo.es/index-8.html</loc>
+  <lastmod>2024-04-16T06:45:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.python-vigo.es/posts/call-for-papers-para-diciembre-2018-y-sucesivas/</loc>
@@ -216,6 +220,10 @@
  <url>
   <loc>https://www.python-vigo.es/posts/reunion-abril-2023/</loc>
   <lastmod>2023-04-17T20:26:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://www.python-vigo.es/posts/reunion-abril-2024/</loc>
+  <lastmod>2024-04-16T06:45:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.python-vigo.es/posts/reunion-de-julio-2020/</loc>
