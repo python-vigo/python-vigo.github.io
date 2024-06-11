@@ -15,7 +15,7 @@ Volvemos a la carga este próximo jueves con una charla y un ponente top,
 PyBirras y quizás alguna sorpresa más!
 
 * **Charla [20.00]**
-    * *Introducción a fsspec* por (`David de la Iglesia Castro  <https://github.com/daavoo>`__)
+    * *Introducción a fsspec* por `David de la Iglesia Castro  <https://github.com/daavoo>`__
         David nos hablará sobre fsspec, un proyecto enfocado a proporcionar una API pythónica y consistente con la que poder interactuar
         con sistemas de archivos, de la misma manera, sea cual sea el backend de almacenamiento.
 
