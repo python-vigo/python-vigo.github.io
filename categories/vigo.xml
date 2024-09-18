@@ -1,5 +1,60 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Python Vigo (Publicaciones sobre vigo)</title><link>https://www.python-vigo.es/</link><description></description><atom:link href="https://www.python-vigo.es/categories/vigo.xml" rel="self" type="application/rss+xml"></atom:link><language>es</language><copyright>Contents © 2024 &lt;a href="mailto:luisgf@luisgf.es"&gt;Python Vigo&lt;/a&gt; </copyright><lastBuildDate>Tue, 11 Jun 2024 16:41:56 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Reunión junio 2024</title><link>https://www.python-vigo.es/posts/reunion-junio-2024/</link><dc:creator>Python Vigo</dc:creator><description>&lt;p&gt;¡Hola a todas y todos!&lt;/p&gt;
+<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Python Vigo (Publicaciones sobre vigo)</title><link>https://www.python-vigo.es/</link><description></description><atom:link href="https://www.python-vigo.es/categories/vigo.xml" rel="self" type="application/rss+xml"></atom:link><language>es</language><copyright>Contents © 2024 &lt;a href="mailto:luisgf@luisgf.es"&gt;Python Vigo&lt;/a&gt; </copyright><lastBuildDate>Wed, 18 Sep 2024 07:30:05 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Reunión septiembre 2024</title><link>https://www.python-vigo.es/posts/reunion-septiembre-2024/</link><dc:creator>Python Vigo</dc:creator><description>&lt;p&gt;¡Hola a todas y todos!&lt;/p&gt;
+&lt;p&gt;En 2 semanas será la &lt;a class="reference external" href="https://2024.es.pycon.org/"&gt;PyConES2024&lt;/a&gt;, ya está prácticamente todo listo y estamos muy emocionados por ello.&lt;/p&gt;
+&lt;p&gt;Por eso, este jueves 19 de septiembre a las 20:00h, tendremos una reunión para ultimar los detalles de la conferencia.
+Por supuesto, tendremos tiempo para tomar unas PyBirras y charlar sobre Python y otros temas.&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;&lt;dl class="simple"&gt;
+&lt;dt&gt;&lt;strong&gt;Organización PyConES [20.00]&lt;/strong&gt;&lt;/dt&gt;
+&lt;dd&gt;&lt;ul&gt;
+&lt;li&gt;&lt;dl class="simple"&gt;
+&lt;dt&gt;&lt;em&gt;Preparación de la PyConES&lt;/em&gt; por &lt;a class="reference external" href="https://twitter.com/python_vigo"&gt;Python Vigo&lt;/a&gt;&lt;/dt&gt;
+&lt;dd&gt;&lt;p&gt;Nos juntaremos para trabajar y cerrar algunos de los detalles pendientes de la conferencia.&lt;/p&gt;
+&lt;/dd&gt;
+&lt;/dl&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/dd&gt;
+&lt;/dl&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;dl class="simple"&gt;
+&lt;dt&gt;&lt;strong&gt;PyBirras&lt;/strong&gt;&lt;/dt&gt;
+&lt;dd&gt;&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Nos acercaremos a tomar algo a un local cercano.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/dd&gt;
+&lt;/dl&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Si estabas buscabas &lt;strong&gt;una oportunidad para colaborar con la comunidad Python&lt;/strong&gt;, esta es tu oportunidad.
+Además, aún vamos a reclutar algúnas voluntarias y voluntarios más para la conferencia, si te interesa, no dudes en acercarte o
+contactar con nosotros en el siguiente enlace &lt;a class="reference external" href="https://forms.gle/h4YgB398GrqTnpWA6"&gt;voluntariado&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;¡Te esperamos!&lt;/p&gt;
+&lt;p&gt;Como siempre tendrá lugar en la &lt;a class="reference external" href="https://aindustriosa.org/"&gt;Asociación Tecnolóxica A Industriosa&lt;/a&gt;.&lt;/p&gt;
+&lt;pre class="literal-block"&gt;Rúa Gregorio Espino 38, entresuelo 3
+36205 Vigo&lt;/pre&gt;
+&lt;p&gt;Todavía no hay cartel por lo que para facilitar el acceso, os dejamos aquí la
+&lt;a class="reference external" href="https://maps.app.goo.gl/mY8dqwVfkKB6RMmYA"&gt;ubicación&lt;/a&gt; y una pequeña captura para
+facilitar el acceso a &lt;a class="reference external" href="https://www.python-vigo.es/aindustriosa_entrada.png"&gt;A Industriosa&lt;/a&gt;. Igualmente podéis preguntar por Telegram.&lt;/p&gt;
+&lt;p&gt;Nos vemos este &lt;strong&gt;jueves día 19 de septiembre, a las 20.00&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;Gracias a todas y todos!&lt;/p&gt;
+&lt;p&gt;Un saludo!&lt;/p&gt;
+&lt;p&gt;[1] Vías de comunicación&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;&lt;p&gt;&lt;a class="reference external" href="https://lists.es.python.org/listinfo/vigo/"&gt;Lista de correo (única vía 100% oficial)&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a class="reference external" href="https://twitter.com/python_vigo/"&gt;Twitter&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a class="reference external" href="https://t.me/+B9bb6mt07Uyp5Pj7"&gt;Grupo de Telegram&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;dl class="simple"&gt;
+&lt;dt&gt;Slack (canal #pythonvigo):&lt;/dt&gt;
+&lt;dd&gt;&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;a class="reference external" href="https://join.slack.com/t/vigotechalliance/shared_invite/zt-1x53dxbj8-jNrMXnt0Q9HVDIccAsM1Qg"&gt;Obtener invitación&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a class="reference external" href="https://vigotechalliance.slack.com/"&gt;Acceso al grupo&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/dd&gt;
+&lt;/dl&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;2: &lt;a class="reference external" href="https://www.python-vigo.es/aindustriosa_entrada.png"&gt;A Industriosa&lt;/a&gt;&lt;/p&gt;</description><category>desarrollo</category><category>pycones</category><category>python</category><category>vigo</category><guid>https://www.python-vigo.es/posts/reunion-septiembre-2024/</guid><pubDate>Tue, 17 Sep 2024 19:25:25 GMT</pubDate></item><item><title>Reunión junio 2024</title><link>https://www.python-vigo.es/posts/reunion-junio-2024/</link><dc:creator>Python Vigo</dc:creator><description>&lt;p&gt;¡Hola a todas y todos!&lt;/p&gt;
 &lt;p&gt;Volvemos a la carga este próximo jueves con una charla y un ponente top,
 PyBirras y quizás alguna sorpresa más!&lt;/p&gt;
 &lt;ul class="simple"&gt;
@@ -494,59 +549,4 @@ Para ilustrar los ejemplos, se utilizará la biblioteca (&lt;cite&gt;meiga &amp;
 &lt;/dd&gt;
 &lt;/dl&gt;
 &lt;/li&gt;
-&lt;/ul&gt;</description><category>desarrollo</category><category>python</category><category>retrospectiva</category><category>vigo</category><guid>https://www.python-vigo.es/posts/reunion-septiembre-2023/</guid><pubDate>Sun, 10 Sep 2023 18:10:23 GMT</pubDate></item><item><title>Reunión Junio 2023</title><link>https://www.python-vigo.es/posts/reunion-junio-2023/</link><dc:creator>Python Vigo</dc:creator><description>&lt;p&gt;¡Hola a todas y todos!&lt;/p&gt;
-&lt;p&gt;Última reunión antes de verano, donde previsiblemente pararemos. En esta ocasión
-pensamos hacer un evento un poco diferente, hablaremos de Python pero sobretodo
-del grupo.&lt;/p&gt;
-&lt;p&gt;La idea es hacer una &lt;strong&gt;sesión de retrospectiva&lt;/strong&gt; de lo que ha sido este año, con el
-objetivo de analizar cómo podemos mejorar o qué queremos cambiar de cara al año
-que viene. Si nunca habéis hecho una puede resultar una experiencia bastante
-divertida!&lt;/p&gt;
-&lt;p&gt;Por ello en esta ocasión la reunión será en el local de
-&lt;a class="reference external" href="https://aindustriosa.org/"&gt;A Industriosa&lt;/a&gt;, &lt;strong&gt;en calle Barcelona, 13&lt;/strong&gt;.&lt;/p&gt;
-&lt;ul class="simple"&gt;
-&lt;li&gt;&lt;dl class="simple"&gt;
-&lt;dt&gt;&lt;strong&gt;Retrospectiva [20.00]&lt;/strong&gt;&lt;/dt&gt;
-&lt;dd&gt;&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;Por aquí os dejo un enlace con una explicación de qué es y algunos
-ejemplos: &lt;a class="reference external" href="https://blog.kaleidos.net/Una-serie-de-divertidas-retrospectivas/"&gt;Ejemplos de retrospectiva&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/dd&gt;
-&lt;/dl&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;dl class="simple"&gt;
-&lt;dt&gt;&lt;strong&gt;Lightning Talks [21:15]&lt;/strong&gt;&lt;/dt&gt;
-&lt;dd&gt;&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;Quién lo desee tiene la oportunidad de contarnos algo en 5 minutos cronometrados&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/dd&gt;
-&lt;/dl&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;dl class="simple"&gt;
-&lt;dt&gt;&lt;strong&gt;PyBirras [21:30]&lt;/strong&gt;&lt;/dt&gt;
-&lt;dd&gt;&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;Nos acercaremos a algún bar cercano a tomarnos unas PyBirras y charlar&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/dd&gt;
-&lt;/dl&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Nos vemos este &lt;strong&gt;jueves día 15 Junio, a las 20.00&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Gracias a todos y todas y gracias a la asociación &lt;a class="reference external" href="https://aindustriosa.org/"&gt;A Industriosa&lt;/a&gt;
-por cedernos el espacio en esta ocasión.&lt;/p&gt;
-&lt;p&gt;Un saludo!&lt;/p&gt;
-&lt;p&gt;[1] Vías de comunicación&lt;/p&gt;
-&lt;ul class="simple"&gt;
-&lt;li&gt;&lt;p&gt;&lt;a class="reference external" href="https://lists.es.python.org/listinfo/vigo/"&gt;Lista de correo (única vía 100% oficial)&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;&lt;a class="reference external" href="https://twitter.com/python_vigo/"&gt;Twitter&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;&lt;a class="reference external" href="https://t.me/+B9bb6mt07Uyp5Pj7"&gt;Grupo de Telegram&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;dl class="simple"&gt;
-&lt;dt&gt;Slack (canal #pythonvigo):&lt;/dt&gt;
-&lt;dd&gt;&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;&lt;a class="reference external" href="https://slackin-vigotech.herokuapp.com/"&gt;Obtener invitación&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;&lt;a class="reference external" href="https://vigotechalliance.slack.com/"&gt;Acceso al grupo&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/dd&gt;
-&lt;/dl&gt;
-&lt;/li&gt;
-&lt;/ul&gt;</description><category>desarrollo</category><category>python</category><category>retrospectiva</category><category>vigo</category><guid>https://www.python-vigo.es/posts/reunion-junio-2023/</guid><pubDate>Sun, 11 Jun 2023 18:19:33 GMT</pubDate></item></channel></rss>
+&lt;/ul&gt;</description><category>desarrollo</category><category>python</category><category>retrospectiva</category><category>vigo</category><guid>https://www.python-vigo.es/posts/reunion-septiembre-2023/</guid><pubDate>Sun, 10 Sep 2023 18:10:23 GMT</pubDate></item></channel></rss>
