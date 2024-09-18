@@ -1,8 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Python Vigo (Publicaciones sobre python)</title><link>https://www.python-vigo.es/</link><description></description><atom:link href="https://www.python-vigo.es/categories/python.xml" rel="self" type="application/rss+xml"></atom:link><language>es</language><copyright>Contents © 2024 &lt;a href="mailto:luisgf@luisgf.es"&gt;Python Vigo&lt;/a&gt; </copyright><lastBuildDate>Wed, 18 Sep 2024 07:30:05 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Reunión septiembre 2024</title><link>https://www.python-vigo.es/posts/reunion-septiembre-2024/</link><dc:creator>Python Vigo</dc:creator><description>&lt;p&gt;¡Hola a todas y todos!&lt;/p&gt;
+<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Python Vigo (Publicaciones sobre python)</title><link>https://www.python-vigo.es/</link><description></description><atom:link href="https://www.python-vigo.es/categories/python.xml" rel="self" type="application/rss+xml"></atom:link><language>es</language><copyright>Contents © 2024 &lt;a href="mailto:luisgf@luisgf.es"&gt;Python Vigo&lt;/a&gt; </copyright><lastBuildDate>Wed, 18 Sep 2024 07:46:41 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Reunión septiembre 2024</title><link>https://www.python-vigo.es/posts/reunion-septiembre-2024/</link><dc:creator>Python Vigo</dc:creator><description>&lt;p&gt;¡Hola a todas y todos!&lt;/p&gt;
 &lt;p&gt;En 2 semanas será la &lt;a class="reference external" href="https://2024.es.pycon.org/"&gt;PyConES2024&lt;/a&gt;, ya está prácticamente todo listo y estamos muy emocionados por ello.&lt;/p&gt;
-&lt;p&gt;Por eso, este jueves 19 de septiembre a las 20:00h, tendremos una reunión para ultimar los detalles de la conferencia.
-Por supuesto, tendremos tiempo para tomar unas PyBirras y charlar sobre Python y otros temas.&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;&lt;p&gt;44 charlas de diferentes temáticas relacionadas con Python durante el sábado y domingo&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;9 talleres durante el viernes por la tarde&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;2 keynotes de lujo&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Hackathon durante el fin de semana&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;28 empresas patrocinadoras, muchas de ellas con stands en la conferencia&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;800 asistentes confirmados de todas partes de España&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Coffe-breaks y comidas para los asistentes&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Es un espacio donde no sólo podrás aprender muchísimo sobre Python, sino también conocer a mucha gente interesante y hacer networking
+durante el Coffe-breaks y la comida. Échale un ojo al &lt;a class="reference external" href="https://2024.es.pycon.org/programa/"&gt;programa&lt;/a&gt; y no te pierdas la oportunidad
+de asistir a la conferencia.&lt;/p&gt;
+&lt;p&gt;Queda pocas entradas, pero siguen a la venta en &lt;a class="reference external" href="https://pretix.eu/python-spain/pycones2024/"&gt;este enlace&lt;/a&gt; hasta el viernes 27 de
+septiembre o hasta que se agoten durante los próximos días.&lt;/p&gt;
+&lt;p&gt;Por todo lo anterior, este jueves 19 de septiembre a las 20:00h, tendremos una reunión para ultimar los detalles de la conferencia.
+Por supuesto, tendremos tiempo para tomar unas PyBirras y charlar sobre Python y otros temas. ¡Todas las personas son bienvenidas!&lt;/p&gt;
 &lt;ul class="simple"&gt;
 &lt;li&gt;&lt;dl class="simple"&gt;
 &lt;dt&gt;&lt;strong&gt;Organización PyConES [20.00]&lt;/strong&gt;&lt;/dt&gt;
