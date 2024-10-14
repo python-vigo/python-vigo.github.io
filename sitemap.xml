@@ -7,7 +7,7 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>https://www.python-vigo.es/</loc>
-  <lastmod>2024-09-24T11:44:00Z</lastmod>
+  <lastmod>2024-09-24T11:58:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.python-vigo.es/2015/</loc>
@@ -51,7 +51,7 @@
  </url>
  <url>
   <loc>https://www.python-vigo.es/archive.html</loc>
-  <lastmod>2024-09-24T07:16:00Z</lastmod>
+  <lastmod>2024-10-14T21:28:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.python-vigo.es/authors/</loc>
@@ -167,7 +167,7 @@
  </url>
  <url>
   <loc>https://www.python-vigo.es/index-8.html</loc>
-  <lastmod>2024-09-24T07:16:00Z</lastmod>
+  <lastmod>2024-10-14T21:28:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.python-vigo.es/posts/acto-apertura-pycones-2024/</loc>
@@ -488,6 +488,10 @@
  <url>
   <loc>https://www.python-vigo.es/posts/reunion-octubre-2023/</loc>
   <lastmod>2023-11-06T21:00:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://www.python-vigo.es/posts/reunion-octubre-2024/</loc>
+  <lastmod>2024-10-14T21:28:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.python-vigo.es/posts/reunion-septiembre-2022/</loc>
