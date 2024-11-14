@@ -1,5 +1,67 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Python Vigo</title><link>https://www.python-vigo.es/</link><description>Grupo Python Vigo</description><atom:link href="https://www.python-vigo.es/rss.xml" rel="self" type="application/rss+xml"></atom:link><language>es</language><copyright>Contents © 2024 &lt;a href="mailto:luisgf@luisgf.es"&gt;Python Vigo&lt;/a&gt; </copyright><lastBuildDate>Mon, 14 Oct 2024 21:31:47 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Reunión octubre 2024</title><link>https://www.python-vigo.es/posts/reunion-octubre-2024/</link><dc:creator>Python Vigo</dc:creator><description>&lt;p&gt;¡Hola de nuevo!&lt;/p&gt;
+<?xml-stylesheet type="text/xsl" href="assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Python Vigo</title><link>https://www.python-vigo.es/</link><description>Grupo Python Vigo</description><atom:link href="https://www.python-vigo.es/rss.xml" rel="self" type="application/rss+xml"></atom:link><language>es</language><copyright>Contents © 2024 &lt;a href="mailto:luisgf@luisgf.es"&gt;Python Vigo&lt;/a&gt; </copyright><lastBuildDate>Thu, 14 Nov 2024 09:06:13 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Reunión noviembre 2024</title><link>https://www.python-vigo.es/posts/reunion-noviembre-2024/</link><dc:creator>Python Vigo</dc:creator><description>&lt;p&gt;¡Hola a todas y todos!&lt;/p&gt;
+&lt;p&gt;Se acerca la navidad y el tercer jueves de mes, y como es habitual, estè próximo &lt;strong&gt;21 de noviembre a las 20:00&lt;/strong&gt;,
+¡toca reunión!&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;&lt;dl class="simple"&gt;
+&lt;dt&gt;&lt;strong&gt;Charla [20.00]&lt;/strong&gt;&lt;/dt&gt;
+&lt;dd&gt;&lt;ul&gt;
+&lt;li&gt;&lt;dl class="simple"&gt;
+&lt;dt&gt;&lt;em&gt;ML con xeito - Intro a MLOps con MLFlow&lt;/em&gt; por &lt;a class="reference external" href="https://linkedin.com/in/oscarigrexas"&gt;Óscar Iglesias&lt;/a&gt;&lt;/dt&gt;
+&lt;dd&gt;&lt;p&gt;Detrás de cada modelo ML exitoso existe todo un ecosistema de componentes, herramientas y buenas prácticas
+que ayudan a mantenerlo usable, trazable y reproducible.
+En esta sesión echaremos un vistazo tras la cortina de un sistema ML realista, y conoceremos alguna de estas
+piezas cruciales (Python y open-source), centrándonos en el popular MLFlow.&lt;/p&gt;
+&lt;/dd&gt;
+&lt;/dl&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/dd&gt;
+&lt;/dl&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;dl class="simple"&gt;
+&lt;dt&gt;&lt;strong&gt;Lightning Talks [21:00]&lt;/strong&gt;&lt;/dt&gt;
+&lt;dd&gt;&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Quién lo desee tiene la oportunidad de contarnos algo en 5 minutos cronometrados.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/dd&gt;
+&lt;/dl&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;dl class="simple"&gt;
+&lt;dt&gt;&lt;strong&gt;PyBirras [21:10]&lt;/strong&gt;&lt;/dt&gt;
+&lt;dd&gt;&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Nos acercaremos a tomar algo a un local cercano.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/dd&gt;
+&lt;/dl&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;¡Te esperamos!&lt;/p&gt;
+&lt;p&gt;Como siempre tendrá lugar en la &lt;a class="reference external" href="https://aindustriosa.org/"&gt;Asociación Tecnolóxica A Industriosa&lt;/a&gt;.&lt;/p&gt;
+&lt;pre class="literal-block"&gt;Rúa Gregorio Espino 38, entresuelo 3
+36205 Vigo&lt;/pre&gt;
+&lt;p&gt;Todavía no hay cartel por lo que para facilitar el acceso, os dejamos aquí la
+&lt;a class="reference external" href="https://maps.app.goo.gl/mY8dqwVfkKB6RMmYA"&gt;ubicación&lt;/a&gt; y una pequeña captura para
+facilitar el acceso a &lt;a class="reference external" href="https://www.python-vigo.es/aindustriosa_entrada.png"&gt;A Industriosa&lt;/a&gt;. Igualmente podéis preguntar por Telegram.&lt;/p&gt;
+&lt;p&gt;Nos vemos este &lt;strong&gt;jueves día 21 de noviembre, a las 20.00&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;Gracias a todas y todos!&lt;/p&gt;
+&lt;p&gt;Un saludo!&lt;/p&gt;
+&lt;p&gt;[1] Vías de comunicación&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;&lt;p&gt;&lt;a class="reference external" href="https://lists.es.python.org/listinfo/vigo/"&gt;Lista de correo (única vía 100% oficial)&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a class="reference external" href="https://twitter.com/python_vigo/"&gt;Twitter&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a class="reference external" href="https://t.me/+B9bb6mt07Uyp5Pj7"&gt;Grupo de Telegram&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;dl class="simple"&gt;
+&lt;dt&gt;Slack (canal #pythonvigo):&lt;/dt&gt;
+&lt;dd&gt;&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;a class="reference external" href="https://join.slack.com/t/vigotechalliance/shared_invite/zt-1x53dxbj8-jNrMXnt0Q9HVDIccAsM1Qg"&gt;Obtener invitación&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a class="reference external" href="https://vigotechalliance.slack.com/"&gt;Acceso al grupo&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/dd&gt;
+&lt;/dl&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;2: &lt;a class="reference external" href="https://www.python-vigo.es/aindustriosa_entrada.png"&gt;A Industriosa&lt;/a&gt;&lt;/p&gt;</description><category>desarrollo</category><category>pycones</category><category>python</category><category>vigo</category><guid>https://www.python-vigo.es/posts/reunion-noviembre-2024/</guid><pubDate>Wed, 13 Nov 2024 19:20:21 GMT</pubDate></item><item><title>Reunión octubre 2024</title><link>https://www.python-vigo.es/posts/reunion-octubre-2024/</link><dc:creator>Python Vigo</dc:creator><description>&lt;p&gt;¡Hola de nuevo!&lt;/p&gt;
 &lt;p&gt;Si, ya lo sabemos, hace menos de dos semanas fue la &lt;a class="reference external" href="https://2024.es.pycon.org/"&gt;PyConES2024&lt;/a&gt; un momento
 especial para el grupo y para la comunidad Python.
 Fue un evento y experiencia increible, pero va a ser el tercer jueves de mes y echamos de menos la reunión del grupo!
@@ -541,66 +603,4 @@ de la PyConES 2024, hablaremos de los grupos de trabajo y los siguientes pasos.&
 &lt;/dl&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;2: &lt;a class="reference external" href="https://www.python-vigo.es/aindustriosa_entrada.png"&gt;A Industriosa&lt;/a&gt;&lt;/p&gt;</description><category>desarrollo</category><category>python</category><category>retrospectiva</category><category>vigo</category><guid>https://www.python-vigo.es/posts/reunion-diciembre-2023/</guid><pubDate>Mon, 04 Dec 2023 14:25:14 GMT</pubDate></item><item><title>Reunión noviembre 2023</title><link>https://www.python-vigo.es/posts/reunion-noviembre-2023/</link><dc:creator>Python Vigo</dc:creator><description>&lt;p&gt;¡Hola a todas y todos!&lt;/p&gt;
-&lt;p&gt;Llega la reunión de noviembre con una novedad muy importante. ¡Nos movemos de ubicación!&lt;/p&gt;
-&lt;p&gt;La &lt;a class="reference external" href="https://aindustriosa.org/"&gt;Asociación Tecnolóxica A Industriosa&lt;/a&gt; se acaba de mudar y nos
-cede un hueco en su espacio para celebrar las próximas reuniones, seguro será un punto de inflexión
-en la comunicada local.&lt;/p&gt;
-&lt;p&gt;La dirección para la próxima reunión es:&lt;/p&gt;
-&lt;pre class="literal-block"&gt;Rúa Gregorio Espino 38, entresuelo 3
-36205 Vigo&lt;/pre&gt;
-&lt;p&gt;Todavía no hay cartel por lo que  para facilitar el acceso, os dejamos aquí la
-&lt;a class="reference external" href="https://maps.app.goo.gl/mY8dqwVfkKB6RMmYA"&gt;ubicación&lt;/a&gt; y una pequeña captura para
-facilitar el acceso a &lt;a class="reference external" href="https://www.python-vigo.es/aindustriosa_entrada.png"&gt;A Industriosa&lt;/a&gt;. Igualmente podéis preguntar por Telegram.&lt;/p&gt;
-&lt;p&gt;En esta ocasión tenemos charlas y actualización sobre los avances de la PyConES.&lt;/p&gt;
-&lt;ul class="simple"&gt;
-&lt;li&gt;&lt;dl class="simple"&gt;
-&lt;dt&gt;&lt;strong&gt;Charla [20.00]&lt;/strong&gt;&lt;/dt&gt;
-&lt;dd&gt;&lt;ul&gt;
-&lt;li&gt;&lt;dl class="simple"&gt;
-&lt;dt&gt;&lt;em&gt;Aprendiendo un shell pythonico, xonsh.&lt;/em&gt; &lt;a class="reference external" href="https://github.com/Daniel-at-github"&gt;Daniel Sanchez&lt;/a&gt;&lt;/dt&gt;
-&lt;dd&gt;&lt;p&gt;Cómo utilizar la repetición espaciada para aprender el lenguaje de shell basado en Python&lt;/p&gt;
-&lt;/dd&gt;
-&lt;/dl&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/dd&gt;
-&lt;/dl&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;dl class="simple"&gt;
-&lt;dt&gt;&lt;strong&gt;PyConES 2024 - actualización [21:00]&lt;/strong&gt;&lt;/dt&gt;
-&lt;dd&gt;&lt;p&gt;Comentaremos todo lo referente a los pasos iniciales de la organización
-de la PyConES 2024, hablaremos de los grupos de trabajo que se van a formar
-y los siguientes pasos.&lt;/p&gt;
-&lt;/dd&gt;
-&lt;/dl&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;dl class="simple"&gt;
-&lt;dt&gt;&lt;strong&gt;Lightning Talks [21:15]&lt;/strong&gt;&lt;/dt&gt;
-&lt;dd&gt;&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;Quién lo desee tiene la oportunidad de contarnos algo en 5 minutos cronometrados&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/dd&gt;
-&lt;/dl&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Al terminar como es habitual, nos iremos a tomar algo a alguna cafetería cercana.&lt;/p&gt;
-&lt;p&gt;Nos vemos este &lt;strong&gt;jueves día 16 de noviembre, a las 20.00&lt;/strong&gt;.&lt;/p&gt;
-&lt;p&gt;Gracias a todas y todos!&lt;/p&gt;
-&lt;p&gt;Un saludo!&lt;/p&gt;
-&lt;p&gt;[1] Vías de comunicación&lt;/p&gt;
-&lt;ul class="simple"&gt;
-&lt;li&gt;&lt;p&gt;&lt;a class="reference external" href="https://lists.es.python.org/listinfo/vigo/"&gt;Lista de correo (única vía 100% oficial)&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;&lt;a class="reference external" href="https://twitter.com/python_vigo/"&gt;Twitter&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;&lt;a class="reference external" href="https://t.me/+B9bb6mt07Uyp5Pj7"&gt;Grupo de Telegram&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;dl class="simple"&gt;
-&lt;dt&gt;Slack (canal #pythonvigo):&lt;/dt&gt;
-&lt;dd&gt;&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;&lt;a class="reference external" href="https://join.slack.com/t/vigotechalliance/shared_invite/zt-1x53dxbj8-jNrMXnt0Q9HVDIccAsM1Qg"&gt;Obtener invitación&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;&lt;a class="reference external" href="https://vigotechalliance.slack.com/"&gt;Acceso al grupo&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/dd&gt;
-&lt;/dl&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;2: &lt;a class="reference external" href="https://www.python-vigo.es/aindustriosa_entrada.png"&gt;A Industriosa&lt;/a&gt;&lt;/p&gt;</description><category>desarrollo</category><category>python</category><category>retrospectiva</category><category>vigo</category><guid>https://www.python-vigo.es/posts/reunion-noviembre-2023/</guid><pubDate>Mon, 06 Nov 2023 14:25:14 GMT</pubDate></item></channel></rss>
+&lt;p&gt;2: &lt;a class="reference external" href="https://www.python-vigo.es/aindustriosa_entrada.png"&gt;A Industriosa&lt;/a&gt;&lt;/p&gt;</description><category>desarrollo</category><category>python</category><category>retrospectiva</category><category>vigo</category><guid>https://www.python-vigo.es/posts/reunion-diciembre-2023/</guid><pubDate>Mon, 04 Dec 2023 14:25:14 GMT</pubDate></item></channel></rss>
