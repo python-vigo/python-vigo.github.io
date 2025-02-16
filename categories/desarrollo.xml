@@ -1,5 +1,66 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Python Vigo (Publicaciones sobre desarrollo)</title><link>https://www.python-vigo.es/</link><description></description><atom:link href="https://www.python-vigo.es/categories/desarrollo.xml" rel="self" type="application/rss+xml"></atom:link><language>es</language><copyright>Contents © 2025 &lt;a href="mailto:luisgf@luisgf.es"&gt;Python Vigo&lt;/a&gt; </copyright><lastBuildDate>Sun, 12 Jan 2025 16:31:28 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Reunión enero 2025</title><link>https://www.python-vigo.es/posts/reunion-enero-2025/</link><dc:creator>Python Vigo</dc:creator><description>&lt;p&gt;¡Hola a todas y todos!&lt;/p&gt;
+<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Python Vigo (Publicaciones sobre desarrollo)</title><link>https://www.python-vigo.es/</link><description></description><atom:link href="https://www.python-vigo.es/categories/desarrollo.xml" rel="self" type="application/rss+xml"></atom:link><language>es</language><copyright>Contents © 2025 &lt;a href="mailto:luisgf@luisgf.es"&gt;Python Vigo&lt;/a&gt; </copyright><lastBuildDate>Sun, 16 Feb 2025 17:28:13 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Reunión febrero 2025</title><link>https://www.python-vigo.es/posts/reunion-febrero-2025/</link><dc:creator>Python Vigo</dc:creator><description>&lt;p&gt;¡Hola a todas y todos!&lt;/p&gt;
+&lt;p&gt;¿Has notado que a veces ChatGPT se inventa respuestas? Ven a descubrir cómo evitarlo este &lt;strong&gt;jueves 20 de febrero a las 20:00&lt;/strong&gt; en &lt;strong&gt;A Industriosa&lt;/strong&gt;.&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;&lt;dl class="simple"&gt;
+&lt;dt&gt;&lt;strong&gt;Charla [20.00]&lt;/strong&gt;&lt;/dt&gt;
+&lt;dd&gt;&lt;ul&gt;
+&lt;li&gt;&lt;dl class="simple"&gt;
+&lt;dt&gt;&lt;em&gt;Cómo evitar alucinaciones en ChatGPT con la arquitectura RAG&lt;/em&gt; por &lt;a class="reference external" href="https://www.linkedin.com/in/maryna-bogdan"&gt;Maryna Bogdan&lt;/a&gt;&lt;/dt&gt;
+&lt;dd&gt;&lt;p&gt;En esta charla veremos cómo reducir la generación de información incorrecta en modelos de lenguaje de gran escala
+como ChatGPT, utilizando la arquitectura RAG (Retrieval-Augmented Generation).
+Analizaremos cómo integrar LLMs con bases de conocimiento externas para mejorar la precisión y
+confiabilidad de las respuestas generadas.&lt;/p&gt;
+&lt;/dd&gt;
+&lt;/dl&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/dd&gt;
+&lt;/dl&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;dl class="simple"&gt;
+&lt;dt&gt;&lt;strong&gt;Lightning Talks [21:00]&lt;/strong&gt;&lt;/dt&gt;
+&lt;dd&gt;&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Quién lo desee tiene la oportunidad de contarnos algo en 5 minutos cronometrados.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/dd&gt;
+&lt;/dl&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;dl class="simple"&gt;
+&lt;dt&gt;&lt;strong&gt;PyBirras [21:10]&lt;/strong&gt;&lt;/dt&gt;
+&lt;dd&gt;&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Nos acercaremos a tomar algo a un local cercano.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/dd&gt;
+&lt;/dl&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;¡Te esperamos!&lt;/p&gt;
+&lt;p&gt;Como siempre tendrá lugar en la &lt;a class="reference external" href="https://aindustriosa.org/"&gt;Asociación Tecnolóxica A Industriosa&lt;/a&gt;.&lt;/p&gt;
+&lt;pre class="literal-block"&gt;Rúa Gregorio Espino 38, entresuelo 3
+36205 Vigo&lt;/pre&gt;
+&lt;p&gt;Todavía no hay cartel por lo que para facilitar el acceso, os dejamos aquí la
+&lt;a class="reference external" href="https://maps.app.goo.gl/mY8dqwVfkKB6RMmYA"&gt;ubicación&lt;/a&gt; y una pequeña captura para
+facilitar el acceso a &lt;a class="reference external" href="https://www.python-vigo.es/aindustriosa_entrada.png"&gt;A Industriosa&lt;/a&gt;. Igualmente podéis preguntar por Telegram.&lt;/p&gt;
+&lt;p&gt;Nos vemos este &lt;strong&gt;jueves día 20 de febrero, a las 20.00&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;Gracias a todas y todos!&lt;/p&gt;
+&lt;p&gt;Un saludo!&lt;/p&gt;
+&lt;p&gt;[1] Vías de comunicación&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;&lt;p&gt;&lt;a class="reference external" href="https://lists.es.python.org/listinfo/vigo/"&gt;Lista de correo (única vía 100% oficial)&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a class="reference external" href="https://bsky.app/profile/pythonvigo.bsky.social"&gt;Bluesky&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a class="reference external" href="https://t.me/+B9bb6mt07Uyp5Pj7"&gt;Grupo de Telegram&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;dl class="simple"&gt;
+&lt;dt&gt;Slack (canal #pythonvigo):&lt;/dt&gt;
+&lt;dd&gt;&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;a class="reference external" href="https://join.slack.com/t/vigotechalliance/shared_invite/zt-1x53dxbj8-jNrMXnt0Q9HVDIccAsM1Qg"&gt;Obtener invitación&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a class="reference external" href="https://vigotechalliance.slack.com/"&gt;Acceso al grupo&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/dd&gt;
+&lt;/dl&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;2: &lt;a class="reference external" href="https://www.python-vigo.es/aindustriosa_entrada.png"&gt;A Industriosa&lt;/a&gt;&lt;/p&gt;</description><category>desarrollo</category><category>pycones</category><category>python</category><category>vigo</category><guid>https://www.python-vigo.es/posts/reunion-febrero-2025/</guid><pubDate>Sat, 15 Feb 2025 19:20:21 GMT</pubDate></item><item><title>Reunión enero 2025</title><link>https://www.python-vigo.es/posts/reunion-enero-2025/</link><dc:creator>Python Vigo</dc:creator><description>&lt;p&gt;¡Hola a todas y todos!&lt;/p&gt;
 &lt;p&gt;Esperamos que hayáis disfrutado de las fiestas. Ya está aquí el tercer jueves del mes, y eso solo puede significar una cosa:
 charla y PyBirras!. Nos vemos &lt;strong&gt;el jueves 16 de enero a las 20:00&lt;/strong&gt; en la A Industriosa.&lt;/p&gt;
 &lt;ul class="simple"&gt;
@@ -545,64 +606,4 @@ facilitar el acceso a &lt;a class="reference external" href="https://www.python-
 &lt;/dl&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;2: &lt;a class="reference external" href="https://www.python-vigo.es/aindustriosa_entrada.png"&gt;A Industriosa&lt;/a&gt;&lt;/p&gt;</description><category>desarrollo</category><category>pycones</category><category>python</category><category>vigo</category><guid>https://www.python-vigo.es/posts/reunion-marzon-2024/</guid><pubDate>Fri, 15 Mar 2024 17:55:30 GMT</pubDate></item><item><title>Reunión febrero 2024</title><link>https://www.python-vigo.es/posts/reunion-febrero-2024/</link><dc:creator>Python Vigo</dc:creator><description>&lt;p&gt;¡Hola a todas y todos!&lt;/p&gt;
-&lt;p&gt;Volvemos a la carga este próximo jueves con nueva reunión del grupo, la cual tendrá lugar en el mismo sitio que la anterior,
-en la &lt;a class="reference external" href="https://aindustriosa.org/"&gt;Asociación Tecnolóxica A Industriosa&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;La dirección sería:&lt;/p&gt;
-&lt;pre class="literal-block"&gt;Rúa Gregorio Espino 38, entresuelo 3
-36205 Vigo&lt;/pre&gt;
-&lt;p&gt;Todavía no hay cartel por lo que  para facilitar el acceso, os dejamos aquí la
-&lt;a class="reference external" href="https://maps.app.goo.gl/mY8dqwVfkKB6RMmYA"&gt;ubicación&lt;/a&gt; y una pequeña captura para
-facilitar el acceso a &lt;a class="reference external" href="https://www.python-vigo.es/aindustriosa_entrada.png"&gt;A Industriosa&lt;/a&gt;. Igualmente podéis preguntar por Telegram.&lt;/p&gt;
-&lt;ul class="simple"&gt;
-&lt;li&gt;&lt;dl class="simple"&gt;
-&lt;dt&gt;&lt;strong&gt;Charla [20.00]&lt;/strong&gt;&lt;/dt&gt;
-&lt;dd&gt;&lt;ul&gt;
-&lt;li&gt;&lt;dl class="simple"&gt;
-&lt;dt&gt;&lt;em&gt;Un ELT con stack python para resultados electorales&lt;/em&gt; &lt;strong&gt;Fran Puga&lt;/strong&gt;&lt;/dt&gt;
-&lt;dd&gt;&lt;p&gt;Empezaremos viendo el problema del código a medida para construir una herramienta de importación/trasformación de datos (ELT),
-para luego introducir herramientas como Dagster y DBT. Como tema de ejemplo usaremos los datos oficiales de
-resultados electorales de España.&lt;/p&gt;
-&lt;/dd&gt;
-&lt;/dl&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/dd&gt;
-&lt;/dl&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;dl class="simple"&gt;
-&lt;dt&gt;&lt;strong&gt;PyConES 2024 - actualización [21:00]&lt;/strong&gt;&lt;/dt&gt;
-&lt;dd&gt;&lt;p&gt;Comentaremos todo lo referente a los pasos iniciales de la organización
-de la PyConES 2024, hablaremos de los grupos de trabajo y los siguientes pasos.&lt;/p&gt;
-&lt;/dd&gt;
-&lt;/dl&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;dl class="simple"&gt;
-&lt;dt&gt;&lt;strong&gt;Lightning Talks [21:15]&lt;/strong&gt;&lt;/dt&gt;
-&lt;dd&gt;&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;Quién lo desee tiene la oportunidad de contarnos algo en 5 minutos cronometrados&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/dd&gt;
-&lt;/dl&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Al terminar como es habitual, nos iremos a tomar algo a alguna cafetería cercana.&lt;/p&gt;
-&lt;p&gt;Nos vemos este &lt;strong&gt;jueves día 15 de febrero, a las 20.00&lt;/strong&gt;.&lt;/p&gt;
-&lt;p&gt;Gracias a todas y todos!&lt;/p&gt;
-&lt;p&gt;Un saludo!&lt;/p&gt;
-&lt;p&gt;[1] Vías de comunicación&lt;/p&gt;
-&lt;ul class="simple"&gt;
-&lt;li&gt;&lt;p&gt;&lt;a class="reference external" href="https://lists.es.python.org/listinfo/vigo/"&gt;Lista de correo (única vía 100% oficial)&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;&lt;a class="reference external" href="https://twitter.com/python_vigo/"&gt;Twitter&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;&lt;a class="reference external" href="https://t.me/+B9bb6mt07Uyp5Pj7"&gt;Grupo de Telegram&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;dl class="simple"&gt;
-&lt;dt&gt;Slack (canal #pythonvigo):&lt;/dt&gt;
-&lt;dd&gt;&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;&lt;a class="reference external" href="https://join.slack.com/t/vigotechalliance/shared_invite/zt-1x53dxbj8-jNrMXnt0Q9HVDIccAsM1Qg"&gt;Obtener invitación&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;&lt;a class="reference external" href="https://vigotechalliance.slack.com/"&gt;Acceso al grupo&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/dd&gt;
-&lt;/dl&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;2: &lt;a class="reference external" href="https://www.python-vigo.es/aindustriosa_entrada.png"&gt;A Industriosa&lt;/a&gt;&lt;/p&gt;</description><category>desarrollo</category><category>python</category><category>retrospectiva</category><category>vigo</category><guid>https://www.python-vigo.es/posts/reunion-febrero-2024/</guid><pubDate>Sat, 10 Feb 2024 14:25:14 GMT</pubDate></item></channel></rss>
+&lt;p&gt;2: &lt;a class="reference external" href="https://www.python-vigo.es/aindustriosa_entrada.png"&gt;A Industriosa&lt;/a&gt;&lt;/p&gt;</description><category>desarrollo</category><category>pycones</category><category>python</category><category>vigo</category><guid>https://www.python-vigo.es/posts/reunion-marzon-2024/</guid><pubDate>Fri, 15 Mar 2024 17:55:30 GMT</pubDate></item></channel></rss>
