@@ -48,5 +48,5 @@ def generate_events_file():
 
 
 # Call custom deployment methods
-generate_events_file()
+# generate_events_file()
 
