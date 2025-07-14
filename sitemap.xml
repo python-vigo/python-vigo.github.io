@@ -55,7 +55,7 @@
  </url>
  <url>
   <loc>https://www.python-vigo.es/archive.html</loc>
-  <lastmod>2025-06-16T19:36:00Z</lastmod>
+  <lastmod>2025-07-14T22:17:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.python-vigo.es/authors/</loc>
@@ -75,7 +75,7 @@
  </url>
  <url>
   <loc>https://www.python-vigo.es/categories/</loc>
-  <lastmod>2024-11-14T00:03:00Z</lastmod>
+  <lastmod>2025-07-14T22:17:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.python-vigo.es/categories/desarrollo/</loc>
@@ -104,6 +104,10 @@
  <url>
   <loc>https://www.python-vigo.es/categories/mailman/</loc>
   <lastmod>2024-11-14T00:03:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://www.python-vigo.es/categories/pausa/</loc>
+  <lastmod>2025-07-14T22:17:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.python-vigo.es/categories/pyama/</loc>
@@ -136,6 +140,10 @@
  <url>
   <loc>https://www.python-vigo.es/categories/twitter/</loc>
   <lastmod>2024-11-14T00:03:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://www.python-vigo.es/categories/verano/</loc>
+  <lastmod>2025-07-14T22:17:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.python-vigo.es/categories/vigo/</loc>
@@ -175,7 +183,7 @@
  </url>
  <url>
   <loc>https://www.python-vigo.es/index-9.html</loc>
-  <lastmod>2025-06-16T19:36:00Z</lastmod>
+  <lastmod>2025-07-14T22:17:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.python-vigo.es/posts/acto-apertura-pycones-2024/</loc>
@@ -190,8 +198,16 @@
   <lastmod>2024-11-14T00:03:00Z</lastmod>
  </url>
  <url>
+  <loc>https://www.python-vigo.es/posts/descanso-verano-julio-2025/</loc>
+  <lastmod>2025-07-14T22:19:00Z</lastmod>
+ </url>
+ <url>
   <loc>https://www.python-vigo.es/posts/lista-de-correo/</loc>
   <lastmod>2024-11-14T00:03:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://www.python-vigo.es/posts/paron-veraniego-julio-2025/</loc>
+  <lastmod>2025-07-14T22:17:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.python-vigo.es/posts/pybirras-estamos-de-vuelta/</loc>

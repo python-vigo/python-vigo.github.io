@@ -1,5 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Python Vigo (Publicaciones de Python Vigo)</title><link>https://www.python-vigo.es/</link><description></description><atom:link href="https://www.python-vigo.es/authors/python-vigo.xml" rel="self" type="application/rss+xml"></atom:link><language>es</language><copyright>Contents © 2025 &lt;a href="mailto:luisgf@luisgf.es"&gt;Python Vigo&lt;/a&gt; </copyright><lastBuildDate>Mon, 16 Jun 2025 19:38:01 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Reunión junio 2025</title><link>https://www.python-vigo.es/posts/reunion-junio-2025/</link><dc:creator>Python Vigo</dc:creator><description>&lt;p&gt;¿Cansados de WordPress y buscando alternativas? Este mes veremos cómo migrar un blog
+<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Python Vigo (Publicaciones de Python Vigo)</title><link>https://www.python-vigo.es/</link><description></description><atom:link href="https://www.python-vigo.es/authors/python-vigo.xml" rel="self" type="application/rss+xml"></atom:link><language>es</language><copyright>Contents © 2025 &lt;a href="mailto:luisgf@luisgf.es"&gt;Python Vigo&lt;/a&gt; </copyright><lastBuildDate>Mon, 14 Jul 2025 22:30:18 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Descanso de verano - Julio 2025</title><link>https://www.python-vigo.es/posts/descanso-verano-julio-2025/</link><dc:creator>Python Vigo</dc:creator><description>&lt;p&gt;¡Hola a todos!&lt;/p&gt;
+&lt;p&gt;Este mes de julio nos tomamos un pequeño &lt;strong&gt;descanso veraniego&lt;/strong&gt; y no habrá reunión.&lt;/p&gt;
+&lt;p&gt;Volveremos en agosto con nuevas charlas y PyBirras.&lt;/p&gt;
+&lt;p&gt;¡Que tengáis un gran verano!&lt;/p&gt;
+&lt;p&gt;[1] Vías de comunicación&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;&lt;p&gt;&lt;a class="reference external" href="https://lists.es.python.org/listinfo/vigo/"&gt;Lista de correo (única vía 100% oficial)&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a class="reference external" href="https://bsky.app/profile/pythonvigo.bsky.social"&gt;Bluesky&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a class="reference external" href="https://t.me/+B9bb6mt07Uyp5Pj7"&gt;Grupo de Telegram&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;dl class="simple"&gt;
+&lt;dt&gt;Slack (canal #pythonvigo):&lt;/dt&gt;
+&lt;dd&gt;&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;a class="reference external" href="https://join.slack.com/t/vigotechalliance/shared_invite/zt-1x53dxbj8-jNrMXnt0Q9HVDIccAsM1Qg"&gt;Obtener invitación&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a class="reference external" href="https://vigotechalliance.slack.com/"&gt;Acceso al grupo&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/dd&gt;
+&lt;/dl&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</description><category>python</category><category>vigo</category><guid>https://www.python-vigo.es/posts/descanso-verano-julio-2025/</guid><pubDate>Mon, 14 Jul 2025 18:00:00 GMT</pubDate></item><item><title>Reunión junio 2025</title><link>https://www.python-vigo.es/posts/reunion-junio-2025/</link><dc:creator>Python Vigo</dc:creator><description>&lt;p&gt;¿Cansados de WordPress y buscando alternativas? Este mes veremos cómo migrar un blog
 a Material for MkDocs y qué ventajas nos ofrece.&lt;/p&gt;
 &lt;p&gt;Así que nos vemos este &lt;strong&gt;jueves 19 de junio a las 20:00 en A Industriosa&lt;/strong&gt;.&lt;/p&gt;
 &lt;ul class="simple"&gt;
@@ -550,82 +568,4 @@ facilitar el acceso a &lt;a class="reference external" href="https://www.python-
 &lt;/dl&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;2: &lt;a class="reference external" href="https://www.python-vigo.es/aindustriosa_entrada.png"&gt;A Industriosa&lt;/a&gt;&lt;/p&gt;</description><category>desarrollo</category><category>pycones</category><category>python</category><category>vigo</category><guid>https://www.python-vigo.es/posts/reunion-octubre-2024/</guid><pubDate>Mon, 14 Oct 2024 19:20:21 GMT</pubDate></item><item><title>Acto apertura PyConES 2024</title><link>https://www.python-vigo.es/posts/acto-apertura-pycones-2024/</link><dc:creator>Python Vigo</dc:creator><description>&lt;p&gt;¡Hola!&lt;/p&gt;
-&lt;p&gt;Este &lt;strong&gt;jueves día 26 de septiembre&lt;/strong&gt; tenemos un evento de altura. Se trata del &lt;a class="reference external" href="https://2024.es.pycon.org/"&gt;acto de apertura de la PyConES 2024&lt;/a&gt; que
-tendrá lugar en Vigo los próximos días 4,5 y 6 de octubre.&lt;/p&gt;
-&lt;img alt="Acto de apertura" class="align-center" src="https://www.python-vigo.es/acto_apertura_pycones_mesa_redonda.png" style="width: 800px;"&gt;
-&lt;p&gt;&lt;strong&gt;Agenda&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;dl class="simple"&gt;
-&lt;dt&gt;19:30h Presentación de la PyConES 2024&lt;/dt&gt;
-&lt;dd&gt;&lt;p&gt;¿Qué es? ¿Quién organiza? ¿Por qué Vigo? Charlas y talleres de este año.&lt;/p&gt;
-&lt;/dd&gt;
-&lt;/dl&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;dl&gt;
-&lt;dt&gt;20:00 Mesa redonda&lt;/dt&gt;
-&lt;dd&gt;&lt;p&gt;Trabajadores locales y referentes del sector conversarán sobre el estado actual de los lenguajes de programación, IA y la comunidad tecnológica.&lt;/p&gt;
-&lt;dl class="simple"&gt;
-&lt;dt&gt;Contaremos con la presencia de:&lt;/dt&gt;
-&lt;dd&gt;&lt;ul class="simple"&gt;
-&lt;li&gt;&lt;dl class="simple"&gt;
-&lt;dt&gt;&lt;a class="reference external" href="https://www.linkedin.com/in/franiglesias/"&gt;Fran Iglesias&lt;/a&gt;&lt;/dt&gt;
-&lt;dd&gt;&lt;p&gt;Fran es Staff Software Engineer en Qualifyze, además de organizador del grupo de CraftersVigo y de la &lt;a class="reference external" href="https://pulpocon.es/#home"&gt;PulpoCon&lt;/a&gt; una de las conferencias más importantes de Galicia.
-Además es autor del blog &lt;a class="reference external" href="https://franiglesias.github.io/"&gt;The talking bit&lt;/a&gt;.&lt;/p&gt;
-&lt;/dd&gt;
-&lt;/dl&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;dl class="simple"&gt;
-&lt;dt&gt;&lt;a class="reference external" href="https://www.linkedin.com/in/ajojea/"&gt;Antonio Ojea&lt;/a&gt;&lt;/dt&gt;
-&lt;dd&gt;&lt;p&gt;Es ingeniero de software en Google y uno de los principales contribuidores de Kubernetes, anteriormente estuvo en empresas tan importantes como Midokura, Suse o Red Hat.&lt;/p&gt;
-&lt;/dd&gt;
-&lt;/dl&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;dl class="simple"&gt;
-&lt;dt&gt;&lt;a class="reference external" href="https://www.linkedin.com/in/carmengarcianogueiras/"&gt;Carmen García&lt;/a&gt;&lt;/dt&gt;
-&lt;dd&gt;&lt;p&gt;AI Software Engineer en Gradiant.&lt;/p&gt;
-&lt;/dd&gt;
-&lt;/dl&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;dl class="simple"&gt;
-&lt;dt&gt;&lt;a class="reference external" href="https://www.jcea.es/"&gt;Jesús Cea&lt;/a&gt;&lt;/dt&gt;
-&lt;dd&gt;&lt;p&gt;Core developer de Python desde 2008. Cofundador de Tamiza  Digital, una solución soberana de filtrado DNS y seguridad. Y autor en del blog &lt;a class="reference external" href="https://blog.jcea.es/"&gt;https://blog.jcea.es/&lt;/a&gt;.&lt;/p&gt;
-&lt;/dd&gt;
-&lt;/dl&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;dl class="simple"&gt;
-&lt;dt&gt;&lt;a class="reference external" href="https://acalustra.com/"&gt;Eloy Coto&lt;/a&gt;&lt;/dt&gt;
-&lt;dd&gt;&lt;p&gt;Principal Software Engineer en &lt;a class="reference external" href="https://www.redhat.com/"&gt;Red Hat&lt;/a&gt; y contribuidor de &lt;a class="reference external" href="https://cilium.io/"&gt;Cilium&lt;/a&gt;.&lt;/p&gt;
-&lt;/dd&gt;
-&lt;/dl&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/dd&gt;
-&lt;/dl&gt;
-&lt;/dd&gt;
-&lt;/dl&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;20:45 Cierre&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Cómo ya sabeis, en 2 semanas será la &lt;a class="reference external" href="https://2024.es.pycon.org/"&gt;PyConES2024&lt;/a&gt;, y queremos que os unáis a nosotros en este evento de apertura antesala de la conferencia.&lt;/p&gt;
-&lt;p&gt;En esta ocasión tendrá lugar en la &lt;a class="reference external" href="https://g.co/kgs/rNNQeUR"&gt;Edificio Redeiras&lt;/a&gt; en el Berbés. Muchas gracias a la Universidad de Vigo por cedernos el espacio en esta ocasión.&lt;/p&gt;
-&lt;pre class="literal-block"&gt;Rúa da Ribeira do Berbés, 11
-36202 Vigo&lt;/pre&gt;
-&lt;p&gt;Nos vemos este &lt;strong&gt;jueves día 26 de septiembre, a las 19.30&lt;/strong&gt;.&lt;/p&gt;
-&lt;p&gt;Gracias a todas y todos!&lt;/p&gt;
-&lt;p&gt;Un saludo!&lt;/p&gt;
-&lt;p&gt;[1] Vías de comunicación&lt;/p&gt;
-&lt;ul class="simple"&gt;
-&lt;li&gt;&lt;p&gt;&lt;a class="reference external" href="https://lists.es.python.org/listinfo/vigo/"&gt;Lista de correo (única vía 100% oficial)&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;&lt;a class="reference external" href="https://twitter.com/python_vigo/"&gt;Twitter&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;&lt;a class="reference external" href="https://t.me/+B9bb6mt07Uyp5Pj7"&gt;Grupo de Telegram&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;dl class="simple"&gt;
-&lt;dt&gt;Slack (canal #pythonvigo):&lt;/dt&gt;
-&lt;dd&gt;&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;&lt;a class="reference external" href="https://join.slack.com/t/vigotechalliance/shared_invite/zt-1x53dxbj8-jNrMXnt0Q9HVDIccAsM1Qg"&gt;Obtener invitación&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;&lt;a class="reference external" href="https://vigotechalliance.slack.com/"&gt;Acceso al grupo&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/dd&gt;
-&lt;/dl&gt;
-&lt;/li&gt;
-&lt;/ul&gt;</description><category>desarrollo</category><category>pycones</category><category>python</category><category>vigo</category><guid>https://www.python-vigo.es/posts/acto-apertura-pycones-2024/</guid><pubDate>Mon, 23 Sep 2024 16:25:25 GMT</pubDate></item></channel></rss>
+&lt;p&gt;2: &lt;a class="reference external" href="https://www.python-vigo.es/aindustriosa_entrada.png"&gt;A Industriosa&lt;/a&gt;&lt;/p&gt;</description><category>desarrollo</category><category>pycones</category><category>python</category><category>vigo</category><guid>https://www.python-vigo.es/posts/reunion-octubre-2024/</guid><pubDate>Mon, 14 Oct 2024 19:20:21 GMT</pubDate></item></channel></rss>
