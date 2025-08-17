@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Python Vigo (Publicaciones sobre TUI)</title><link>https://www.python-vigo.es/</link><description></description><atom:link href="https://www.python-vigo.es/categories/tui.xml" rel="self" type="application/rss+xml"></atom:link><language>es</language><copyright>Contents © 2025 &lt;a href="mailto:luisgf@luisgf.es"&gt;Python Vigo&lt;/a&gt; </copyright><lastBuildDate>Sun, 17 Aug 2025 23:50:26 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Reunión agosto 2025</title><link>https://www.python-vigo.es/posts/reunion-agosto-2025/</link><dc:creator>Python Vigo</dc:creator><description>&lt;p&gt;¡Ya estamos de vuelta! Este mes retomamos la actividad con una charla sobre como mejorar nuestra productividad con TUIs.&lt;/p&gt;
+&lt;p&gt;Así que nos vemos este &lt;strong&gt;jueves 21 de agosto a las 20:00 en A Industriosa&lt;/strong&gt;.&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;&lt;dl class="simple"&gt;
+&lt;dt&gt;&lt;strong&gt;Charla [20.00]&lt;/strong&gt;&lt;/dt&gt;
+&lt;dd&gt;&lt;ul&gt;
+&lt;li&gt;&lt;dl class="simple"&gt;
+&lt;dt&gt;&lt;em&gt;Programando TUIs para mejorar tu productividad.&lt;/em&gt; por Jorge Muñoz&lt;/dt&gt;
+&lt;dd&gt;&lt;p&gt;Donde veremos el código de dos herramientas para terminal "feitas na casa" para resolver problemas del día a día en el trabajo.&lt;/p&gt;
+&lt;/dd&gt;
+&lt;/dl&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/dd&gt;
+&lt;/dl&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;dl class="simple"&gt;
+&lt;dt&gt;&lt;strong&gt;Lightning Talks [21:00]&lt;/strong&gt;&lt;/dt&gt;
+&lt;dd&gt;&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Quién lo desee tiene la oportunidad de contarnos algo en 5 minutos cronometrados.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/dd&gt;
+&lt;/dl&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;dl class="simple"&gt;
+&lt;dt&gt;&lt;strong&gt;PyBirras [21:10]&lt;/strong&gt;&lt;/dt&gt;
+&lt;dd&gt;&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Nos acercaremos a tomar algo a un local cercano.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/dd&gt;
+&lt;/dl&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;¡Te esperamos!&lt;/p&gt;
+&lt;p&gt;Como siempre tendrá lugar en la &lt;a class="reference external" href="https://aindustriosa.org/"&gt;Asociación Tecnológica A Industriosa&lt;/a&gt;.&lt;/p&gt;
+&lt;pre class="literal-block"&gt;Calle Gregorio Espino 38, entresuelo 3
+36205 Vigo&lt;/pre&gt;
+&lt;p&gt;Todavía no hay cartel por lo que para facilitar el acceso, os dejamos aquí la
+&lt;a class="reference external" href="https://maps.app.goo.gl/mY8dqwVfkKB6RMmYA"&gt;ubicación&lt;/a&gt; y una pequeña captura para
+facilitar el acceso a &lt;a class="reference external" href="https://www.python-vigo.es/aindustriosa_entrada.png"&gt;A Industriosa&lt;/a&gt;. Igualmente podéis preguntar por Telegram.&lt;/p&gt;
+&lt;p&gt;¡No te lo pierdas!&lt;/p&gt;
+&lt;p&gt;Gracias a todas y todos!&lt;/p&gt;
+&lt;p&gt;Un saludo!&lt;/p&gt;
+&lt;p&gt;[1] Vías de comunicación&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;&lt;p&gt;&lt;a class="reference external" href="https://lists.es.python.org/listinfo/vigo/"&gt;Lista de correo (única vía 100% oficial)&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a class="reference external" href="https://bsky.app/profile/pythonvigo.bsky.social"&gt;Bluesky&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a class="reference external" href="https://t.me/+B9bb6mt07Uyp5Pj7"&gt;Grupo de Telegram&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;dl class="simple"&gt;
+&lt;dt&gt;Slack (canal #pythonvigo):&lt;/dt&gt;
+&lt;dd&gt;&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;a class="reference external" href="https://join.slack.com/t/vigotechalliance/shared_invite/zt-1x53dxbj8-jNrMXnt0Q9HVDIccAsM1Qg"&gt;Obtener invitación&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a class="reference external" href="https://vigotechalliance.slack.com/"&gt;Acceso al grupo&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/dd&gt;
+&lt;/dl&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;2: &lt;a class="reference external" href="https://www.python-vigo.es/aindustriosa_entrada.png"&gt;A Industriosa&lt;/a&gt;&lt;/p&gt;</description><category>desarrollo</category><category>python</category><category>TUI</category><category>vigo</category><guid>https://www.python-vigo.es/posts/reunion-agosto-2025/</guid><pubDate>Sun, 17 Aug 2025 18:00:00 GMT</pubDate></item></channel></rss>

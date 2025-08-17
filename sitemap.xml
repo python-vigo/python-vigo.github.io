@@ -55,7 +55,7 @@
  </url>
  <url>
   <loc>https://www.python-vigo.es/archive.html</loc>
-  <lastmod>2025-07-14T22:17:00Z</lastmod>
+  <lastmod>2025-08-17T23:50:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.python-vigo.es/authors/</loc>
@@ -75,7 +75,7 @@
  </url>
  <url>
   <loc>https://www.python-vigo.es/categories/</loc>
-  <lastmod>2025-07-14T22:17:00Z</lastmod>
+  <lastmod>2025-08-17T23:50:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.python-vigo.es/categories/desarrollo/</loc>
@@ -106,10 +106,6 @@
   <lastmod>2024-11-14T00:03:00Z</lastmod>
  </url>
  <url>
-  <loc>https://www.python-vigo.es/categories/pausa/</loc>
-  <lastmod>2025-07-14T22:17:00Z</lastmod>
- </url>
- <url>
   <loc>https://www.python-vigo.es/categories/pyama/</loc>
   <lastmod>2024-11-14T00:03:00Z</lastmod>
  </url>
@@ -138,12 +134,12 @@
   <lastmod>2024-11-14T00:03:00Z</lastmod>
  </url>
  <url>
-  <loc>https://www.python-vigo.es/categories/twitter/</loc>
-  <lastmod>2024-11-14T00:03:00Z</lastmod>
+  <loc>https://www.python-vigo.es/categories/tui/</loc>
+  <lastmod>2025-08-17T23:50:00Z</lastmod>
  </url>
  <url>
-  <loc>https://www.python-vigo.es/categories/verano/</loc>
-  <lastmod>2025-07-14T22:17:00Z</lastmod>
+  <loc>https://www.python-vigo.es/categories/twitter/</loc>
+  <lastmod>2024-11-14T00:03:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.python-vigo.es/categories/vigo/</loc>
@@ -183,7 +179,7 @@
  </url>
  <url>
   <loc>https://www.python-vigo.es/index-9.html</loc>
-  <lastmod>2025-07-14T22:17:00Z</lastmod>
+  <lastmod>2025-08-17T23:50:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.python-vigo.es/posts/acto-apertura-pycones-2024/</loc>
@@ -204,10 +200,6 @@
  <url>
   <loc>https://www.python-vigo.es/posts/lista-de-correo/</loc>
   <lastmod>2024-11-14T00:03:00Z</lastmod>
- </url>
- <url>
-  <loc>https://www.python-vigo.es/posts/paron-veraniego-julio-2025/</loc>
-  <lastmod>2025-07-14T22:17:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.python-vigo.es/posts/pybirras-estamos-de-vuelta/</loc>
@@ -256,6 +248,10 @@
  <url>
   <loc>https://www.python-vigo.es/posts/reunion-abril-2025/</loc>
   <lastmod>2025-04-13T23:50:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://www.python-vigo.es/posts/reunion-agosto-2025/</loc>
+  <lastmod>2025-08-17T23:50:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.python-vigo.es/posts/reunion-de-julio-2020/</loc>
