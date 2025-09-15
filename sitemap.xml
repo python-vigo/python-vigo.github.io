@@ -55,7 +55,7 @@
  </url>
  <url>
   <loc>https://www.python-vigo.es/archive.html</loc>
-  <lastmod>2025-08-17T23:50:00Z</lastmod>
+  <lastmod>2025-09-15T17:24:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.python-vigo.es/authors/</loc>
@@ -75,7 +75,7 @@
  </url>
  <url>
   <loc>https://www.python-vigo.es/categories/</loc>
-  <lastmod>2025-08-17T23:50:00Z</lastmod>
+  <lastmod>2025-09-15T17:24:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.python-vigo.es/categories/desarrollo/</loc>
@@ -94,6 +94,10 @@
   <lastmod>2024-11-14T00:03:00Z</lastmod>
  </url>
  <url>
+  <loc>https://www.python-vigo.es/categories/herramientas/</loc>
+  <lastmod>2025-09-15T17:24:00Z</lastmod>
+ </url>
+ <url>
   <loc>https://www.python-vigo.es/categories/jupyter/</loc>
   <lastmod>2024-11-14T00:03:00Z</lastmod>
  </url>
@@ -104,6 +108,10 @@
  <url>
   <loc>https://www.python-vigo.es/categories/mailman/</loc>
   <lastmod>2024-11-14T00:03:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://www.python-vigo.es/categories/productividad/</loc>
+  <lastmod>2025-09-15T17:24:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.python-vigo.es/categories/pyama/</loc>
@@ -179,7 +187,7 @@
  </url>
  <url>
   <loc>https://www.python-vigo.es/index-9.html</loc>
-  <lastmod>2025-08-17T23:50:00Z</lastmod>
+  <lastmod>2025-09-15T17:24:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.python-vigo.es/posts/acto-apertura-pycones-2024/</loc>
@@ -556,6 +564,10 @@
  <url>
   <loc>https://www.python-vigo.es/posts/reunion-septiembre-2024/</loc>
   <lastmod>2024-11-14T00:03:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://www.python-vigo.es/posts/reunion-septiembre-2025/</loc>
+  <lastmod>2025-09-15T17:24:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.python-vigo.es/posts/suspension-reunion-de-marzo-2020/</loc>
