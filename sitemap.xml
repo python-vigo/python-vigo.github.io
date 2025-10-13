@@ -55,7 +55,7 @@
  </url>
  <url>
   <loc>https://www.python-vigo.es/archive.html</loc>
-  <lastmod>2025-09-15T17:24:00Z</lastmod>
+  <lastmod>2025-10-13T19:44:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.python-vigo.es/authors/</loc>
@@ -75,7 +75,11 @@
  </url>
  <url>
   <loc>https://www.python-vigo.es/categories/</loc>
-  <lastmod>2025-09-15T17:24:00Z</lastmod>
+  <lastmod>2025-10-13T19:44:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://www.python-vigo.es/categories/comunidad/</loc>
+  <lastmod>2025-10-13T19:44:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.python-vigo.es/categories/desarrollo/</loc>
@@ -110,6 +114,10 @@
   <lastmod>2024-11-14T00:03:00Z</lastmod>
  </url>
  <url>
+  <loc>https://www.python-vigo.es/categories/novedades/</loc>
+  <lastmod>2025-10-13T19:44:00Z</lastmod>
+ </url>
+ <url>
   <loc>https://www.python-vigo.es/categories/productividad/</loc>
   <lastmod>2025-09-15T17:24:00Z</lastmod>
  </url>
@@ -130,8 +138,16 @@
   <lastmod>2024-11-14T00:03:00Z</lastmod>
  </url>
  <url>
+  <loc>https://www.python-vigo.es/categories/python314/</loc>
+  <lastmod>2025-10-13T19:44:00Z</lastmod>
+ </url>
+ <url>
   <loc>https://www.python-vigo.es/categories/quantum/</loc>
   <lastmod>2024-11-14T00:03:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://www.python-vigo.es/categories/release/</loc>
+  <lastmod>2025-10-13T19:44:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.python-vigo.es/categories/retrospectiva/</loc>
@@ -187,7 +203,7 @@
  </url>
  <url>
   <loc>https://www.python-vigo.es/index-9.html</loc>
-  <lastmod>2025-09-15T17:24:00Z</lastmod>
+  <lastmod>2025-10-13T19:44:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.python-vigo.es/posts/acto-apertura-pycones-2024/</loc>
@@ -552,6 +568,10 @@
  <url>
   <loc>https://www.python-vigo.es/posts/reunion-octubre-2024/</loc>
   <lastmod>2024-11-14T00:03:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://www.python-vigo.es/posts/reunion-octubre-2025/</loc>
+  <lastmod>2025-10-13T19:44:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.python-vigo.es/posts/reunion-septiembre-2022/</loc>
