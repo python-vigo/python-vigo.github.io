@@ -14,7 +14,7 @@ Hace unos días se lanzó Python 3.14. Si te preguntas qué novedades trae o qui
 Nos vemos este **jueves 16 de octubre** a las 20:00 en A Industriosa.
 
 * **Charla [20:00]**
-    *  *Novedades de Python 3.14* por (`Miguel González <https://twitter.com/migonzalvar>`__)
+    *  *Novedades de Python 3.14* por (`Miguel González <https://github.com/migonzalvar>`__)
         Nos va a enseñar las novedades de esta nueva versión.
 
 * **Lightning Talks [21:00]**
