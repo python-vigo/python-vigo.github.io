@@ -55,7 +55,7 @@
  </url>
  <url>
   <loc>https://www.python-vigo.es/archive.html</loc>
-  <lastmod>2025-10-13T19:44:00Z</lastmod>
+  <lastmod>2025-11-17T00:15:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.python-vigo.es/authors/</loc>
@@ -75,7 +75,7 @@
  </url>
  <url>
   <loc>https://www.python-vigo.es/categories/</loc>
-  <lastmod>2025-10-13T19:44:00Z</lastmod>
+  <lastmod>2025-11-17T00:15:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.python-vigo.es/categories/comunidad/</loc>
@@ -154,6 +154,10 @@
   <lastmod>2024-11-14T00:03:00Z</lastmod>
  </url>
  <url>
+  <loc>https://www.python-vigo.es/categories/sevilla/</loc>
+  <lastmod>2025-11-17T00:15:00Z</lastmod>
+ </url>
+ <url>
   <loc>https://www.python-vigo.es/categories/shell/</loc>
   <lastmod>2024-11-14T00:03:00Z</lastmod>
  </url>
@@ -203,7 +207,7 @@
  </url>
  <url>
   <loc>https://www.python-vigo.es/index-9.html</loc>
-  <lastmod>2025-10-13T19:44:00Z</lastmod>
+  <lastmod>2025-11-17T00:15:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.python-vigo.es/posts/acto-apertura-pycones-2024/</loc>
@@ -556,6 +560,10 @@
  <url>
   <loc>https://www.python-vigo.es/posts/reunion-noviembre-2024/</loc>
   <lastmod>2024-11-14T00:03:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://www.python-vigo.es/posts/reunion-noviembre-2025/</loc>
+  <lastmod>2025-11-17T00:15:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.python-vigo.es/posts/reunion-octubre-2022/</loc>
