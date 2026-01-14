@@ -7,7 +7,7 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>https://www.python-vigo.es/</loc>
-  <lastmod>2025-04-13T23:50:00Z</lastmod>
+  <lastmod>2026-01-14T19:49:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.python-vigo.es/2015/</loc>
@@ -54,8 +54,12 @@
   <lastmod>2025-01-12T16:31:00Z</lastmod>
  </url>
  <url>
+  <loc>https://www.python-vigo.es/2026/</loc>
+  <lastmod>2026-01-14T19:49:00Z</lastmod>
+ </url>
+ <url>
   <loc>https://www.python-vigo.es/archive.html</loc>
-  <lastmod>2025-12-14T20:13:00Z</lastmod>
+  <lastmod>2026-01-14T19:49:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.python-vigo.es/authors/</loc>
@@ -75,7 +79,11 @@
  </url>
  <url>
   <loc>https://www.python-vigo.es/categories/</loc>
-  <lastmod>2025-12-14T20:13:00Z</lastmod>
+  <lastmod>2026-01-14T19:50:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://www.python-vigo.es/categories/aprendizaje/</loc>
+  <lastmod>2026-01-14T19:49:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.python-vigo.es/categories/comunidad/</loc>
@@ -112,6 +120,14 @@
  <url>
   <loc>https://www.python-vigo.es/categories/herramientas/</loc>
   <lastmod>2025-09-15T17:24:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://www.python-vigo.es/categories/ia/</loc>
+  <lastmod>2026-01-14T19:49:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://www.python-vigo.es/categories/inteligencia-artificial/</loc>
+  <lastmod>2026-01-14T19:49:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.python-vigo.es/categories/jupyter/</loc>
@@ -195,39 +211,39 @@
  </url>
  <url>
   <loc>https://www.python-vigo.es/index-1.html</loc>
-  <lastmod>2025-01-12T16:31:00Z</lastmod>
+  <lastmod>2026-01-14T19:49:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.python-vigo.es/index-2.html</loc>
-  <lastmod>2025-01-12T16:31:00Z</lastmod>
+  <lastmod>2026-01-14T19:49:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.python-vigo.es/index-3.html</loc>
-  <lastmod>2025-01-12T16:31:00Z</lastmod>
+  <lastmod>2026-01-14T19:49:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.python-vigo.es/index-4.html</loc>
-  <lastmod>2025-01-12T16:31:00Z</lastmod>
+  <lastmod>2026-01-14T19:49:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.python-vigo.es/index-5.html</loc>
-  <lastmod>2025-01-12T16:31:00Z</lastmod>
+  <lastmod>2026-01-14T19:49:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.python-vigo.es/index-6.html</loc>
-  <lastmod>2025-01-12T16:31:00Z</lastmod>
+  <lastmod>2026-01-14T19:49:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.python-vigo.es/index-7.html</loc>
-  <lastmod>2025-01-12T16:31:00Z</lastmod>
+  <lastmod>2026-01-14T19:49:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.python-vigo.es/index-8.html</loc>
-  <lastmod>2025-04-13T23:50:00Z</lastmod>
+  <lastmod>2026-01-14T19:49:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.python-vigo.es/index-9.html</loc>
-  <lastmod>2025-12-14T20:13:00Z</lastmod>
+  <lastmod>2026-01-14T19:49:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.python-vigo.es/posts/acto-apertura-pycones-2024/</loc>
@@ -512,6 +528,10 @@
  <url>
   <loc>https://www.python-vigo.es/posts/reunion-enero-2025/</loc>
   <lastmod>2025-01-12T16:31:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://www.python-vigo.es/posts/reunion-enero-2026/</loc>
+  <lastmod>2026-01-14T19:49:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.python-vigo.es/posts/reunion-febrero-2022/</loc>
