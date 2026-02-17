@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Python Vigo (Publicaciones sobre charlas relampago)</title><link>https://www.python-vigo.es/</link><description></description><atom:link href="https://www.python-vigo.es/categories/charlas-relampago.xml" rel="self" type="application/rss+xml"></atom:link><language>es</language><copyright>Contents © 2026 &lt;a href="mailto:luisgf@luisgf.es"&gt;Python Vigo&lt;/a&gt; </copyright><lastBuildDate>Tue, 17 Feb 2026 00:48:52 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Reunión febrero 2026</title><link>https://www.python-vigo.es/posts/reunion-febrero-2026/</link><dc:creator>Python Vigo</dc:creator><description>&lt;p&gt;¡Este &lt;strong&gt;jueves 19 de febrero&lt;/strong&gt; tenemos reunión en A Industriosa a las 20:00!&lt;/p&gt;
+&lt;p&gt;Para la reunión de este mes estamos valorando hacer algo diferente: varias charlas relámpago en lugar de una charla principal.&lt;/p&gt;
+&lt;p&gt;La idea es dar un tiempo, entre &lt;strong&gt;10 y 15 minutos&lt;/strong&gt; por persona, para que podáis compartir algo con más calma.&lt;/p&gt;
+&lt;p&gt;No hace falta que sea algo superpreparado ni ultra técnico. Puede ser, por ejemplo:&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;&lt;p&gt;Un side project&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Algo que estés aprendiendo&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Un problema interesante que resolviste&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Una herramienta que estés probando o que acabes de descubrir&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Podéis apuntaros aquí:
+👉 &lt;a class="reference external" href="https://tally.so/r/rjA1aM"&gt;https://tally.so/r/rjA1aM&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Es simplemente para saber cuántas personas se animan y poder organizar mejor la sesión. Si alguien decide lanzarse el mismo día, también será bienvenido.&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;&lt;dl class="simple"&gt;
+&lt;dt&gt;&lt;strong&gt;Charlas relámpago [20:00]&lt;/strong&gt;&lt;/dt&gt;
+&lt;dd&gt;&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Charlas relámpago de 10 a 15 minutos.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/dd&gt;
+&lt;/dl&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;dl class="simple"&gt;
+&lt;dt&gt;&lt;strong&gt;PyBirras [21:10]&lt;/strong&gt;&lt;/dt&gt;
+&lt;dd&gt;&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Nos acercaremos a tomar algo a un local cercano.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/dd&gt;
+&lt;/dl&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Como siempre tendrá lugar en la &lt;a class="reference external" href="https://aindustriosa.org/"&gt;Asociación Tecnológica A Industriosa&lt;/a&gt;.&lt;/p&gt;
+&lt;pre class="literal-block"&gt;Calle Gregorio Espino 38, entresuelo 3
+36205 Vigo&lt;/pre&gt;
+&lt;p&gt;Si es tu primera vez, aquí tienes la &lt;a class="reference external" href="https://maps.app.goo.gl/mY8dqwVfkKB6RMmYA"&gt;ubicación&lt;/a&gt; y una captura para encontrar fácilmente &lt;a class="reference external" href="https://www.python-vigo.es/aindustriosa_entrada.png"&gt;A Industriosa&lt;/a&gt;. Cualquier duda, pregunta por Telegram.&lt;/p&gt;
+&lt;p&gt;¡No te lo pierdas!&lt;/p&gt;
+&lt;p&gt;Gracias a todas y todos!&lt;/p&gt;
+&lt;p&gt;Un saludo!&lt;/p&gt;
+&lt;p&gt;[1] Vías de comunicación&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;&lt;p&gt;&lt;a class="reference external" href="https://lists.es.python.org/listinfo/vigo/"&gt;Lista de correo (única vía 100% oficial)&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a class="reference external" href="https://bsky.app/profile/pythonvigo.bsky.social"&gt;Bluesky&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a class="reference external" href="https://t.me/+B9bb6mt07Uyp5Pj7"&gt;Grupo de Telegram&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;2: &lt;a class="reference external" href="https://www.python-vigo.es/aindustriosa_entrada.png"&gt;A Industriosa&lt;/a&gt;&lt;/p&gt;</description><category>charlas relampago</category><category>lightning talks</category><category>python</category><category>vigo</category><guid>https://www.python-vigo.es/posts/reunion-febrero-2026/</guid><pubDate>Mon, 16 Feb 2026 18:00:00 GMT</pubDate></item></channel></rss>
