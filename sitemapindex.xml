@@ -15,7 +15,7 @@
  </sitemap>
  <sitemap>
   <loc>https://www.python-vigo.es/authors/python-vigo.xml</loc>
-  <lastmod>2026-02-17T00:48:00Z</lastmod>
+  <lastmod>2026-03-19T21:07:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://www.python-vigo.es/categories/aprendizaje.xml</loc>
@@ -50,6 +50,10 @@
   <lastmod>2024-11-14T00:03:00Z</lastmod>
  </sitemap>
  <sitemap>
+  <loc>https://www.python-vigo.es/categories/explicabilidad.xml</loc>
+  <lastmod>2026-03-19T21:07:00Z</lastmod>
+ </sitemap>
+ <sitemap>
   <loc>https://www.python-vigo.es/categories/feature-engineering.xml</loc>
   <lastmod>2025-12-14T20:45:00Z</lastmod>
  </sitemap>
@@ -63,11 +67,15 @@
  </sitemap>
  <sitemap>
   <loc>https://www.python-vigo.es/categories/ia.xml</loc>
-  <lastmod>2026-01-14T19:59:00Z</lastmod>
+  <lastmod>2026-03-19T21:07:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://www.python-vigo.es/categories/incertidumbre.xml</loc>
+  <lastmod>2026-03-19T21:07:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://www.python-vigo.es/categories/inteligencia-artificial.xml</loc>
-  <lastmod>2026-01-14T19:59:00Z</lastmod>
+  <lastmod>2026-03-19T21:07:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://www.python-vigo.es/categories/jupyter.xml</loc>
@@ -115,7 +123,7 @@
  </sitemap>
  <sitemap>
   <loc>https://www.python-vigo.es/categories/python.xml</loc>
-  <lastmod>2026-02-17T00:48:00Z</lastmod>
+  <lastmod>2026-03-19T21:07:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://www.python-vigo.es/categories/python314.xml</loc>
@@ -151,14 +159,14 @@
  </sitemap>
  <sitemap>
   <loc>https://www.python-vigo.es/categories/vigo.xml</loc>
-  <lastmod>2026-02-17T00:48:00Z</lastmod>
+  <lastmod>2026-03-19T21:07:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://www.python-vigo.es/rss.xml</loc>
-  <lastmod>2026-02-17T00:48:00Z</lastmod>
+  <lastmod>2026-03-19T21:07:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://www.python-vigo.es/sitemap.xml</loc>
-  <lastmod>2026-02-17T00:48:00Z</lastmod>
+  <lastmod>2026-03-19T21:07:00Z</lastmod>
  </sitemap>
 </sitemapindex>
