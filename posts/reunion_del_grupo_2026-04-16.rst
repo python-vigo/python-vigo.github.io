@@ -1,6 +1,6 @@
 .. title: Reunión abril 2026
 .. slug: reunion-abril-2026
-.. date: 2026-04-14 20:00:00 UTC+02:00
+.. date: 2026-04-13 20:00:00 UTC+02:00
 .. meeting_datetime: 20260416_2000
 .. tags: python, vigo, open space, comunidad
 .. category:
