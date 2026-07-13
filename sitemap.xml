@@ -59,7 +59,7 @@
  </url>
  <url>
   <loc>https://www.python-vigo.es/archive.html</loc>
-  <lastmod>2026-06-16T13:17:00Z</lastmod>
+  <lastmod>2026-07-13T19:08:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.python-vigo.es/authors/</loc>
@@ -79,7 +79,7 @@
  </url>
  <url>
   <loc>https://www.python-vigo.es/categories/</loc>
-  <lastmod>2026-06-16T13:17:00Z</lastmod>
+  <lastmod>2026-07-13T19:08:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.python-vigo.es/categories/aprendizaje/</loc>
@@ -234,6 +234,10 @@
   <lastmod>2024-11-14T00:03:00Z</lastmod>
  </url>
  <url>
+  <loc>https://www.python-vigo.es/categories/verano/</loc>
+  <lastmod>2026-07-13T19:08:00Z</lastmod>
+ </url>
+ <url>
   <loc>https://www.python-vigo.es/categories/vigo/</loc>
   <lastmod>2024-11-14T00:03:00Z</lastmod>
  </url>
@@ -243,7 +247,7 @@
  </url>
  <url>
   <loc>https://www.python-vigo.es/index-10.html</loc>
-  <lastmod>2026-06-16T13:17:00Z</lastmod>
+  <lastmod>2026-07-13T19:08:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.python-vigo.es/index-2.html</loc>
@@ -292,6 +296,10 @@
  <url>
   <loc>https://www.python-vigo.es/posts/descanso-verano-julio-2025/</loc>
   <lastmod>2025-07-14T22:19:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://www.python-vigo.es/posts/descanso-verano-julio-2026/</loc>
+  <lastmod>2026-07-13T19:08:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.python-vigo.es/posts/lista-de-correo/</loc>

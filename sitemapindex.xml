@@ -15,7 +15,7 @@
  </sitemap>
  <sitemap>
   <loc>https://www.python-vigo.es/authors/python-vigo.xml</loc>
-  <lastmod>2026-06-16T13:17:00Z</lastmod>
+  <lastmod>2026-07-13T19:08:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://www.python-vigo.es/categories/aprendizaje.xml</loc>
@@ -27,7 +27,7 @@
  </sitemap>
  <sitemap>
   <loc>https://www.python-vigo.es/categories/comunidad.xml</loc>
-  <lastmod>2026-06-16T13:17:00Z</lastmod>
+  <lastmod>2026-07-13T19:08:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://www.python-vigo.es/categories/data-science.xml</loc>
@@ -127,7 +127,7 @@
  </sitemap>
  <sitemap>
   <loc>https://www.python-vigo.es/categories/python.xml</loc>
-  <lastmod>2026-06-16T13:17:00Z</lastmod>
+  <lastmod>2026-07-13T19:08:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://www.python-vigo.es/categories/python314.xml</loc>
@@ -170,15 +170,19 @@
   <lastmod>2024-11-14T00:03:00Z</lastmod>
  </sitemap>
  <sitemap>
+  <loc>https://www.python-vigo.es/categories/verano.xml</loc>
+  <lastmod>2026-07-13T19:08:00Z</lastmod>
+ </sitemap>
+ <sitemap>
   <loc>https://www.python-vigo.es/categories/vigo.xml</loc>
-  <lastmod>2026-06-16T13:17:00Z</lastmod>
+  <lastmod>2026-07-13T19:08:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://www.python-vigo.es/rss.xml</loc>
-  <lastmod>2026-06-16T13:17:00Z</lastmod>
+  <lastmod>2026-07-13T19:08:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://www.python-vigo.es/sitemap.xml</loc>
-  <lastmod>2026-06-16T13:17:00Z</lastmod>
+  <lastmod>2026-07-13T19:08:00Z</lastmod>
  </sitemap>
 </sitemapindex>
