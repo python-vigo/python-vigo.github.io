@@ -1,4 +1,4 @@
-.. title: Descanso de agosto y vuelta en septiembre con Open Space
+.. title: Descanso de agosto y vuelta en septiembre
 .. slug: descanso-agosto-vuelta-septiembre-open-space
 .. date: 2026-08-18 18:15:00 UTC+02:00
 .. meeting_datetime:
