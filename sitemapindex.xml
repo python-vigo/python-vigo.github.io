@@ -15,7 +15,7 @@
  </sitemap>
  <sitemap>
   <loc>https://www.python-vigo.es/authors/python-vigo.xml</loc>
-  <lastmod>2026-08-18T19:17:00Z</lastmod>
+  <lastmod>2026-09-14T19:36:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://www.python-vigo.es/categories/aprendizaje.xml</loc>
@@ -27,7 +27,7 @@
  </sitemap>
  <sitemap>
   <loc>https://www.python-vigo.es/categories/comunidad.xml</loc>
-  <lastmod>2026-08-18T19:17:00Z</lastmod>
+  <lastmod>2026-09-14T19:36:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://www.python-vigo.es/categories/data-science.xml</loc>
@@ -99,7 +99,11 @@
  </sitemap>
  <sitemap>
   <loc>https://www.python-vigo.es/categories/open-space.xml</loc>
-  <lastmod>2026-08-18T19:17:00Z</lastmod>
+  <lastmod>2026-08-18T19:20:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://www.python-vigo.es/categories/openspace.xml</loc>
+  <lastmod>2026-09-14T19:36:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://www.python-vigo.es/categories/pandas.xml</loc>
@@ -127,7 +131,7 @@
  </sitemap>
  <sitemap>
   <loc>https://www.python-vigo.es/categories/python.xml</loc>
-  <lastmod>2026-08-18T19:17:00Z</lastmod>
+  <lastmod>2026-09-14T19:36:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://www.python-vigo.es/categories/python314.xml</loc>
@@ -140,6 +144,10 @@
  <sitemap>
   <loc>https://www.python-vigo.es/categories/quantum.xml</loc>
   <lastmod>2024-11-14T00:03:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://www.python-vigo.es/categories/reencuentro.xml</loc>
+  <lastmod>2026-09-14T19:36:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://www.python-vigo.es/categories/release.xml</loc>
@@ -171,18 +179,18 @@
  </sitemap>
  <sitemap>
   <loc>https://www.python-vigo.es/categories/verano.xml</loc>
-  <lastmod>2026-08-18T19:17:00Z</lastmod>
+  <lastmod>2026-08-18T19:20:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://www.python-vigo.es/categories/vigo.xml</loc>
-  <lastmod>2026-08-18T19:17:00Z</lastmod>
+  <lastmod>2026-09-14T19:36:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://www.python-vigo.es/rss.xml</loc>
-  <lastmod>2026-08-18T19:17:00Z</lastmod>
+  <lastmod>2026-09-14T19:36:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://www.python-vigo.es/sitemap.xml</loc>
-  <lastmod>2026-08-18T19:17:00Z</lastmod>
+  <lastmod>2026-09-14T19:36:00Z</lastmod>
  </sitemap>
 </sitemapindex>
