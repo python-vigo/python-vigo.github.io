@@ -59,7 +59,7 @@
  </url>
  <url>
   <loc>https://www.python-vigo.es/archive.html</loc>
-  <lastmod>2026-10-12T14:26:00Z</lastmod>
+  <lastmod>2026-11-17T18:35:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.python-vigo.es/authors/</loc>
@@ -263,7 +263,7 @@
  </url>
  <url>
   <loc>https://www.python-vigo.es/index-10.html</loc>
-  <lastmod>2026-10-12T14:26:00Z</lastmod>
+  <lastmod>2026-11-17T18:35:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.python-vigo.es/index-2.html</loc>
@@ -688,6 +688,10 @@
  <url>
   <loc>https://www.python-vigo.es/posts/reunion-noviembre-2025/</loc>
   <lastmod>2025-11-17T00:15:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://www.python-vigo.es/posts/reunion-noviembre-2026/</loc>
+  <lastmod>2026-11-17T18:35:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.python-vigo.es/posts/reunion-octubre-2022/</loc>
